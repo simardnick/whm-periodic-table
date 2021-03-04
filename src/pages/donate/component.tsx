@@ -19,9 +19,6 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
       "_blank"
     );
   };
-  const onFundClick = () => {
-    window.open("https://www.buymeacoffee.com/icozamiz", "_blank");
-  };
   return (
     <Box className="donate-page">
       <Box className="info-container">
