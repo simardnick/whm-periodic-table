@@ -12,16 +12,7 @@ export interface IDonatePageProps extends RouteComponentProps {
 
 export const DonatePage = ({ isFrench }: IDonatePageProps) => {
   const lang = isFrench ? donateFr : donateEn;
-  const {
-    title,
-    description,
-    infoPoints,
-    buttonText,
-    title2,
-    description2,
-    infoPoints2,
-    buttonText2,
-  } = lang;
+  const { title, description, infoPoints, buttonText } = lang;
   const onDonateClick = () => {
     window.open(
       "https://secure2.convio.net/cadwf/site/Donation2?idb=255209158&df_id=2183&2183.donation=form1&mfc_pref=T",
@@ -48,7 +39,7 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
           {buttonText}
         </Button>
       </Box>
-      <Box className="info-container">
+      {/* <Box className="info-container">
         <h1>{title2}</h1>
         <div className="info">
           <p className="info-description">{description2}</p>
@@ -62,7 +53,7 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
         <Button className="donate-button" onClick={() => onFundClick()}>
           {buttonText2}
         </Button>
-      </Box>
+      </Box> */}
     </Box>
   );
 };
