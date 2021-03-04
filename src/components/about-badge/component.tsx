@@ -24,6 +24,14 @@ export const AboutBadge = ({ className }: IAboutBadgeProps) => {
         href="https://www.linkedin.com/in/isabela-ozamiz-68458a67/"
       >
         Isabela Ozamiz
+      </a>
+      ,{" "}
+      <a
+        target="_blank"
+        rel="noreferrer"
+        href="https://www.linkedin.com/in/sara-santini-04b043b4/"
+      >
+        Sara Santini
       </a>{" "}
       and{" "}
       <a
@@ -33,22 +41,15 @@ export const AboutBadge = ({ className }: IAboutBadgeProps) => {
       >
         Nicholas Simard
       </a>{" "}
-      in co-operation with{" "}
-      <a
-        target="_blank"
-        rel="noreferrer"
-        href="https://www.linkedin.com/in/sara-santini-04b043b4/"
-      >
-        Sara Santini
+      <span>in co-operation with</span>{" "}
+      <a target="_blank" rel="noreferrer" href="https://twitter.com/MrOzamiz">
+        Mr. Ozamiz
       </a>{" "}
-      <span>and</span>{" "}
-      <a
-        target="_blank"
-        rel="noreferrer"
-        href="https://www.linkedin.com/in/sara-santini-04b043b4/"
-      >
-        Jenna Reid
+      and{" "}
+      <a target="_blank" rel="noreferrer" href="https://twitter.com/lemjen22">
+        Ms. Lemon
       </a>
+      <span>; teachers in Ottawa, ON, Canada.</span>
     </Box>
   );
 };
