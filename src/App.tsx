@@ -8,7 +8,7 @@ import { ICategory } from "./types";
 import { useWindowSize } from "./hooks/useWindowSize";
 import { useDeviceTypes } from "./hooks/useDeviceTypes";
 import { CategoryTable } from "./components/category-table";
-import { AboutPage, DonatePage, DownloadPage } from "./pages";
+import { AboutPage } from "./pages";
 import clsx from "clsx";
 import MenuIcon from "@material-ui/icons/Menu";
 
