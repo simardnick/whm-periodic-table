@@ -567,7 +567,8 @@ export const jsonData: IElement[] = [
     dates: "1896–1981",
     urlLink:
       "https://www.thecanadianencyclopedia.ca/en/article/therese-casgrain#",
-    infoBlurb: "Within a decade, Dickinson was sole owner of the firm.",
+    infoBlurb:
+      "Thérèse Casgrain, née Forget, CC, OBE, reformer, activist, feminist, politician (born 10 July 1896 in Montréal, QC; died 2 November 1981 in Montréal). Best remembered for leading the campaign for women's suffrage in Québec, Thérèse Casgrain was the first woman to be elected the leader of a political party in Canada. She had a long political career and vigorously fought against social, economic and political injustices affecting both women and men.",
     imageUrl: "5.jpg",
   },
   {
