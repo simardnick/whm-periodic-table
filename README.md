@@ -1,4 +1,4 @@
-# Periodic Table of Canadian Black History
+# Periodic Table of Canadian Women's History
 
 This project was created using data from [Parents for Diversity](https://www.parentsfordiversity.com/) in co-operation with [Mr.Ozamiz](https://twitter.com/MrOzamiz) a teacher in Ottawa, ON, Canada.
 
