@@ -53,7 +53,7 @@
     text-align: center;
     &.desktop {
       height: calc((var(--vh) * 100));
-      overflow: hidden;
+      overflow: auto;
     }
     .p4d-logo {
       background: $grey;
