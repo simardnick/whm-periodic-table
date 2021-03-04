@@ -11,7 +11,7 @@ export const donateEn = {
   buttonText: "Donate",
   title2: "Fund this project",
   description2:
-    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket all donations are welcome as we continue to create resources for Canadians.",
+    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket; all donations are welcome as we continue to create resources for Canadians.",
   infoPoints2: [],
   buttonText2: "Donate",
 };
@@ -29,7 +29,7 @@ export const donateFr = {
   buttonText: "Donate",
   title2: "Fund this project",
   description2:
-    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket all donations are welcome as we continue to create resources for Canadians.",
+    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket; all donations are welcome as we continue to create resources for Canadians.",
   infoPoints2: [],
   buttonText2: "Donate",
 };
