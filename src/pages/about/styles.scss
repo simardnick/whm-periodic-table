@@ -12,10 +12,27 @@
     margin: 0 10vw;
     margin-bottom: 1vh;
   }
+  h3 {
+    margin: 0 10vw;
+    margin-bottom: 1vh;
+  }
   p {
     line-height: 1.5;
     font-size: 18px;
     margin: 0 10vw;
     margin-bottom: 1vh;
+  }
+  .donate-button {
+    box-sizing: border-box;
+    border: 2px solid $grey !important;
+    background: $white !important;
+    box-shadow: 2px 2px $grey;
+    color: $grey !important;
+    border-radius: 12px;
+    padding: 6px;
+    margin: 2vh 25vw;
+    font-weight: normal;
+    font-size: 16px;
+    align-self: center;
   }
 }

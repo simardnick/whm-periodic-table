@@ -2,9 +2,10 @@
 .show-list-button {
   width: 170px;
   box-sizing: border-box;
-  border: 2px solid $white !important;
+  border: 2px solid $grey !important;
+  background: $white !important;
   box-shadow: 2px 2px $grey;
-  color: $white !important;
+  color: $grey !important;
   border-radius: 12px;
   padding: 6px;
   margin-top: 6px;

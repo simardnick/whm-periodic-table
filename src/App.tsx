@@ -8,7 +8,7 @@ import { ICategory } from "./types";
 import { useWindowSize } from "./hooks/useWindowSize";
 import { useDeviceTypes } from "./hooks/useDeviceTypes";
 import { CategoryTable } from "./components/category-table";
-import { AboutPage } from "./pages";
+import { AboutPage, DonatePage } from "./pages";
 import clsx from "clsx";
 import MenuIcon from "@material-ui/icons/Menu";
 
@@ -73,11 +73,24 @@ function App() {
               {isFrench ? "À propos de" : "About"}
             </MenuItem>
           </Link>
+          <Link to="/donate" className="menu-link">
+            <MenuItem onClick={() => handleClose()}>
+              {isFrench ? "Donné" : "Donate"}
+            </MenuItem>
+          </Link>
           <Link to="/table" className="menu-link">
             <MenuItem onClick={() => handleClose()}>
               {isFrench ? "Tableau" : "Table"}
             </MenuItem>
           </Link>
+          <MenuItem
+            onClick={() => {
+              handleClose();
+              window.open("https://cbhtable.com/", "_blank");
+            }}
+          >
+            CBH Table
+          </MenuItem>
         </Menu>
         <Switch>
           <Route
@@ -102,8 +115,8 @@ function App() {
                 ></DownloadPage>
               </Box>
             )}
-          ></Route>
-          <Route 
+            ></Route>*/}
+          <Route
             path="/donate"
             render={(browserRouterProps: RouteComponentProps) => (
               <Box className={clsx("donate-page-container", containerClass)}>
@@ -113,8 +126,7 @@ function App() {
                 ></DonatePage>
               </Box>
             )}
-            ></Route>
-            */}
+          ></Route>
           <Route path="/">
             <Box className={clsx("whm-periodic-table-app", containerClass)}>
               <h1 className="whm-title">

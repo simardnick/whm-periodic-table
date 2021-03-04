@@ -1,23 +1,35 @@
 export const donateEn = {
-  title: "Donate to Parents For Diversity",
+  title: "Donate to Canadian Women's Foundation",
   description:
-    "Parents for Diversity is a collective of parents and allies committed to ensuring every child’s right to an education free from discrimination. We advocate for schools, families and communities to promote equity and inclusive education and to take meaningful steps to protect human rights for all by:",
+    "Canadian Women’s Foundation focuses on the most critical challenges facing women and girls, and invests in the most effective solutions for long-term change. The Foundation funds programs in the following issue areas:",
   infoPoints: [
-    "raising awareness about the implications of racism, intolerance and discrimination in the education system on all members of society;",
-    "developing workshops, materials and resources for families and schools;",
-    "supporting caregivers and families to advocate for children who experience discrimination or bias in schools.",
+    '<a href="https://canadianwomen.org/out-of-violence/" target="_blank">Out of Violence:</a> Like you, we want all women and girls to live free of violence.',
+    '<a href="https://canadianwomen.org/out-of-poverty/" target="_blank">Out of Poverty:</a> Like you, we want women living on low incomes to have opportunities to move themselves out of poverty.',
+    '<a href="https://canadianwomen.org/empower-girls/" target="_blank">Empower Girls:</a> Like you, we want all girls to believe in themselves and realize they matter.',
+    '<a href="https://canadianwomen.org/inclusive-leadership/" target="_blank">Inclusive Leadership:</a> Like you, we want all women and girls to realize their potential for leadership.',
   ],
-  buttonText: "Donate Now",
+  buttonText: "Donate",
+  title2: "Fund this project",
+  description2:
+    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket all donations are welcome as we continue to create resources for Canadians.",
+  infoPoints2: [],
+  buttonText2: "Donate",
 };
 
 export const donateFr = {
-  title: "Faites un don aux Parents For Diversity",
+  title: "Donate to Canadian Women's Foundation",
   description:
-    "Parents for Diversity est un collectif de parents et d’alliés déterminés à garantir le droit de chaque enfant à une éducation sans discrimination. Nous plaidons pour que les écoles, les familles et les communautés promeuvent l'équité et l'éducation inclusive et prennent des mesures significatives pour protéger les droits humains pour tous en:",
+    "Canadian Women’s Foundation focuses on the most critical challenges facing women and girls, and invests in the most effective solutions for long-term change. The Foundation funds programs in the following issue areas:",
   infoPoints: [
-    "sensibiliser tous les membres de la société aux implications du racisme, de l'intolérance et de la discrimination dans le système éducatif;",
-    "développer des ateliers, du matériel et des ressources pour les familles et les écoles;",
-    "aider les soignants et les familles à défendre les enfants victimes de discrimination ou de préjugés à l'école.",
+    '<a href="https://canadianwomen.org/out-of-violence/" target="_blank">Out of Violence:</a> Like you, we want all women and girls to live free of violence.',
+    '<a href="https://canadianwomen.org/out-of-poverty/" target="_blank">Out of Poverty:</a> Like you, we want women living on low incomes to have opportunities to move themselves out of poverty.',
+    '<a href="https://canadianwomen.org/empower-girls/" target="_blank">Empower Girls:</a> Like you, we want all girls to believe in themselves and realize they matter.',
+    '<a href="https://canadianwomen.org/inclusive-leadership/" target="_blank">Inclusive Leadership:</a> Like you, we want all women and girls to realize their potential for leadership.',
   ],
-  buttonText: "Faire un don maintenant",
+  buttonText: "Donate",
+  title2: "Fund this project",
+  description2:
+    "These educational resources could use your support to stay running. Currently, we fund these websites out of pocket all donations are welcome as we continue to create resources for Canadians.",
+  infoPoints2: [],
+  buttonText2: "Donate",
 };
