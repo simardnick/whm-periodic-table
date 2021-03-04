@@ -48,7 +48,7 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
           {buttonText}
         </Button>
       </Box>
-      <Box className="info-container">
+      {/* <Box className="info-container">
         <h1>{title2}</h1>
         <div className="info">
           <p className="info-description">{description2}</p>
@@ -62,7 +62,7 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
         <Button className="donate-button" onClick={() => onFundClick()}>
           {buttonText2}
         </Button>
-      </Box>
+      </Box> */}
     </Box>
   );
 };
