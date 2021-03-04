@@ -1,0 +1,60 @@
+@import "../../color-constants.scss";
+
+.legend {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  border: 1px solid $border;
+  padding: 6px;
+  .legend-item {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    padding: 6px;
+    .icon {
+      height: 1vw;
+      width: 1vw;
+      border: 3px solid transparent;
+      &.activists {
+        background-color: $activists;
+      }
+      &.artists {
+        background-color: $artists;
+      }
+      &.athletes {
+        background-color: $athletes;
+      }
+      &.firsts {
+        background-color: $firsts;
+      }
+      &.entrepreneurs {
+        background-color: $entrepreneurs;
+      }
+      &.government {
+        background-color: $government;
+      }
+      &.stem {
+        background-color: $stem;
+      }
+      &.musicians {
+        background-color: $musician;
+      }
+      &.poets {
+        background-color: $poets;
+      }
+      &.theatre {
+        background-color: $theatre;
+      }
+      &.writers {
+        background-color: $writers;
+      }
+      &.selected {
+        border: 3px solid $selected;
+      }
+    }
+    .label {
+      padding: 0 6px;
+      text-align: start;
+      font-size: 1vw;
+      font-weight: bold;
+    }
+  }
+}

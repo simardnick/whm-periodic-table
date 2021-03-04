@@ -1,0 +1,33 @@
+@import "../../color-constants.scss";
+
+.element-info-card {
+  box-sizing: border-box;
+  border: solid black 1px;
+  overflow: hidden;
+  display: grid;
+  grid-column: 3/13;
+  grid-row: 2/4;
+  display: flex;
+  width: 50vw;
+  height: 10vw;
+  .element-image {
+    height: 10vw;
+  }
+  .element-info {
+    padding: 12px;
+    background-color: white;
+    display: grid;
+    align-items: start;
+    text-align: start;
+    overflow: none;
+    grid-template-rows: auto 1fr;
+    row-gap: 6px;
+    .title {
+      font-weight: bold;
+    }
+
+    .info-blurb {
+      font-size: 1vw;
+    }
+  }
+}

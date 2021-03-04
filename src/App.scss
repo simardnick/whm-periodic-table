@@ -1,0 +1,148 @@
+@import "./color-constants.scss";
+
+.app-container {
+  position: relative;
+  .language-toggle {
+    cursor: pointer;
+    color: $grey;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-weight: bold;
+    text-decoration: underline;
+    &.mobile {
+      color: $grey;
+      top: 12px;
+      right: 12px;
+      left: unset;
+    }
+  }
+  .menu-button {
+    color: $grey;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    &.mobile {
+      color: $grey;
+      position: unset;
+      top: unset;
+      right: unset;
+    }
+  }
+  .download-page-container,
+  .about-page-container,
+  .donate-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    &.desktop {
+      height: calc((var(--vh) * 100));
+    }
+    &.mobile {
+      .donate-page,
+      .about-page {
+        margin: 14vh 5vw;
+      }
+    }
+  }
+  .whm-periodic-table-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    &.desktop {
+      height: calc((var(--vh) * 100));
+      overflow: hidden;
+    }
+    .p4d-logo {
+      background: $grey;
+      border-radius: 6px;
+      position: absolute;
+      bottom: 12px;
+      left: 12px;
+      height: 70px;
+      padding: 12px;
+    }
+    &.mobile {
+      .p4d-logo {
+        background: $grey;
+        border-radius: 6px;
+        position: absolute;
+        bottom: 12px;
+        right: 12px;
+        left: unset;
+        height: 36px;
+        padding: 12px;
+      }
+      .about-badge {
+        width: 180px;
+      }
+      .element-card {
+        &:hover {
+          &.activists {
+            background-color: $activists;
+          }
+          &.artists {
+            background-color: $artists;
+          }
+          &.athletes {
+            background-color: $athletes;
+          }
+          &.firsts {
+            background-color: $firsts;
+          }
+          &.entrepreneurs {
+            background-color: $entrepreneurs;
+          }
+          &.government {
+            background-color: $government;
+          }
+          &.stem {
+            background-color: $stem;
+          }
+          &.musician {
+            background-color: $musician;
+          }
+          &.poets {
+            background-color: $poets;
+          }
+          &.theatre {
+            background-color: $theatre;
+          }
+          &.writers {
+            background-color: $writers;
+          }
+        }
+      }
+    }
+    .whm-title {
+      font-size: 36px;
+      border-radius: 6px;
+      background-color: white;
+      box-sizing: border-box;
+      border: 1px solid $grey;
+      padding: 12px;
+      margin: 12px;
+    }
+    .whm-periodic-table-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      .legend-container {
+        margin: 24px 0;
+        .legend {
+          border-radius: 6px;
+          background-color: white;
+          color: $grey;
+        }
+      }
+    }
+  }
+}
+
+.menu-link {
+  text-decoration: none;
+  color: $grey;
+}

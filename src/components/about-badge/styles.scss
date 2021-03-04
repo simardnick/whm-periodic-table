@@ -1,0 +1,14 @@
+@import "../../color-constants.scss";
+.about-badge {
+  text-align: center;
+  font-size: 9px;
+  color: $grey;
+  padding: 0 24px 24px 12px;
+  &.mobile {
+    font-size: 8px;
+  }
+  a {
+    color: $grey;
+    cursor: pointer;
+  }
+}
