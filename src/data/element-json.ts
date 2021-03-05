@@ -133,13 +133,12 @@ export const jsonData: IElement[] = [
   {
     number: "116",
     category: "artists",
-    id: "Ph",
-    name: "Prudence Heward",
-    dates: "1896-1947",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/prudence-heward",
+    id: "Rw",
+    name: "Ravyn Wngz",
+    dates: "---",
+    urlLink: "https://www.patreon.com/ravynwngz",
     infoBlurb:
-      'Prudence Heward was a Canadian painter principally known for her figure painting with "brilliant acid colours, sculptural treatment, and an intense brooding quality". She was a member of the Beaver Hall Group and a co-founder of the Canadian Group of Painters and the Contemporary Arts Society.',
+      "Ravyn Wngz has a vision to create work, art, and conversations that open the minds and the hearts of all people, the goal is to encourage self reflection, and empathy that will ultimately create fundamental change and inclusion. As an Empowerment Movement Storyteller Wngz aims to challenge mainstream arts and dance spaces by Sharing her stories as a Tanzanian, Bermudian, Queer, 2 Spirit, Transcendent, Mohawk individual.",
     imageUrl: "116.jpg",
   },
   {
@@ -620,13 +619,13 @@ export const jsonData: IElement[] = [
   {
     number: "52",
     category: "government",
-    id: "Et",
-    name: "Eileen Tallman Sufrin",
-    dates: "1913–1999",
+    id: "Jlm",
+    name: "Julie Lemieux",
+    dates: "---",
     urlLink:
-      "http://section15.ca/features/people/2001/07/13/eileen_tallman_sufrin/",
+      "https://www.chatelaine.com/living/women-of-the-year-2017/image/12/#gallery/woty-2017/slide-12",
     infoBlurb:
-      "Blanche Eileen Tallman Sufrin (née Tallman; January 19, 1913 – March 20, 1999) was a Canadian author and labour activist. In 1942, she led a strike of bank employees in Montreal, the first strike in the Canadian banking industry. She later led a drive to unionize employees at Eaton's and helped organize 9,000 Eaton's employees between 1948 and 1952. While the attempt was unsuccessful, the pressure led Eaton’s to increase employee salaries and benefits. In 1979, Sufrin was one of seven women awarded the Governor General’s Medal, commemorating the 50th anniversary of the Persons Case.[5]",
+      "The first trans mayor in Canadian history: The big election issue in the tiny village of Très-Saint-Redempteur, Que., was whether residents could keep backyard chickens, not whether it mattered that mayoral candidate Julie Lemieux was born female or male. The trans woman, who had been a councillor in the historically Catholic western Quebec municipality since 2013, won with 48 percent of the vote. Then she got down to business, working to ensure that her neighbours will be able to keep their own roosters and hens.",
     imageUrl: "52.jpg",
   },
   {
@@ -784,12 +783,12 @@ export const jsonData: IElement[] = [
   {
     number: "21",
     category: "stem",
-    id: "Jp",
-    name: "Julie Payette",
+    id: "Maa",
+    name: "Maydianne Andrade",
     dates: "1963",
     urlLink: "https://www.thecanadianencyclopedia.ca/en/article/julie-payette",
     infoBlurb:
-      "Payette, is also a former astronaut, engineer, scientist and corporate director. Payette flew two rocket missions and spent a total of 25 days in space. She has served at both NASA and as a chief astronaut for the Canadian Space Agency, according to her website. Payette obtained her Bachelor of Electrical Engineering from McGill University and a Master of Applied Science in Computer Engineering from the University of Toronto. She worked as a system engineer with IBM Canada between getting her degrees and was a visiting scientist at the IBM Research Laboratory in Zurich, Switzerland after completing both. Payette can also converse in six languages, play the piano and has sung with four musical groups.",
+      'Maydianne Andrade is a Jamaican-born Canadian ecologist. She is known for her work on the mating habits of spiders, in particular spiders belonging to the Latrodectus species. In 2005, she was named one of the Brilliant 10 by Popular Science magazine. In 2007, she was named a Canadian Research Chair in Integrative Behavioural Ecology. Her best known work is about the mating habits of Australian redback spiders where the most successful males often increase the amount of time they spend mating while being cannibalized by female redbacks. She appeared in the second episode of Season 4 of Nova ScienceNow. In 2020 she was featured in and presented an episode of CBC\'s The Nature of Things with David Suzuki about recent discoveries at the Burgess Shale, called "First Animals", and was interviewed for Quirks & Quarks on her research and work towards racial equity in STEM.',
     imageUrl: "21.jpg",
   },
   {
