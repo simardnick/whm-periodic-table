@@ -32,16 +32,16 @@ export const AboutBadge = ({ className }: IAboutBadgeProps) => {
         href="https://www.linkedin.com/in/sara-santini-04b043b4/"
       >
         Sara Santini
-      </a>{" "}
-      and{" "}
+      </a>
+      ,{" "}
       <a
         target="_blank"
         rel="noreferrer"
         href="https://www.linkedin.com/in/nicholas-simard-6a41a2129/"
       >
         Nicholas Simard
-      </a>{" "}
-      <span>in co-operation with</span>{" "}
+      </a>
+      , and Jenna Reid <span>in co-operation with</span>{" "}
       <a target="_blank" rel="noreferrer" href="https://twitter.com/MrOzamiz">
         Mr. Ozamiz
       </a>{" "}

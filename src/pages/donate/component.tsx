@@ -36,21 +36,6 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
           {buttonText}
         </Button>
       </Box>
-      {/* <Box className="info-container">
-        <h1>{title2}</h1>
-        <div className="info">
-          <p className="info-description">{description2}</p>
-          {infoPoints2.map((point) => (
-            <div className="donate-point">
-              <ArrowRight />
-              <p dangerouslySetInnerHTML={{ __html: point }}></p>
-            </div>
-          ))}
-        </div>
-        <Button className="donate-button" onClick={() => onFundClick()}>
-          {buttonText2}
-        </Button>
-      </Box> */}
     </Box>
   );
 };
