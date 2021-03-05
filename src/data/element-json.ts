@@ -786,7 +786,7 @@ export const jsonData: IElement[] = [
     id: "Maa",
     name: "Maydianne Andrade",
     dates: "1963",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/julie-payette",
+    urlLink: "https://www.maydianne.com/",
     infoBlurb:
       'Maydianne Andrade is a Jamaican-born Canadian ecologist. She is known for her work on the mating habits of spiders, in particular spiders belonging to the Latrodectus species. In 2005, she was named one of the Brilliant 10 by Popular Science magazine. In 2007, she was named a Canadian Research Chair in Integrative Behavioural Ecology. Her best known work is about the mating habits of Australian redback spiders where the most successful males often increase the amount of time they spend mating while being cannibalized by female redbacks. She appeared in the second episode of Season 4 of Nova ScienceNow. In 2020 she was featured in and presented an episode of CBC\'s The Nature of Things with David Suzuki about recent discoveries at the Burgess Shale, called "First Animals", and was interviewed for Quirks & Quarks on her research and work towards racial equity in STEM.',
     imageUrl: "21.jpg",
