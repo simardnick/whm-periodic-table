@@ -171,7 +171,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/en/article/tessa-virtue-and-scott-moir",
     infoBlurb:
-      "essa Jane McCormick Virtue CM (born May 17, 1989) is a Canadian retired ice dancer. With ice dance partner Scott Moir, she is the 2010 and 2018 Olympic champion, the 2014 Olympic silver medallist, a three-time World champion (2010, 2012, 2017), a three-time Four Continents champion (2008, 2012, 2017), the 2016–17 Grand Prix Final champion, an eight-time Canadian National champion (2008–2010, 2012–2014, 2017–2018), the 2006 World Junior champion and the 2006 Junior Grand Prix gold medallists.",
+      "Tessa Jane McCormick Virtue CM (born May 17, 1989) is a Canadian retired ice dancer. With ice dance partner Scott Moir, she is the 2010 and 2018 Olympic champion, the 2014 Olympic silver medallist, a three-time World champion (2010, 2012, 2017), a three-time Four Continents champion (2008, 2012, 2017), the 2016–17 Grand Prix Final champion, an eight-time Canadian National champion (2008–2010, 2012–2014, 2017–2018), the 2006 World Junior champion and the 2006 Junior Grand Prix gold medallists.",
     imageUrl: "30.jpg",
   },
   {

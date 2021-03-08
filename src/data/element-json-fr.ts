@@ -33,7 +33,7 @@ export const jsonData: IElement[] = [
     dates: "1989",
     urlLink: "http://elmanpeace.org/ilwad-elman/",
     infoBlurb:
-      "Ilwad est rentré du Canada en Somalie en 2010 alors que le conflit faisait toujours rage et que la majorité des régions de Mogadiscio et du centre-sud de la Somalie étaient perdues sous le contrôle du groupe terroriste Al-Shabaab lié à Al-Qaïda. Elle est restée en Somalie depuis lors, co-fonder le premier centre de crise de viol pour les survivants de violence sexuelle et sexiste, concevoir des interventions visant la réforme du secteur de la sécurité afin de créer un espace inclusif pour les femmes dans la consolidation de la paix, et développer des programmes pour le désarmement et la réhabilitation des enfants soldats et des adultes groupes armés pour leur autonameisation socio-éconameique, leur réhabilitation et leur réintégration. ",
+      "Ilwad s'est rentourné au Canada de la Somalie en 2010 alors que le conflit faisait toujours rage et que la majorité des régions de Mogadiscio et du centre-sud de la Somalie étaient perdues sous le contrôle du groupe terroriste Al-Shabaab lié à Al-Qaïda. Elle est restée en Somalie depuis lors, co-fonder le premier centre de crise de viol pour les survivants de violence sexuelle et sexiste, concevoir des interventions visant la réforme du secteur de la sécurité afin de créer un espace inclusif pour les femmes dans la consolidation de la paix, et développer des programmes pour le désarmement et la réhabilitation des enfants soldats et des groupes armés pour leur autonomisation socio-éconameique, leur réhabilitation et leur réintégration. ",
     imageUrl: "49.jpg",
   },
   {
@@ -56,7 +56,7 @@ export const jsonData: IElement[] = [
     dates: "1919–2002",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/jean-lumb",
     infoBlurb:
-      "Jean Lumb a été la première femme sino-canadienne et la première restauratrice à être intronisée dans l'Ordre du Canada. Elle est également mieux connue pour son rôle de lobbying réussi auprès du government fédéral pour qu'il modifie ses politiques d'immigration discriminatoires qui séparaient les familles chinoises. Lumb a également dirigé le Save Chinatown. Comité pour empêcher de nouvelles démolitions du quartier chinois de Toronto dans les années 60. ",
+      "Jean Lumb a été la première femme sino-canadienne et la première restauratrice à être intronisée dans l'Ordre du Canada. Elle est mieux connue pour son rôle de lobbying réussi auprès du government fédéral pour qu'il modifie ses politiques d'immigration discriminatoires qui séparaient les familles chinoises. Lumb a également dirigé le Comité Save Chinatown pour empêcher de nouvelles démolitions du quartier chinois de Toronto dans les années 60. ",
     imageUrl: "81.jpg",
   },
   {
@@ -67,7 +67,7 @@ export const jsonData: IElement[] = [
     dates: "-",
     urlLink: "https://saadiam.com/",
     infoBlurb:
-      "Entrepreneur canadien, auteur et fondateur de TechGirls Canada (un organisme sans but lucratif créé pour promouvoir les femmes dans les STIM).",
+      "Entrepreneuse canadienne, auteure et fondateur de TechGirls Canada (un organisme avec but lucratif de promouvoir les femmes dans les STIM).",
     imageUrl: "82.jpg",
   },
   {
@@ -91,7 +91,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/catherine-sutton",
     infoBlurb:
-      "Catherine Sutton (née Sonego ou Sunegoo) (parfois orthographiée Catharine, également connue sous le name de Nahnee, Nahneebahwequa and Upright Woman), écrivain anishinaabe (Mississauga), missionnaire méthodiste et avocate politique (née en 1824 dans les appartements de Credit River, Haut-Canada; décédée le 26 Septembre 1865 dans le canton de Sarawak, comté de Grey, Canada-Ouest). Catherine Sutton a défendu son peuple à une époque où les droits culturels, politiques et éconameiques des peuples autochtones du Canada étaient officiellement érodés par des politiques assimilationnistes. ",
+      "Catherine Sutton (née Sonego ou Sunegoo) (parfois orthographiée Catharine, également connue sous le name de Nahnee, Nahneebahwequa et Upright Woman), écrivaine anishinaabe (Mississauga), missionnaire méthodiste et avocate politique. Catherine Sutton a défendu son peuple à une époque où les droits culturels, politiques et économiques des peuples autochtones du Canada étaient officiellement érodés par des politiques assimilationnistes. ",
     imageUrl: "84.jpg",
   },
   {
@@ -103,7 +103,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/kenojuak-ashevak",
     infoBlurb:
-      "Un artiste inuit inspirant. Né dans un igloo sur la côte sud de l'île de Baffin",
+      "Une artiste inuite inspirant. Né dans un igloo sur la côte sud de l'île de Baffin",
     imageUrl: "113.jpg",
   },
   {
@@ -114,7 +114,7 @@ export const jsonData: IElement[] = [
     dates: "1903-1970",
     urlLink: "https://vivekshraya.com",
     infoBlurb:
-      "Vivek Shraya est une artiste dont le corpus d'œuvres dépasse les frontières de la musique, de la littérature, des arts visuels, du theatre et du cinéma. Son livre à succès I'm Afraid of Men a été qualifié par Vanity Fair de carburant de fusée culturelle, et son album Part ‑ Time Woman a été nameiné pour le prix de musique Polaris. Elle est également la fondatrice de la maison d'édition VS. Books. ",
+      "Vivek Shraya est une artiste dont ces corps d'œuvres dépasse les frontières de la musique, littérature, arts visuels, theatre et cinéma. Son livre à succès I'm Afraid of Men a été qualifié par Vanity Fair de carburant de fusée culturelle, et son album Part ‑ Time Woman a été nominé pour le prix de musique Polaris. Elle est également la fondatrice de la maison d'édition VS. Books. ",
     imageUrl: "114.jpg",
   },
   {
@@ -136,7 +136,7 @@ export const jsonData: IElement[] = [
     dates: "---",
     urlLink: "https://www.patreon.com/ravynwngz",
     infoBlurb:
-      "Ravyn Wngz a pour vision de créer des œuvres, des œuvres d'art et des conversations qui ouvrent l'esprit et le cœur de toutes les personnes, le but est d'encourager la réflexion sur soi et l'empathie qui finiront par créer un changement fondamental et l'inclusion. En tant que conteur du mouvement d'autonameisation Wngz vise à défier les arts et les espaces de danse traditionnels en partageant ses histoires en tant que tanzanienne, bermudienne, queer, 2 Spirit, transcendante, mohawk. ",
+      "Ravyn Wngz a pour vision de créer des œuvres d'art et des conversations qui ouvrent l'esprit et le cœur de toutes les personnes; le but est d'encourager la réflexion sur soi et l'empathie qui finiront par créer un changement fondamental et d'inclusion. Wngz vise aussi à défier les arts et les espaces de danse traditionnels en partageant ses histoires en tant que tanzanienne, bermudienne, queer, 2 Spirit, transcendante, et mohawk. ",
     imageUrl: "116.jpg",
   },
   {
@@ -147,7 +147,7 @@ export const jsonData: IElement[] = [
     dates: "1996",
     urlLink: "https://en.wikipedia.org/wiki/WondaGurl",
     infoBlurb:
-      "Ebony Naomi Oshunrinde (née le 28 décembre 1996), professionnellement connue sous le name de WondaGurl, est une productrice de disques, auteur-compositeur et directrice de disques canadienne. WondaGurl a travaillé avec plusieurs artists éminents de l'industrie de la musique, dont Mariah Carey, Travis Scott, Jay-Z , Drake et Kanye West, entre autres. ",
+      "Ebony Naomi Oshunrinde (née le 28 décembre 1996), connue sous le nom de WondaGurl, est une productrice de disques, auteur-compositrice et directrice de disques canadienne. WondaGurl a travaillé avec plusieurs artists éminents de l'industrie de la musique, dont Mariah Carey, Travis Scott, Jay-Z , Drake et Kanye West, entre autres. ",
     imageUrl: "117.jpg",
   },
   {
@@ -159,7 +159,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/fanny-rosenfeld",
     infoBlurb:
-      "Athlète canadien, médaillé olympique, écrivain sportif. \"Bobbie\" Rosenfeld était un excellent athlète polyvalent. En 1923, elle était la meilleure sprinteuse canadienne et en 1925, elle était number un au 200 mètres, saut en longueur, lancer du poids et disque. Elle a représenté le Canada aux Jeux olympiques d'été d'Amsterdam 1928, remportant l'or au relais 4 x 100 mètres et l'argent au 100 mètres.",
+      "Athlète canadienne, olympienne, et écrivaine sportif. \"Bobbie\" Rosenfeld était un excellent athlète polyvalent. En 1923, elle était la meilleure sprinteuse canadienne et en 1925, elle excelle au course de 200 mètres, saut en longueur, lancer du poids et disque. Elle a représenté le Canada aux Jeux olympiques d'été d'Amsterdam en 1928, et a remporté la médaille d'or au relais 4 x 100 mètres et l'argent au 100 mètres.",
     imageUrl: "29.jpg",
   },
   {
@@ -171,7 +171,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/tessa-virtue-and-scott-moir",
     infoBlurb:
-      "essa Jane McCormick Virtue CM (née le 17 mai 1989) est une danseuse sur glace canadienne à la retraite. Avec son partenaire de danse sur glace Scott Moir, elle est la championne olympique 2010 et 2018, la médaillée d'argent olympique 2014, trois fois championne du monde (2010 , 2012, 2017), triple champion des quatre continents (2008, 2012, 2017), champion de la finale du Grand Prix 2016-2017, huit fois championne nationale canadienne (2008-2010, 2012-2014, 2017-2018) , le champion du monde junior 2006 et les médaillés d'or du Grand Prix junior 2006. ",
+      "Tessa Jane McCormick Virtue CM (née le 17 mai 1989) est une danseuse sur glace canadienne maintenat à la retraite. Avec son partenaire de danse sur glace Scott Moir, elle est la championne olympique en 2010 et en 2018, la médaillée d'argent olympique en 2014, trois fois championne du monde (2010 , 2012, 2017), triple championne des quatre continents (2008, 2012, 2017), championne de la finale du Grand Prix 2016-2017, huit fois championne nationale canadienne (2008-2010, 2012-2014, 2017-2018) , championne du monde junior 2006 et médailliste d'or du Grand Prix junior 2006. ",
     imageUrl: "30.jpg",
   },
   {
@@ -182,7 +182,7 @@ export const jsonData: IElement[] = [
     dates: "1974",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/beckie-scott",
     infoBlurb:
-      "Au moment où elle a remporté la toute première médaille canadienne de cross-country aux Jeux olympiques, Beckie Scott est entrée dans l'histoire, mais elle ne pouvait pas savoir comment cette réalisation allait forger la prochaine partie de sa vie. Elle a terminé troisième en poursuite combinée à ces Salt. Les Jeux olympiques de Lake City, qui ne sont surclassés à l'or olympique qu'après que deux Russes se soient fait prendre en flagrant délit de dopage. Dépouillée de ce moment olympique, elle s'est fait une voix puissante dans la salle de conférence. Elle a rejoint le comité des athletes de l'Agence mondiale antidopage (AMA) en 2005 et en 2012 a été namemé à leur comité exécutif. ",
+      "Au moment où elle a remporté la toute première médaille canadienne de cross-country aux Jeux olympiques, Beckie Scott ne pouvait pas savoir comment cette réalisation allait forger la prochaine partie de sa vie. Elle a terminé troisième en poursuite combinée aux Jeux olympiques de Salt Lake City, mais les deux premières finisseures se fait surclassés à cause d'un délit de dopage. Dépouillée de ce moment olympique, elle Beckie se fait une voix puissante dans la salle de conférence. Elle a rejoint le comité des athletes de l'Agence mondiale antidopage (AMA) en 2005 et en 2012 a été récemment nominé à leur comité exécutif. ",
     imageUrl: "40.jpg",
   },
   {
@@ -205,7 +205,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/bianca-andreescu",
     infoBlurb:
-      "Le 11 août 2019, Andreescu est devenue la première Canadienne depuis Faye Urban en 1969 à remporter la Coupe Rogers. Andreescu a ensuite remporté l'US Open le 7 septembre 2019, faisant d'elle la première joueuse de tennis canadienne en simple à remporter un titre du Grand Chelem. En décembre 2019, elle est devenue la première joueuse de tennis à remporter le trophée Lou Marsh en tant qu'athlète canadienne de l'année. ",
+      "Le 11 août 2019, Andreescu est devenue la première Canadienne depuis Faye Urban en 1969 à remporter la Coupe Rogers. Andreescu a ensuite remporté l'US Open le 7 septembre 2019, devenant la première joueuse de tennis canadienne en simple à remporter un titre Grand Slam. En décembre 2019, elle est devenue la première joueuse de tennis à remporter le trophée Lou Marsh en tant qu'athlète canadienne de l'année. ",
     imageUrl: "42.jpg",
   },
   {
@@ -216,7 +216,7 @@ export const jsonData: IElement[] = [
     dates: "1965",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/silken-laumann",
     infoBlurb:
-      "En 1991, elle était devenue la première rameuse féminine du monde, remportant le championnat de la Coupe du monde et le Championnat du monde cette année-là. Deux mois avant les Jeux Olympiques de 1992 à Barcelone, le bateau de Laumann a été percuté accidentellement alors qu'elle se préparait pour une régate en L'Europe .",
+      "En 1991, elle était devenue la première rameuse féminine du monde et a aussi remporté le championnat de la Coupe du monde. Deux mois avant les Jeux Olympiques de 1992 à Barcelone, le bateau de Laumann a été percuté accidentellement alors qu'elle se préparait pour une régate en Europe .",
     imageUrl: "43.jpg",
   },
   {
@@ -228,7 +228,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/chantal-petitclerc",
     infoBlurb:
-      "La plus grande coureuse en fauteuil roulant du Canada de tous les temps brille les pistes partout où sa carrière la mène - en tant qu'athlète, militante ou politicienne. record du monde en cours de route. Elle est la seule femme paralympienne à avoir remporté le prix Lou Marsh en tant que meilleure athlète au Canada (2008). Elle défend les personnes handicapées et a été chef de mission du Canada pour l'équipe paralympique de Rio 2016 et le Équipe des Jeux du Commonwealth de 2014. Membre du Panthéon des sports canadiens et Compagnon de l'Ordre du Canada, elle a été namemée au Sénat en mars 2016 ",
+      "La plus grande coureuse en fauteuil roulant du Canada de tous les temps brille les pistes partout où sa carrière la mène - en tant qu'athlète, militante ou politicienne. Elle est la seule femme paralympienne à avoir remporté le prix Lou Marsh en tant que meilleure athlète au Canada (2008). Elle défend les personnes handicapées et a été chef de mission du Canada pour l'équipe paralympique de Rio 2016 et le Équipe des Jeux du Commonwealth de 2014. Membre du Panthéon des sports canadiens et Compagnon de l'Ordre du Canada, elle a été nominée au Sénat en mars 2016 ",
     imageUrl: "44.jpg",
   },
   {
@@ -239,7 +239,7 @@ export const jsonData: IElement[] = [
     dates: "1964",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/angela-james",
     infoBlurb:
-      "Elle a également été l'une des trois firsts femmes à être intronisées au Temple de la renamemée de la Fédération internationale de hockey sur glace. Lorsque James a été intronisé au Temple de la renamemée du hockey (à Toronto) en 2010, elle était l'une des deux firsts femmes, la premier joueur ouvertement gay et deuxième athlète noir à être intronisé. ",
+      "Angela James est une des trois femmes à être intronisées au Temple de la renommée de la Fédération internationale de hockey sur glace. Lorsque James a été intronisé au Temple de la renommée du hockey (à Toronto) en 2010, elle était la premièrer joueuse ouvertement gay et deuxième athlète noir à être intronisé. ",
     imageUrl: "45.jpg",
   },
   {
@@ -250,7 +250,7 @@ export const jsonData: IElement[] = [
     dates: "1963",
     urlLink: "https://thecanadianencyclopedia.ca/fr/article/angela-chalmers",
     infoBlurb:
-      "Chalmers est l'une des athletes autochtones les plus accomplies au Canada. Elle a remporté trois médailles d'or au total aux Jeux du Commonwealth en 1990 et 1994. Défenseur des questions autochtones, Chalmers a fait des efforts pour établir des liens avec les jeunes autochtones de partout au Canada et les inspirer. Parmi de numberux honneurs et récompenses, Chalmers a été intronisé au Temple de la renamemée d'Athlétisme Canada en 2019. ",
+      "Chalmers est l'une des athletes autochtones les plus accomplies au Canada. Elle a remporté trois médailles d'or au total aux Jeux du Commonwealth en 1990 et 1994. Défenseuse des questions autochtones, Chalmers a fait des efforts pour établir des liens avec les jeunes autochtones partout au Canada. Parmi de nomberux honneurs et récompenses, Chalmers a été intronisé au Temple de la renommée d'Athlétisme du Canada en 2019. ",
     imageUrl: "46.jpg",
   },
   {
@@ -262,7 +262,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/arlene-dickinson",
     infoBlurb:
-      "En apprenant sa perte d'emploi, une ancienne collègue a contacté Dickinson et lui a offert l'opportunité de rejoindre sa nouvelle société de marketing, Venture Communications Ltd., en tant qu'associée en 1988. Sa position d'associé signifiait que Dickinson ne gagnait pas salaire ou salaire, et travaillait essentiellement gratuitement. Au début de son mandat, Dickinson vivait de ses cartes de crédit, mais travaillait de longues heures et les fins de semaine pour assurer le succès de l'entreprise. ",
+      "En apprenant sa perte d'emploi, une ancienne collègue a contacté Dickinson et lui a offert l'opportunité de rejoindre sa nouvelle société de marketing, Venture Communications Ltd., en tant qu'associée en 1988. Sa position d'associé signifiait que Dickinson ne gagnait aucune salaire et travaillait essentiellement gratuitement. Au début de son mandat, Dickinson vivait de ses cartes de crédit, mais travaillait de longues heures et les fins de semaine pour assurer le succès de l'entreprise. ",
     imageUrl: "3.jpg",
   },
   {
@@ -274,7 +274,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/elizabeth-muriel-gregory-macgill",
     infoBlurb:
-      "Pendant la Seconde Guerre mondiale, elle était ingénieur en chef pour la Canadian Car and Foundry Company, supervisant la production du Hawker Hurricane au Canada et concevant des modifications à l'avion pour le vol par temps froid. En 1942, une série de bandes dessinées sur MacGill l'a surnamemée la \"Reine des ouragans.\"",
+      "Pendant la Seconde Guerre mondiale, MacGill était ingénieure en chef pour le Canadian Car and Foundry Company, supervisant la production du Hawker Hurricane au Canada et concevant des modifications à l'avion pour le vol par temps froid. En 1942, une série de bandes dessinées sur MacGill l'a surnommée la \"Reine des ouragans.\"",
     imageUrl: "11.jpg",
   },
   {
@@ -285,7 +285,7 @@ export const jsonData: IElement[] = [
     dates: "1914-1965",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/viola-desmond",
     infoBlurb:
-      "Contestation des pratiques de ségrégation en Nouvelle-Écosse. Bien avant le mouvement moderne des droits civiques aux États-Unis",
+      "Contestation des pratiques de ségrégation en Nouvelle-Écosse; bien avant le mouvement moderne des droits civiques aux États-Unis",
     imageUrl: "19.jpg",
   },
   {
@@ -296,7 +296,7 @@ export const jsonData: IElement[] = [
     dates: "1606-1673",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/jeanne-mance",
     infoBlurb:
-      "Première infirmière laïque à pratiquer en Amérique du Nord, colonisatrice de la Nouvelle-France et cofondatrice de Montréal où elle a ouvert le premier hôpital. Mance est née en France et est arrivée en Nouvelle-France en 1641. Elle s'est rendue sur l'île de Montréal le l'année prochaine, où elle a fondé le premier hôpital de la ville, l'Hôtel-Dieu de Montréal, en 1645. ",
+      "Première infirmière laïque à pratiquer en Amérique du Nord, colonisatrice de la Nouvelle-France et cofondatrice de Montréal où elle a ouvert le premier hôpital. Mance est née en France et est arrivée en Nouvelle-France en 1641. Elle s'est rendue sur l'île de Montréal où elle a fondé le premier hôpital de la ville, l'Hôtel-Dieu de Montréal, en 1645. ",
     imageUrl: "37.jpg",
   },
   {
@@ -320,7 +320,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/dorimene-desjardins",
     infoBlurb:
-      "Co-fondatrice des Caisses populaires Desjardins (aujourd'hui le Mouvement Desjardins). Dorimène Desjardins, avec son mari, a fondé la coopérative d'épargne et de crédit pionnière Caisses populaires de Lévis en 1900, qui a ouvert ses portes en janvier 1901. Elle a été namemée directrice à temps plein de 1903 à 1906 pour un salaire nameinal de 50 dollars par an, tandis que son mari a reçu le titre officiel. ",
+      "Co-fondatrice des Caisses populaires Desjardins (aujourd'hui le Mouvement Desjardins). Dorimène Desjardins, avec son mari, a fondé la coopérative d'épargne et de crédit pionnière Caisses populaires de Lévis en 1900, qui a ouvert ses portes en janvier 1901. Elle a été nomimée directrice à temps plein de 1903 à 1906 pour un salaire nominal de 50 dollars par an, tandis que son mari a reçu le titre officiel. ",
     imageUrl: "87.jpg",
   },
   {
@@ -332,7 +332,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/hayley-wickenheiser",
     infoBlurb:
-      "Hayley Wickenheiser a remporté sept médailles d'or et six médailles d'argent avec Équipe Canada au Championnat mondial de hockey féminin de l'IIHF, ainsi que quatre médailles d'or et une médaille d'argent aux Jeux olympiques d'hiver. Elle est la leader de tous les temps pour les buts (18) , passes (33) et points (51) en hockey sur glace féminin aux Jeux olympiques d'hiver. Elle est la leader de tous les temps en passes (49) et en points (86) au Championnat du monde de hockey féminin. Elle a également été la première femme jamais marquer un but dans une ligue professionnelle masculine. ",
+      "Hayley Wickenheiser a remporté sept médailles d'or et six médailles d'argent avec l'Équipe du Canada au Championnat mondial de hockey féminin de l'IIHF, ainsi que quatre médailles d'or et une médaille d'argent aux Jeux olympiques d'hiver. Elle est leader pour buts (18), passes (33) et points (51) en hockey sur glace féminin aux Jeux olympiques d'hiver. Elle est aussi leader en passes (49) et en points (86) au Championnat du monde de hockey féminin. Elle est également la première femme à marquer un but dans une ligue professionnelle masculine. ",
     imageUrl: "39.jpg",
   },
   {
@@ -343,7 +343,7 @@ export const jsonData: IElement[] = [
     dates: "1876–1970",
     urlLink: "http://www.heroines.ca/people/gale.html",
     infoBlurb:
-      "Première échevin de l'Empire britannique. Quand Annie Gale et son mari William ont immigré à Calgary en provenance d'Angleterre en 1912, elle a été consternée par les coûts élevés du logement et de la nourriture. Déterminée à changer les choses",
+      "Première échevin de l'Empire britannique. Quand Annie Gale et son mari William ont immigré à Calgary en 1912, elle a été consternée par les coûts élevés du logement et de la nourriture. Déterminée à changer les choses",
     imageUrl: "47.jpg",
   },
   {
@@ -355,7 +355,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://ottawacitizen.com/news/local-news/fifteen-canadian-stories-a-murder-trial-like-no-other",
     infoBlurb:
-      "Angelina Napolitano (1882-1932) [1] était une immigrante au Canada qui a assassiné son mari violent en 1911, déclenchant un débat public sur la violence domestique et la peine de mort. [2] [3] Elle a été la première femme au Canada à utiliser la défense de la femme battue pour meurtre [4] ",
+      "Angelina Napolitano (1882-1932) était une immigrante au Canada qui a assassiné son mari violent en 1911, déclenchant un débat public sur la violence domestique et la peine de mort. Elle a été la première femme au Canada à utiliser la défense de la femme battue pour meurtre [4] ",
     imageUrl: "48.jpg",
   },
   {
@@ -367,7 +367,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/adelaide-hoodless",
     infoBlurb:
-      "Réformatrice de l'éducation et fondatrice du Women's Institute. Adelaide Hoodless a commencé sa vie publique avec la mort de son fils en bas âge mort en 1889 après avoir bu du lait impur.",
+      "Réformatrice de l'éducation et fondatrice du Women's Institute. Adelaide Hoodless a commencé sa vie publique avec la mort de son fils en 1889 après avoir bu du lait impur.",
     imageUrl: "57.jpg",
   },
   {
@@ -378,7 +378,7 @@ export const jsonData: IElement[] = [
     dates: "1987",
     urlLink: "https://www.cbc.ca/mediacentre/bio/ginella-massa",
     infoBlurb:
-      "Ginella Massa est une lauréate d'un prix Écrans canadiens, mieux connue comme la première journaliste télévisée canadienne portant le hijab, présentatrice locale et animatrice nationale. Elle est actuellement l'animatrice de CANADA TONIGHT WITH GINELLA MASSA diffusée en semaine à 20 h HE / 17 h HP sur CBC News Network. Massa est entrée dans l'histoire en 2015, considérée comme la première journaliste de télévision en Amérique du Nord à porter un hijab à l'antenne lorsqu'elle a été embauchée comme journaliste vidéo pour CTV News à Kitchener, en Ontario. après avoir ancré le journal télévisé du soir à CityNews Toronto en 2016. ",
+      "Ginella Massa est une lauréate d'un prix Écrans canadiens, mieux connue comme la première journaliste télévisée canadienne portant le hijab, présentatrice locale et animatrice nationale. Elle est actuellement l'animatrice de CANADA TONIGHT WITH GINELLA MASSA diffusée en semaine sur CBC.",
     imageUrl: "72.jpg",
   },
   {
@@ -400,7 +400,7 @@ export const jsonData: IElement[] = [
     dates: "1923–2007",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/bertha-wilson",
     infoBlurb:
-      "Première femme namemée à la Cour suprême du Canada. Née dans une famille ouvrière en Écosse",
+      "Première femme nominée à la Cour suprême du Canada. Née dans une famille ouvrière en Écosse",
     imageUrl: "74.jpg",
   },
   {
@@ -412,7 +412,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-robert-wright-judicial-equity-1.3963884",
     infoBlurb:
-      "Corrine Sparks est une juge canadienne. Elle a été la première femme noire canadienne à devenir juge au Canada et la première juge noire de la province de la Nouvelle-Écosse. en appel, a par la suite été confirmée par la Cour suprême du Canada dans une décision de premier plan sur la crainte raisonnable de partialité. ",
+      "Corrine Sparks est une juge canadienne. Elle a été la première femme noire canadienne à devenir juge au Canada et la première juge noire de la province de la Nouvelle-Écosse. Par la suite, elle a été confirmée par la Cour suprême du Canada dans une décision de premier plan sur la crainte raisonnable de partialité. ",
     imageUrl: "75.jpg",
   },
   {
@@ -423,7 +423,7 @@ export const jsonData: IElement[] = [
     dates: "1884–1975",
     urlLink: "https://nscsw.org/jane-wisdom-halifax-explosion/",
     infoBlurb:
-      "L'une des firsts travailleuses sociales professionnelles au Canada et la première directrice du Bureau des services sociaux à Halifax. Jane Wisdom a terminé sa formation initiale et ses études en travail social à New York parce qu'il n'y avait pas d'écoles de travail social au Canada. Elle est retournée à Halifax en 1916 pour diriger le nouveau Bureau des services sociaux. Elle déménage à Montréal en 1921 pour terminer ses études et donne des cours en travail social. Elle poursuit son travail à Montréal pendant dix-huit ans avant de retourner en Nouvelle-Écosse. En 1941, elle accepte un poste en tant que premier agent social de Glace Bay ",
+      "L'une des premières travailleuses sociales professionnelles au Canada et la première directrice du Bureau des services sociaux à Halifax. Jane Wisdom a terminé sa formation initiale et ses études en travail social à New York parce qu'il n'y avait pas d'écoles de travail social au Canada. Elle est retournée à Halifax en 1916 pour diriger le nouveau Bureau des services sociaux. Elle déménage à Montréal en 1921 pour terminer ses études et donne des cours en travail social. Elle poursuit son travail à Montréal pendant dix-huit ans avant de retourner en Nouvelle-Écosse. En 1941, elle accepte un poste en tant que premier agent social de Glace Bay ",
     imageUrl: "76.jpg",
   },
   {
@@ -435,7 +435,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/tekakwitha-kateri",
     infoBlurb:
-      "Kateri Tekakwitha ou Tekaouïta (baptisée Catherine), connue sous le name de Lys des Mohawks, premier aborigène nord-américain élevé à la sainteté (né en 1656 à Ossernenon dans le pays iroquois, aujourd'hui Auriesville, New York; décédé le 17 avril 1680 au St. Francis Xavier Mission à Sault St. Louis, Nouvelle-France, maintenant Kahnawake.",
+      "Kateri Tekakwitha ou Tekaouïta (baptisée Catherine), connue sous le name de Lys des Mohawks, première aborigène nord-américain élevé à la sainteté.",
     imageUrl: "77.jpg",
   },
   {
@@ -447,7 +447,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/flora-isabel-macdonald",
     infoBlurb:
-      "Homme politique et humanitaire canadienne, première femme ministre des Affaires étrangères et l'une des firsts femmes à se disputer la direction d'un grand parti politique canadien (progressiste-conservateur). MacDonald a travaillé au quartier général progressiste-conservateur de 1956 à 1965 et a été secrétaire exécutive pendant un demi-siècle. décennie.",
+      "Femme politique et humanitaire canadienne, première femme ministre des Affaires étrangères et l'une des premières femmes à se disputer la direction d'un grand parti politique canadien (progressiste-conservateur). MacDonald a travaillé au quartier général progressiste-conservateur de 1956 à 1965 et a été secrétaire exécutive pendant un demi-siècle.",
     imageUrl: "79.jpg",
   },
   {
@@ -458,7 +458,7 @@ export const jsonData: IElement[] = [
     dates: "1831-1903",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-stowe",
     infoBlurb:
-      "Première femme médecin à exercer au Canada, militante pour les droits des femmes et le droit de vote. Stowe a obtenu son diplôme de l'école normale de Toronto pour le Haut-Canada en 1854 et a travaillé au Brantford School Board, où elle est devenue la première femme directrice d'une école publique du Haut-Canada. Elle a épousé John Stowe en 1856 et a été inspiré pour étudier la médecine quand il a contracté la tuberculose. ",
+      "Première femme médecin à exercer au Canada, activiste pour les droits des femmes et le droit de vote. Stowe a obtenu son diplôme de l'école normale de Toronto pour le Haut-Canada en 1854 et a travaillé au Brantford School Board, où elle est devenue la première femme directrice d'une école publique du Haut-Canada. Elle a épousé John Stowe en 1856 et a été inspiré pour étudier la médecine quand il a contracté la tuberculose. ",
     imageUrl: "80.jpg",
   },
   {
@@ -470,7 +470,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/nellie-letitia-mcclung",
     infoBlurb:
-      "Nellie Letitia McClung, née Mooney, suffragiste, réformatrice, législatrice, auteure (née le 20 octobre 1873 à Chatsworth, en Ontario; décédée le 1er septembre 1951 à Victoria, en Colombie-Britannique). Nellie McClung était une militante des droits des femmes, une législatrice et une auteure qui est peut-être la meilleure connue pour son implication dans l'affaire des personnes. ",
+      "Nellie Letitia McClung, née Mooney, suffragiste, réformatrice, législatrice, auteure. Nellie McClung était une militante des droits des femmes, une législatrice et une auteure qui est peut-être la meilleure connue pour son implication dans l'affaire des personnes. ",
     imageUrl: "89.jpg",
   },
   {
