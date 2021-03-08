@@ -22,7 +22,18 @@ export const DonatePage = ({ isFrench }: IDonatePageProps) => {
   return (
     <Box className="donate-page">
       <Box className="info-container">
-        <h1>{title}</h1>
+        <h1>
+          {title}{" "}
+          <img
+            onClick={() => {
+              window.open("https://canadianwomen.org/", "_blank");
+            }}
+            className="cwf-logo"
+            alt="Canadian Women's Foundation"
+            src="/assets/cwf_logo.png"
+          ></img>
+        </h1>
+
         <div className="info">
           <p className="info-description">{description}</p>
           {infoPoints.map((point) => (

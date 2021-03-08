@@ -68,6 +68,11 @@ function App() {
           open={Boolean(anchorEl)}
           onClose={handleClose}
         >
+          <Link to="/table" className="menu-link">
+            <MenuItem onClick={() => handleClose()}>
+              {isFrench ? "Tableau" : "Table"}
+            </MenuItem>
+          </Link>
           <Link to="/about" className="menu-link">
             <MenuItem onClick={() => handleClose()}>
               {isFrench ? "À propos de" : "About"}
@@ -78,11 +83,14 @@ function App() {
               {isFrench ? "Donné" : "Donate"}
             </MenuItem>
           </Link>
-          <Link to="/table" className="menu-link">
-            <MenuItem onClick={() => handleClose()}>
-              {isFrench ? "Tableau" : "Table"}
-            </MenuItem>
-          </Link>
+          <MenuItem
+            onClick={() => {
+              handleClose();
+              window.open("https://www.parentsfordiversity.com/", "_blank");
+            }}
+          >
+            Parents For Diversity
+          </MenuItem>
           <MenuItem
             onClick={() => {
               handleClose();
@@ -159,6 +167,15 @@ function App() {
                   showTableView={() => setShowTableView(true)}
                 ></CategoryTable>
               )}
+              <img
+                onClick={() => {
+                  handleClose();
+                  window.open("https://www.parentsfordiversity.com/", "_blank");
+                }}
+                className="p4d-logo"
+                alt="Parents for Diversity Logo"
+                src="/assets/p4d_logo.png"
+              ></img>
               <AboutBadge className={containerClass}></AboutBadge>
             </Box>
           </Route>
