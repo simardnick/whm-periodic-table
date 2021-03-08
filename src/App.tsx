@@ -139,7 +139,7 @@ function App() {
             <Box className={clsx("whm-periodic-table-app", containerClass)}>
               <h1 className="whm-title">
                 {isFrench
-                  ? "Tableau périodique de l'histoire des filles au Canada"
+                  ? "Tableau périodique de l'histoire des femmes au Canada"
                   : "Periodic Table of Canadian Women's History"}
               </h1>
               {showTableView ? (

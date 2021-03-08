@@ -5,12 +5,12 @@ export const jsonData: IElement[] = [
     number: "13",
     category: "activists",
     id: "G",
-    name: "Ga’axstal’as",
+    name: "Ga'axstal'as",
     dates: "1870–1951",
     urlLink:
       "https://www.canadashistory.ca/explore/women/canada-s-great-women#Cook",
     infoBlurb:
-      "Kwakwaka’wakw leader, cultural mediator, and activist. Born on Vancouver Island, Ga’axstal’as, Jane Constance Cook was the daughter of a Kwakwaka'wakw noblewoman and a white fur trader. Raised by a missionary couple, she had strong literacy skills and developed a good understanding of both cultures and legal systems. As the grip of colonialism tightened around West Coast nations, Cook lobbied for First Nations to retain rights of access to land and resources. She testified at the McKenna-McBride Royal Commission of 1914 and was the only woman on the executive of the Allied Indian Tribes of British Columbia in 1922. A fierce advocate for women and children, she was also a midwife and healer and raised sixteen children.",
+      "Leader kwakwaka'wakw, médiatrice culturelle et militante. Née sur l'île de Vancouver, Ga'axstal'as, Jane Constance Cook était la fille d'une noble kwakwaka'wakw et d'un marchand de fourrures blanches. Élevée par un couple de missionnaires, elle avait une forte alphabétisation et développé une bonne compréhension des systèmes juridiques. Alors que l'emprise du colonialisme se resserrait autour des nations de la côte ouest, Cook a fait pression pour que les Premières Nations conservent leurs droits d'accès à la terre et aux ressources. Elle a témoigné à la Commission royale de McKenna-McBride de 1914 et était la seule femme à faire partie de la direction des tribus indiennes alliées de la Colombie-Britannique en 1922. Fervente défenseure des femmes et des enfants, elle était aussi sage-femme et guérisseuse et éleva seize enfants. ",
     imageUrl: "13.jpg",
   },
   {
@@ -20,44 +20,43 @@ export const jsonData: IElement[] = [
     name: "Mary Two–Axe Earley",
     dates: "1911–1996",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/mary-two-axe-earley",
+      "https://www.thecanadianencyclopedia.ca/fr/article/mary-two-axe-earley",
     infoBlurb:
-      "Challenged law discriminating against First Nations women. Mary Two-Axe Earley plunged into activism at age fifty-five",
+      "Contestation de la loi discriminatoire à l'égard des femmes des Premières Nations. Mary Two-Axe Earley s'est lancée dans l'activisme à l'âge de cinquante-cinq ans",
     imageUrl: "31.jpg",
   },
   {
     number: "49",
     category: "activists",
-    id: "T",
-    name: "Thanadelthur",
-    dates: "1697–1717",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/thanadelthur",
+    id: "Ie",
+    name: "Ilwad Elman",
+    dates: "1989",
+    urlLink: "http://elmanpeace.org/ilwad-elman/",
     infoBlurb:
-      "Thanadelthur (Chipewyan for “marten shake”), peace negotiator, guide, teacher, interpreter (born c. 1697 likely in present-day northern MB; died 5 February 1717 at York Factory, MB). Known as the Ambassadress of Peace, Thanadelthur negotiated peace between the Chipewyan (Denesuline) and Cree peoples during the early fur trade. She was also instrumental in creating ties between the Chipewyan people and the Hudson’s Bay Company, as well as expanding the fur trade in today’s Churchill, Manitoba region.",
+      "Ilwad est rentré du Canada en Somalie en 2010 alors que le conflit faisait toujours rage et que la majorité des régions de Mogadiscio et du centre-sud de la Somalie étaient perdues sous le contrôle du groupe terroriste Al-Shabaab lié à Al-Qaïda. Elle est restée en Somalie depuis lors, co-fonder le premier centre de crise de viol pour les survivants de violence sexuelle et sexiste, concevoir des interventions visant la réforme du secteur de la sécurité afin de créer un espace inclusif pour les femmes dans la consolidation de la paix, et développer des programmes pour le désarmement et la réhabilitation des enfants soldats et des adultes groupes armés pour leur autonameisation socio-éconameique, leur réhabilitation et leur réintégration. ",
     imageUrl: "49.jpg",
   },
   {
     number: "50",
     category: "activists",
-    id: "Lg",
-    name: "Laure Gaudreault",
-    dates: "1889–1975",
+    id: "H",
+    name: "Hodan Nalayeh",
+    dates: "1976-2019",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/laure-gaudreault",
+      "https://toronto.ctvnews.ca/vaughan-ont-high-school-to-be-renamed-after-somali-canadian-journalist-hodan-nalayeh-1.5333067",
     infoBlurb:
-      "Union activist and advocate of fair working conditions for teachers. Laure Gaudreault began teaching in rural Quebec in 1906. She was sixteen years old, paying for her own supplies, and making $125 per year — a small fraction of a teacher’s wage in the city.",
+      "Hodan Nalayeh (somali: Hodan Naalaye; arabe: هودان نالايآه) était une dirigeante des médias somalo-canadienne, une consultante en marketing, une militante sociale et une entrepreneure. Elle a été présidente de l'Agence d'intégration culturelle et vice-présidente du développement des ventes et de la programmation de Cameraworks Productions Internationale. Elle était une journaliste et une conteuse inspirante dont le message aux jeunes était que la réussite dépend de la persévérance et de l'éducation ",
     imageUrl: "50.jpg",
   },
   {
     number: "81",
     category: "activists",
-    id: "Mp",
-    name: "Madeleine Parent",
-    dates: "1918–2012",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/madeleine-parent",
+    id: "Jbl",
+    name: "Jean B-Lumb",
+    dates: "1919–2002",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/jean-lumb",
     infoBlurb:
-      "In 1942, barely 24 years old, she led the union movement at the Valleyfield and Montréal factories of the powerful Dominion Textile company under the banner of the United Textile Workers of America (UTWA). That same year, she met Kent Rowley, who would not only become her husband but her colleague in arms.",
+      "Jean Lumb a été la première femme sino-canadienne et la première restauratrice à être intronisée dans l'Ordre du Canada. Elle est également mieux connue pour son rôle de lobbying réussi auprès du government fédéral pour qu'il modifie ses politiques d'immigration discriminatoires qui séparaient les familles chinoises. Lumb a également dirigé le Save Chinatown. Comité pour empêcher de nouvelles démolitions du quartier chinois de Toronto dans les années 60. ",
     imageUrl: "81.jpg",
   },
   {
@@ -65,22 +64,22 @@ export const jsonData: IElement[] = [
     category: "activists",
     id: "Sm",
     name: "Saadia Muzaffar",
-    dates: "--",
+    dates: "-",
     urlLink: "https://saadiam.com/",
     infoBlurb:
-      "Canadian entrepreneur, author and founder of TechGirls Canada (a non-profit organization created to promote women in STEM).",
+      "Entrepreneur canadien, auteur et fondateur de TechGirls Canada (un organisme sans but lucratif créé pour promouvoir les femmes dans les STIM).",
     imageUrl: "82.jpg",
   },
   {
     number: "83",
     category: "activists",
     id: "MdY",
-    name: "Marguerite d’Youville",
+    name: "Marguerite d'Youville",
     dates: "1701-1771",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/marie-marguerite-d-youville",
+      "https://www.thecanadianencyclopedia.ca/fr/article/marie-marguerite-d-youville",
     infoBlurb:
-      "Activist for the rights of the poor, founder of the Order of Sisters of Charity of Montreal (Grey Nuns) and the first Canadian-born person to be declared a saint by the Roman Catholic Church. While married, d’Youville suffered greatly.",
+      "Militante pour les droits des pauvres, fondatrice de l'Ordre des Sœurs de la Charité de Montréal (Sœurs Grises) et première personne née au Canada à être déclarée sainte par l'Église catholique romaine. Pendant son mariage, d'Youville a beaucoup souffert. ",
     imageUrl: "83.jpg",
   },
   {
@@ -90,9 +89,9 @@ export const jsonData: IElement[] = [
     name: "Nahnebahwequay",
     dates: "1824–1865",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/catherine-sutton",
+      "https://www.thecanadianencyclopedia.ca/fr/article/catherine-sutton",
     infoBlurb:
-      "Catherine Sutton (née Sonego or Sunegoo) (sometimes spelled Catharine, also known as Nahnee, Nahneebahwequa and Upright Woman), Anishinaabe (Mississauga) writer, Methodist missionary and political advocate (born 1824 in the Credit River flats, Upper Canada; died 26 September 1865 in Sarawak Township, Grey County, Canada West). Catherine Sutton was as an advocate for her people during a time when the cultural, political and economic rights of Indigenous peoples in Canada were formally eroded by assimilationist policies.",
+      "Catherine Sutton (née Sonego ou Sunegoo) (parfois orthographiée Catharine, également connue sous le name de Nahnee, Nahneebahwequa and Upright Woman), écrivain anishinaabe (Mississauga), missionnaire méthodiste et avocate politique (née en 1824 dans les appartements de Credit River, Haut-Canada; décédée le 26 Septembre 1865 dans le canton de Sarawak, comté de Grey, Canada-Ouest). Catherine Sutton a défendu son peuple à une époque où les droits culturels, politiques et éconameiques des peuples autochtones du Canada étaient officiellement érodés par des politiques assimilationnistes. ",
     imageUrl: "84.jpg",
   },
   {
@@ -102,21 +101,20 @@ export const jsonData: IElement[] = [
     name: "Kenojuak Ashevak",
     dates: "1927–2013",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/kenojuak-ashevak",
+      "https://www.thecanadianencyclopedia.ca/fr/article/kenojuak-ashevak",
     infoBlurb:
-      "An inspiring Inuit artist. Born in an igloo on the south coast of Baffin Island",
+      "Un artiste inuit inspirant. Né dans un igloo sur la côte sud de l'île de Baffin",
     imageUrl: "113.jpg",
   },
   {
     number: "114",
     category: "artists",
-    id: "Mal",
-    name: "Maud Lewis",
+    id: "Vs",
+    name: "Vivek Shraya",
     dates: "1903-1970",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/paying-tribute-to-painter-maud-lewis",
+    urlLink: "https://vivekshraya.com",
     infoBlurb:
-      "Maud Kathleen Lewis was a Canadian folk artist from Nova Scotia. Lewis lived most of her life in poverty in a small house in Marshalltown, Nova Scotia, achieving national recognition in 1964 and 1965. Several books, plays and films have since been produced about her. Lewis remains one of Canada's best-known folk artists; her works and the restored Maud Lewis House are displayed in the Art Gallery of Nova Scotia.",
+      "Vivek Shraya est une artiste dont le corpus d'œuvres dépasse les frontières de la musique, de la littérature, des arts visuels, du theatre et du cinéma. Son livre à succès I'm Afraid of Men a été qualifié par Vanity Fair de carburant de fusée culturelle, et son album Part ‑ Time Woman a été nameiné pour le prix de musique Polaris. Elle est également la fondatrice de la maison d'édition VS. Books. ",
     imageUrl: "114.jpg",
   },
   {
@@ -124,10 +122,10 @@ export const jsonData: IElement[] = [
     category: "artists",
     id: "E",
     name: "Emily Carr",
-    dates: "1871–1945",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/emily-carr",
+    dates: "1871-1945",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-carr",
     infoBlurb:
-      "A West Coast artist who has been described as “Canada’s Van Gogh.” Born in Victoria",
+      "Un artiste de la côte ouest qui a été décrit comme Van Gogh du Canada. Né à Victoria ",
     imageUrl: "115.jpg",
   },
   {
@@ -138,19 +136,18 @@ export const jsonData: IElement[] = [
     dates: "---",
     urlLink: "https://www.patreon.com/ravynwngz",
     infoBlurb:
-      "Ravyn Wngz has a vision to create work, art, and conversations that open the minds and the hearts of all people, the goal is to encourage self reflection, and empathy that will ultimately create fundamental change and inclusion. As an Empowerment Movement Storyteller Wngz aims to challenge mainstream arts and dance spaces by Sharing her stories as a Tanzanian, Bermudian, Queer, 2 Spirit, Transcendent, Mohawk individual.",
+      "Ravyn Wngz a pour vision de créer des œuvres, des œuvres d'art et des conversations qui ouvrent l'esprit et le cœur de toutes les personnes, le but est d'encourager la réflexion sur soi et l'empathie qui finiront par créer un changement fondamental et l'inclusion. En tant que conteur du mouvement d'autonameisation Wngz vise à défier les arts et les espaces de danse traditionnels en partageant ses histoires en tant que tanzanienne, bermudienne, queer, 2 Spirit, transcendante, mohawk. ",
     imageUrl: "116.jpg",
   },
   {
     number: "117",
     category: "artists",
-    id: "Pc",
-    name: "Paraskeva Clark",
-    dates: "1898-1986",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/paraskeva-clark",
+    id: "W",
+    name: "Wondagurl",
+    dates: "1996",
+    urlLink: "https://en.wikipedia.org/wiki/WondaGurl",
     infoBlurb:
-      "Paraskeva Clark was a Canadian painter. Her work is often political as she believed that “an artist must act as a witness to class struggle and other societal issues",
+      "Ebony Naomi Oshunrinde (née le 28 décembre 1996), professionnellement connue sous le name de WondaGurl, est une productrice de disques, auteur-compositeur et directrice de disques canadienne. WondaGurl a travaillé avec plusieurs artists éminents de l'industrie de la musique, dont Mariah Carey, Travis Scott, Jay-Z , Drake et Kanye West, entre autres. ",
     imageUrl: "117.jpg",
   },
   {
@@ -160,9 +157,9 @@ export const jsonData: IElement[] = [
     name: "Fanny Rosenfeld",
     dates: "1904–1969",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/fanny-rosenfeld",
+      "https://www.thecanadianencyclopedia.ca/fr/article/fanny-rosenfeld",
     infoBlurb:
-      'Canadian athlete, Olympic medallist, sportswriter. "Bobbie" Rosenfeld was an excellent all-around athlete. By 1923 she was the top-ranked female Canadian sprinter and in 1925 she was number one in 200 metres, long jump, shot put, and discus. She represented Canada in the Amsterdam 1928 Summer Olympic Games, taking gold in the 4 x 100 metre relay and silver in the 100-metre race.',
+      "Athlète canadien, médaillé olympique, écrivain sportif. \"Bobbie\" Rosenfeld était un excellent athlète polyvalent. En 1923, elle était la meilleure sprinteuse canadienne et en 1925, elle était number un au 200 mètres, saut en longueur, lancer du poids et disque. Elle a représenté le Canada aux Jeux olympiques d'été d'Amsterdam 1928, remportant l'or au relais 4 x 100 mètres et l'argent au 100 mètres.",
     imageUrl: "29.jpg",
   },
   {
@@ -172,9 +169,9 @@ export const jsonData: IElement[] = [
     name: "Tessa Virtue",
     dates: "1989",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/tessa-virtue-and-scott-moir",
+      "https://www.thecanadianencyclopedia.ca/fr/article/tessa-virtue-and-scott-moir",
     infoBlurb:
-      "essa Jane McCormick Virtue CM (born May 17, 1989) is a Canadian retired ice dancer. With ice dance partner Scott Moir, she is the 2010 and 2018 Olympic champion, the 2014 Olympic silver medallist, a three-time World champion (2010, 2012, 2017), a three-time Four Continents champion (2008, 2012, 2017), the 2016–17 Grand Prix Final champion, an eight-time Canadian National champion (2008–2010, 2012–2014, 2017–2018), the 2006 World Junior champion and the 2006 Junior Grand Prix gold medallists.",
+      "essa Jane McCormick Virtue CM (née le 17 mai 1989) est une danseuse sur glace canadienne à la retraite. Avec son partenaire de danse sur glace Scott Moir, elle est la championne olympique 2010 et 2018, la médaillée d'argent olympique 2014, trois fois championne du monde (2010 , 2012, 2017), triple champion des quatre continents (2008, 2012, 2017), champion de la finale du Grand Prix 2016-2017, huit fois championne nationale canadienne (2008-2010, 2012-2014, 2017-2018) , le champion du monde junior 2006 et les médaillés d'or du Grand Prix junior 2006. ",
     imageUrl: "30.jpg",
   },
   {
@@ -183,9 +180,9 @@ export const jsonData: IElement[] = [
     id: "Be",
     name: "Beckie Scott",
     dates: "1974",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/beckie-scott",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/beckie-scott",
     infoBlurb:
-      "The moment she won Canada's first-ever cross-country medal at an Olympic Games, Beckie Scott made history, but she could not have known how that achievement would forge the next part of her life. She finished third in combined pursuit at those Salt Lake City Olympics, only to be upgraded to the Olympic gold after two Russians were caught doping. Robbed of that Olympic moment, she formed a powerful voice in the boardroom. She joined the World Anti-Doping Agency's (WADA) athlete committee in 2005 and in 2012 was appointed to their executive committee.",
+      "Au moment où elle a remporté la toute première médaille canadienne de cross-country aux Jeux olympiques, Beckie Scott est entrée dans l'histoire, mais elle ne pouvait pas savoir comment cette réalisation allait forger la prochaine partie de sa vie. Elle a terminé troisième en poursuite combinée à ces Salt. Les Jeux olympiques de Lake City, qui ne sont surclassés à l'or olympique qu'après que deux Russes se soient fait prendre en flagrant délit de dopage. Dépouillée de ce moment olympique, elle s'est fait une voix puissante dans la salle de conférence. Elle a rejoint le comité des athletes de l'Agence mondiale antidopage (AMA) en 2005 et en 2012 a été namemé à leur comité exécutif. ",
     imageUrl: "40.jpg",
   },
   {
@@ -194,9 +191,9 @@ export const jsonData: IElement[] = [
     id: "Ch",
     name: "Clara Hughes",
     dates: "1972",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/clara-hughes",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/clara-hughes",
     infoBlurb:
-      "Clara Hughes, OC, cyclist, speed skater, humanitarian (born 27 September 1972 in Winnipeg, MB). Clara Hughes is the only Canadian athlete to have won medals at both the Olympic Summer and Olympic Winter Games, winning two medals in cycling and four medals in speed skating.",
+      "Clara Hughes, OC, cycliste, patineuse de vitesse, humanitaire (née le 27 septembre 1972 à Winnipeg, MB). Clara Hughes est la seule athlète canadienne à avoir remporté des médailles aux Jeux olympiques d'été et aux Jeux olympiques d'hiver, remportant deux médailles en cyclisme et quatre médailles en patinage de vitesse. ",
     imageUrl: "41.jpg",
   },
   {
@@ -206,9 +203,9 @@ export const jsonData: IElement[] = [
     name: "Bianca Andreescu",
     dates: "2000",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/bianca-andreescu",
+      "https://www.thecanadianencyclopedia.ca/fr/article/bianca-andreescu",
     infoBlurb:
-      "On 11 August 2019, Andreescu became the first Canadian since Faye Urban in 1969 to win the Rogers Cup. Andreescu then won the US Open on 7 September 2019, making her the first Canadian singles tennis player to win a grand slam title. On 9 December 2019, she became the first tennis player to win the Lou Marsh Trophy as Canada’s athlete of the year.",
+      "Le 11 août 2019, Andreescu est devenue la première Canadienne depuis Faye Urban en 1969 à remporter la Coupe Rogers. Andreescu a ensuite remporté l'US Open le 7 septembre 2019, faisant d'elle la première joueuse de tennis canadienne en simple à remporter un titre du Grand Chelem. En décembre 2019, elle est devenue la première joueuse de tennis à remporter le trophée Lou Marsh en tant qu'athlète canadienne de l'année. ",
     imageUrl: "42.jpg",
   },
   {
@@ -217,9 +214,9 @@ export const jsonData: IElement[] = [
     id: "Sl",
     name: "Silken Laumann",
     dates: "1965",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/silken-laumann",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/silken-laumann",
     infoBlurb:
-      "By 1991 she had become the premier women's rower in the world, winning the World Cup championship and the World Championship that year. Two months prior to the 1992 Olympic Games in Barcelona, Laumann's boat was rammed accidentally when she was preparing for a regatta in Europe.",
+      "En 1991, elle était devenue la première rameuse féminine du monde, remportant le championnat de la Coupe du monde et le Championnat du monde cette année-là. Deux mois avant les Jeux Olympiques de 1992 à Barcelone, le bateau de Laumann a été percuté accidentellement alors qu'elle se préparait pour une régate en L'Europe .",
     imageUrl: "43.jpg",
   },
   {
@@ -229,9 +226,9 @@ export const jsonData: IElement[] = [
     name: "Chantal Petitclerc",
     dates: "1969",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/chantal-petitclerc",
+      "https://www.thecanadianencyclopedia.ca/fr/article/chantal-petitclerc",
     infoBlurb:
-      "Canada's greatest wheelchair racer of all-time blazes trails wherever her career takes her - as an athlete, advocate or politician.As an athlete, she won 21 medals at five Paralympic Games from 1992 to 2008, including 14 gold medals, and broke 26 world records along the way. She's the only female Paralympian to win the Lou Marsh Award as the top athlete in Canada (2008). She's an advocate for persons with disabilities and has served as Canada's chef de mission for the 2016 Rio Paralympic team and the 2014 Commonwealth Games team. A member of the Canada's Sports Hall of Fame and Companion of the Order of Canada, she was appointed to the Senate in March 2016",
+      "La plus grande coureuse en fauteuil roulant du Canada de tous les temps brille les pistes partout où sa carrière la mène - en tant qu'athlète, militante ou politicienne. record du monde en cours de route. Elle est la seule femme paralympienne à avoir remporté le prix Lou Marsh en tant que meilleure athlète au Canada (2008). Elle défend les personnes handicapées et a été chef de mission du Canada pour l'équipe paralympique de Rio 2016 et le Équipe des Jeux du Commonwealth de 2014. Membre du Panthéon des sports canadiens et Compagnon de l'Ordre du Canada, elle a été namemée au Sénat en mars 2016 ",
     imageUrl: "44.jpg",
   },
   {
@@ -240,9 +237,9 @@ export const jsonData: IElement[] = [
     id: "Aj",
     name: "Angela James",
     dates: "1964",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/angela-james",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/angela-james",
     infoBlurb:
-      "She was also one of the first three women to be inducted into the International Ice Hockey Federation Hall of Fame. When James was inducted into the Hockey Hall of Fame (in Toronto) in 2010, she was one of the first two women, the first openly gay player, and the second black athlete to ever be inducted.",
+      "Elle a également été l'une des trois firsts femmes à être intronisées au Temple de la renamemée de la Fédération internationale de hockey sur glace. Lorsque James a été intronisé au Temple de la renamemée du hockey (à Toronto) en 2010, elle était l'une des deux firsts femmes, la premier joueur ouvertement gay et deuxième athlète noir à être intronisé. ",
     imageUrl: "45.jpg",
   },
   {
@@ -251,9 +248,9 @@ export const jsonData: IElement[] = [
     id: "Ang",
     name: "Angela Chalmers",
     dates: "1963",
-    urlLink: "https://thecanadianencyclopedia.ca/en/article/angela-chalmers",
+    urlLink: "https://thecanadianencyclopedia.ca/fr/article/angela-chalmers",
     infoBlurb:
-      "Chalmers is one of the most accomplished Indigenous athletes in Canada. She won three gold medals in total at the Commonwealth Games in 1990 and 1994. An advocate for Indigenous issues, Chalmers has made efforts to connect with and inspire Indigenous youth from across Canada. Among many honours and awards, Chalmers was inducted into Athletics Canada Hall of Fame in 2019.",
+      "Chalmers est l'une des athletes autochtones les plus accomplies au Canada. Elle a remporté trois médailles d'or au total aux Jeux du Commonwealth en 1990 et 1994. Défenseur des questions autochtones, Chalmers a fait des efforts pour établir des liens avec les jeunes autochtones de partout au Canada et les inspirer. Parmi de numberux honneurs et récompenses, Chalmers a été intronisé au Temple de la renamemée d'Athlétisme Canada en 2019. ",
     imageUrl: "46.jpg",
   },
   {
@@ -263,9 +260,9 @@ export const jsonData: IElement[] = [
     name: "Arlene Dickinson",
     dates: "1956",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/arlene-dickinson",
+      "https://www.thecanadianencyclopedia.ca/fr/article/arlene-dickinson",
     infoBlurb:
-      "Upon hearing of her job loss, a former colleague reached out to Dickinson and offered her the opportunity to join his new marketing firm, Venture Communications Ltd., as a partner in 1988. Her position as a partner meant that Dickinson did not earn a salary or wage, and essentially worked for free. Early in her tenure, Dickinson lived off her credit cards but worked long hours and weekends to make the company successful.",
+      "En apprenant sa perte d'emploi, une ancienne collègue a contacté Dickinson et lui a offert l'opportunité de rejoindre sa nouvelle société de marketing, Venture Communications Ltd., en tant qu'associée en 1988. Sa position d'associé signifiait que Dickinson ne gagnait pas salaire ou salaire, et travaillait essentiellement gratuitement. Au début de son mandat, Dickinson vivait de ses cartes de crédit, mais travaillait de longues heures et les fins de semaine pour assurer le succès de l'entreprise. ",
     imageUrl: "3.jpg",
   },
   {
@@ -275,9 +272,9 @@ export const jsonData: IElement[] = [
     name: "Elsie MacGill",
     dates: "1905–1980",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/elizabeth-muriel-gregory-macgill",
+      "https://www.thecanadianencyclopedia.ca/fr/article/elizabeth-muriel-gregory-macgill",
     infoBlurb:
-      "During the Second World War, she was chief engineer for the Canadian Car and Foundry Company, overseeing the production of the Hawker Hurricane in Canada and designing modifications to the aircraft for cold weather flying. In 1942, a comic book series about MacGill dubbed her the “Queen of the Hurricanes.”",
+      "Pendant la Seconde Guerre mondiale, elle était ingénieur en chef pour la Canadian Car and Foundry Company, supervisant la production du Hawker Hurricane au Canada et concevant des modifications à l'avion pour le vol par temps froid. En 1942, une série de bandes dessinées sur MacGill l'a surnamemée la \"Reine des ouragans.\"",
     imageUrl: "11.jpg",
   },
   {
@@ -285,10 +282,10 @@ export const jsonData: IElement[] = [
     category: "entrepreneurs",
     id: "V",
     name: "Viola Desmond",
-    dates: "1914–1965",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/viola-desmond",
+    dates: "1914-1965",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/viola-desmond",
     infoBlurb:
-      "Challenged segregation practices in Nova Scotia. Long before the modern civil rights movement in the United States",
+      "Contestation des pratiques de ségrégation en Nouvelle-Écosse. Bien avant le mouvement moderne des droits civiques aux États-Unis",
     imageUrl: "19.jpg",
   },
   {
@@ -297,9 +294,9 @@ export const jsonData: IElement[] = [
     id: "Jm",
     name: "Jeanne Mance",
     dates: "1606-1673",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/jeanne-mance",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/jeanne-mance",
     infoBlurb:
-      "First lay nurse to practise in North America, a settler of New France, and co-founder of Montreal where she opened the first hospital. Mance was born in France and arrived in New France in 1641. She travelled to the island of Montreal the next year, where she established the city’s first hospital, Hôtel-Dieu de Montréal, in 1645.",
+      "Première infirmière laïque à pratiquer en Amérique du Nord, colonisatrice de la Nouvelle-France et cofondatrice de Montréal où elle a ouvert le premier hôpital. Mance est née en France et est arrivée en Nouvelle-France en 1641. Elle s'est rendue sur l'île de Montréal le l'année prochaine, où elle a fondé le premier hôpital de la ville, l'Hôtel-Dieu de Montréal, en 1645. ",
     imageUrl: "37.jpg",
   },
   {
@@ -311,7 +308,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "http://www.experiencemountainparks.com/charlotte-small-woman-of-historic-significance/",
     infoBlurb:
-      "Explorer David Thompson’s wife and interpreter. Charlotte Small was born at Île-à-la-Crosse",
+      "Épouse et interprète de l'explorateur David Thompson. Charlotte Small est née à l'Île-à-la-Crosse",
     imageUrl: "55.jpg",
   },
   {
@@ -321,9 +318,9 @@ export const jsonData: IElement[] = [
     name: "Maria-Clara Dorimène Roy-Desjardins",
     dates: "1858-1932",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/dorimene-desjardins",
+      "https://www.thecanadianencyclopedia.ca/fr/article/dorimene-desjardins",
     infoBlurb:
-      "Co-founder of the Caisses populaires Desjardins (today the Desjardins Group). Dorimène Desjardins, along with her husband, founded the pioneering credit union Caisses populaires de Lévis in 1900, which opened in January 1901. She was made full-time manager from 1903 to 1906 for a nominal salary of $50 per year, while her husband received the official title.",
+      "Co-fondatrice des Caisses populaires Desjardins (aujourd'hui le Mouvement Desjardins). Dorimène Desjardins, avec son mari, a fondé la coopérative d'épargne et de crédit pionnière Caisses populaires de Lévis en 1900, qui a ouvert ses portes en janvier 1901. Elle a été namemée directrice à temps plein de 1903 à 1906 pour un salaire nameinal de 50 dollars par an, tandis que son mari a reçu le titre officiel. ",
     imageUrl: "87.jpg",
   },
   {
@@ -333,9 +330,9 @@ export const jsonData: IElement[] = [
     name: "Hayley Wickenheiser",
     dates: "1978",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/hayley-wickenheiser",
+      "https://www.thecanadianencyclopedia.ca/fr/article/hayley-wickenheiser",
     infoBlurb:
-      "Hayley Wickenheiser won seven gold medals and six silver medals with Team Canada at the IIHF Women’s World Hockey Championship, as well as four gold medals and one silver medal at the Olympic Winter Games. She is the all-time leader in goals (18), assists (33) and points (51) in women’s ice hockey at the Olympic Winter Games. She is the all-time leader in assists (49) and points (86) at the Women’s World Hockey Championship. She was also the first woman ever to score a goal in a men’s professional league. ",
+      "Hayley Wickenheiser a remporté sept médailles d'or et six médailles d'argent avec Équipe Canada au Championnat mondial de hockey féminin de l'IIHF, ainsi que quatre médailles d'or et une médaille d'argent aux Jeux olympiques d'hiver. Elle est la leader de tous les temps pour les buts (18) , passes (33) et points (51) en hockey sur glace féminin aux Jeux olympiques d'hiver. Elle est la leader de tous les temps en passes (49) et en points (86) au Championnat du monde de hockey féminin. Elle a également été la première femme jamais marquer un but dans une ligue professionnelle masculine. ",
     imageUrl: "39.jpg",
   },
   {
@@ -346,7 +343,7 @@ export const jsonData: IElement[] = [
     dates: "1876–1970",
     urlLink: "http://www.heroines.ca/people/gale.html",
     infoBlurb:
-      "First alderwoman in the British Empire. When Annie Gale and her husband William immigrated to Calgary from England in 1912 she was appalled by the high costs of housing and food. Determined to change things",
+      "Première échevin de l'Empire britannique. Quand Annie Gale et son mari William ont immigré à Calgary en provenance d'Angleterre en 1912, elle a été consternée par les coûts élevés du logement et de la nourriture. Déterminée à changer les choses",
     imageUrl: "47.jpg",
   },
   {
@@ -358,7 +355,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://ottawacitizen.com/news/local-news/fifteen-canadian-stories-a-murder-trial-like-no-other",
     infoBlurb:
-      "Angelina Napolitano (1882-1932)[1] was an immigrant to Canada who murdered her abusive husband in 1911, igniting a public debate about domestic violence and the death penalty.[2][3] She was the first woman in Canada to use the battered woman defense on a murder charge.[4]",
+      "Angelina Napolitano (1882-1932) [1] était une immigrante au Canada qui a assassiné son mari violent en 1911, déclenchant un débat public sur la violence domestique et la peine de mort. [2] [3] Elle a été la première femme au Canada à utiliser la défense de la femme battue pour meurtre [4] ",
     imageUrl: "48.jpg",
   },
   {
@@ -368,21 +365,20 @@ export const jsonData: IElement[] = [
     name: "Adelaide Hoodless",
     dates: "1857–1910",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/adelaide-hoodless",
+      "https://www.thecanadianencyclopedia.ca/fr/article/adelaide-hoodless",
     infoBlurb:
-      "Educational reformer and founder of the Women’s Institute. Adelaide Hoodless began her public life with the death of her infant son died in 1889 after drinking impure milk.",
+      "Réformatrice de l'éducation et fondatrice du Women's Institute. Adelaide Hoodless a commencé sa vie publique avec la mort de son fils en bas âge mort en 1889 après avoir bu du lait impur.",
     imageUrl: "57.jpg",
   },
   {
     number: "72",
     category: "firsts",
-    id: "Mv",
-    name: "Marie-Madeleine Jarret de Verchères",
-    dates: "1678–1747",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/marie-madeleine-jarret-de-vercheres",
+    id: "Gm",
+    name: "Ginella Massa",
+    dates: "1987",
+    urlLink: "https://www.cbc.ca/mediacentre/bio/ginella-massa",
     infoBlurb:
-      "Marie-Madeleine Jarret de Verchères (born 3 March 1678 in Verchères, Quebec; died August 1747 in Sainte-Anne-de-la-Pérade, Quebec). Madeleine de Verchères is best known for her role in the defence of Fort Verchères in New France in 1692. She is remembered as a military heroine, and her image became part of efforts to recruit Canadian women for wartime work during the First and Second World Wars.",
+      "Ginella Massa est une lauréate d'un prix Écrans canadiens, mieux connue comme la première journaliste télévisée canadienne portant le hijab, présentatrice locale et animatrice nationale. Elle est actuellement l'animatrice de CANADA TONIGHT WITH GINELLA MASSA diffusée en semaine à 20 h HE / 17 h HP sur CBC News Network. Massa est entrée dans l'histoire en 2015, considérée comme la première journaliste de télévision en Amérique du Nord à porter un hijab à l'antenne lorsqu'elle a été embauchée comme journaliste vidéo pour CTV News à Kitchener, en Ontario. après avoir ancré le journal télévisé du soir à CityNews Toronto en 2016. ",
     imageUrl: "72.jpg",
   },
   {
@@ -391,9 +387,9 @@ export const jsonData: IElement[] = [
     id: "Mac",
     name: "Mary Shadd Cary",
     dates: "1823–1893",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/mary-ann-shadd",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/mary-ann-shadd",
     infoBlurb:
-      "First black woman newspaper editor in North America. Mary Ann Shadd was a tireless advocate for universal education",
+      "Première rédactrice en chef de journal femme noire en Amérique du Nord. Mary Ann Shadd était une ardente défenseure de l'éducation universelle",
     imageUrl: "73.jpg",
   },
   {
@@ -402,21 +398,21 @@ export const jsonData: IElement[] = [
     id: "Jb",
     name: "Justice Bertha Wilson",
     dates: "1923–2007",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/bertha-wilson",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/bertha-wilson",
     infoBlurb:
-      "First woman to be appointed to the Supreme Court of Canada. Born into a working-class family in Scotland",
+      "Première femme namemée à la Cour suprême du Canada. Née dans une famille ouvrière en Écosse",
     imageUrl: "74.jpg",
   },
   {
     number: "75",
     category: "firsts",
-    id: "Mg",
-    name: "Marie Lacoste Gérin-Lajoie",
-    dates: "1867–1945",
+    id: "Cs",
+    name: "Corinne Sparks",
+    dates: "----",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/marie-gerin-lajoie-nee-lacoste",
+      "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-robert-wright-judicial-equity-1.3963884",
     infoBlurb:
-      "Marie Gérin-Lajoie, feminist, pioneer social worker, founder of the Institut Notre-Dame du Bon-Conseil (born 9 June 1890 in Montréal, QC; died 7 January 1971 in Montréal). Gérin-Lajoie is the daughter of Marie Gérin-Lajoie (née Lacoste), a pioneer of the women’s rights movement in Québec. She was the first French Canadian woman to earn a Bachelor of Arts degree (1911).",
+      "Corrine Sparks est une juge canadienne. Elle a été la première femme noire canadienne à devenir juge au Canada et la première juge noire de la province de la Nouvelle-Écosse. en appel, a par la suite été confirmée par la Cour suprême du Canada dans une décision de premier plan sur la crainte raisonnable de partialité. ",
     imageUrl: "75.jpg",
   },
   {
@@ -427,7 +423,7 @@ export const jsonData: IElement[] = [
     dates: "1884–1975",
     urlLink: "https://nscsw.org/jane-wisdom-halifax-explosion/",
     infoBlurb:
-      "One of Canada’s first professional social workers and the first head of the Bureau of Social Services in Halifax. Jane Wisdom completed her initial training and education in social work in New York because there were no schools of social work in Canada. She returned to Halifax in 1916 to lead the newly established Bureau of Social Services. She moved to Montreal in 1921 to complete her studies and lectured in social work. She continued her work in Montreal for eighteen years before moving back to Nova Scotia. In 1941 she accepted a position as the first welfare officer for Glace Bay",
+      "L'une des firsts travailleuses sociales professionnelles au Canada et la première directrice du Bureau des services sociaux à Halifax. Jane Wisdom a terminé sa formation initiale et ses études en travail social à New York parce qu'il n'y avait pas d'écoles de travail social au Canada. Elle est retournée à Halifax en 1916 pour diriger le nouveau Bureau des services sociaux. Elle déménage à Montréal en 1921 pour terminer ses études et donne des cours en travail social. Elle poursuit son travail à Montréal pendant dix-huit ans avant de retourner en Nouvelle-Écosse. En 1941, elle accepte un poste en tant que premier agent social de Glace Bay ",
     imageUrl: "76.jpg",
   },
   {
@@ -437,9 +433,9 @@ export const jsonData: IElement[] = [
     name: "Kateri Tekakwitha",
     dates: "1656–1680",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/tekakwitha-kateri",
+      "https://www.thecanadianencyclopedia.ca/fr/article/tekakwitha-kateri",
     infoBlurb:
-      "Kateri Tekakwitha or Tekaouïta (baptised Catherine), known as the Lily of the Mohawks, first North American Aboriginal person elevated to sainthood (born in 1656 at Ossernenon in Iroquois country, now Auriesville, NY; died 17 April 1680 at the St. Francis Xavier Mission at Sault St. Louis, New France, now Kahnawake).",
+      "Kateri Tekakwitha ou Tekaouïta (baptisée Catherine), connue sous le name de Lys des Mohawks, premier aborigène nord-américain élevé à la sainteté (né en 1656 à Ossernenon dans le pays iroquois, aujourd'hui Auriesville, New York; décédé le 17 avril 1680 au St. Francis Xavier Mission à Sault St. Louis, Nouvelle-France, maintenant Kahnawake.",
     imageUrl: "77.jpg",
   },
   {
@@ -449,9 +445,9 @@ export const jsonData: IElement[] = [
     name: "Flora Isabel MacDonald",
     dates: "1926-2015",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/flora-isabel-macdonald",
+      "https://www.thecanadianencyclopedia.ca/fr/article/flora-isabel-macdonald",
     infoBlurb:
-      "Canadian politician and humanitarian, first female foreign minister, and one of the first women to vie for leadership of a major Canadian political party (Progressive Conservative). MacDonald worked at Progressive Conservative headquarters from 1956 to 1965 and served as executive secretary for half a decade.",
+      "Homme politique et humanitaire canadienne, première femme ministre des Affaires étrangères et l'une des firsts femmes à se disputer la direction d'un grand parti politique canadien (progressiste-conservateur). MacDonald a travaillé au quartier général progressiste-conservateur de 1956 à 1965 et a été secrétaire exécutive pendant un demi-siècle. décennie.",
     imageUrl: "79.jpg",
   },
   {
@@ -460,9 +456,9 @@ export const jsonData: IElement[] = [
     id: "Eh",
     name: "Dr. Emily Howard Jennings Stowe",
     dates: "1831-1903",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/emily-stowe",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-stowe",
     infoBlurb:
-      "First female doctor to practise in Canada, activist for women’s rights and suffrage. Stowe graduated from Toronto’s Normal School for Upper Canada in 1854 and worked at Brantford School Board, where she became the first woman principal of a public school in Upper Canada. She married John Stowe in 1856 and was inspired to study medicine when he contracted tuberculosis.",
+      "Première femme médecin à exercer au Canada, militante pour les droits des femmes et le droit de vote. Stowe a obtenu son diplôme de l'école normale de Toronto pour le Haut-Canada en 1854 et a travaillé au Brantford School Board, où elle est devenue la première femme directrice d'une école publique du Haut-Canada. Elle a épousé John Stowe en 1856 et a été inspiré pour étudier la médecine quand il a contracté la tuberculose. ",
     imageUrl: "80.jpg",
   },
   {
@@ -472,9 +468,9 @@ export const jsonData: IElement[] = [
     name: "Nellie McClung",
     dates: "1873–1951",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/nellie-letitia-mcclung",
+      "https://www.thecanadianencyclopedia.ca/fr/article/nellie-letitia-mcclung",
     infoBlurb:
-      "Nellie Letitia McClung, née Mooney, suffragist, reformer, legislator, author (born 20 October 1873 in Chatsworth, ON; died 1 September 1951 in Victoria, BC). Nellie McClung was a women’s rights activist, legislator and author who is perhaps best known for her involvement in the Persons Case.",
+      "Nellie Letitia McClung, née Mooney, suffragiste, réformatrice, législatrice, auteure (née le 20 octobre 1873 à Chatsworth, en Ontario; décédée le 1er septembre 1951 à Victoria, en Colombie-Britannique). Nellie McClung était une militante des droits des femmes, une législatrice et une auteure qui est peut-être la meilleure connue pour son implication dans l'affaire des personnes. ",
     imageUrl: "89.jpg",
   },
   {
@@ -483,9 +479,9 @@ export const jsonData: IElement[] = [
     id: "Em",
     name: "Emily Murphy",
     dates: "1868 - 1933",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/emily-murphy",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-murphy",
     infoBlurb:
-      "best known as a suffragist, and particularly for her role in the famous Persons Case. On her first day as a magistrate, she was challenged by a lawyer; he asserted that as a woman she was not a person in the eyes of British law. At the time, women were not included in the definition of persons under the Constitution. This led Murphy to embark on a decade-long campaign to have women declared legal persons.",
+      "surtout connue comme suffragiste, et en particulier pour son rôle dans la célèbre affaire personne. Lors de son premier jour en tant que magistrat, elle a été interpellée par un avocat; il a affirmé qu'en tant que femme, elle n'était pas une personne aux yeux du droit britannique . À l'époque, les femmes n'étaient pas incluses dans la définition des personnes en vertu de la Constitution. Cela a conduit Murphy à se lancer dans une campagne d'une décennie pour que les femmes soient déclarées personnes morales.",
     imageUrl: "90.jpg",
   },
   {
@@ -495,9 +491,9 @@ export const jsonData: IElement[] = [
     name: "Henrietta Edwards",
     dates: "1849-1931",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/henrietta-louise-edwards",
+      "https://www.thecanadianencyclopedia.ca/fr/article/henrietta-louise-edwards",
     infoBlurb:
-      "Henrietta Edwards joined the Woman’s Christian Temperance Union (WCTU) and also became vice-president of the North-West Territories chapter of the NCWC. It was through the WCTU that Edwards engaged in campaigns for women’s suffrage and equal rights. At the time, both the NCWC and WCTU focused on prison reform, financial allowances for women and equal grounds for divorce. However, the NCWC had yet to officially support women’s suffrage.",
+      "Henrietta Edwards a rejoint la Woman's Christian Temperance Union (WCTU) et est également devenue vice-présidente de la section des Territoires du Nord-Ouest de la NCWC. C'est par le biais de la WCTU qu'Edwards s'est engagée dans des campagnes pour le suffrage des femmes et l'égalité des droits. À l'époque, la NCWC et la WCTU se sont toutes deux concentrées sur la réforme des prisons, les allocations financières pour les femmes et l'égalité des motifs de divorce. Cependant, la NCWC n'avait pas encore officiellement soutenu le suffrage des femmes. ",
     imageUrl: "104.jpg",
   },
   {
@@ -507,9 +503,9 @@ export const jsonData: IElement[] = [
     name: "Louise McKinney",
     dates: "1868-1931",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/louise-mckinney",
+      "https://www.thecanadianencyclopedia.ca/fr/article/louise-mckinney",
     infoBlurb:
-      "Canadian politician and women's rights activist from Alberta, Canada. She was the first woman sworn into the Legislative Assembly of Alberta and the first woman elected to a legislature in the British Empire. She served in the Alberta legislature from 1917 to 1921 as a member of the Non-Partisan League. Later she was one of the Famous Five who campaigned successfully for the right of Canadian women to be appointed to the Senate. A former schoolteacher and temperance organizer, she came to Alberta in 1903 as a homesteader.[",
+      "Politicienne canadienne et militante des droits des femmes de l'Alberta, Canada. Elle a été la première femme assermentée à l'Assemblée législative de l'Alberta et la première femme élue à une assemblée législative de l'Empire britannique. Elle a siégé à l'Assemblée législative de l'Alberta de 1917 à 1921 en tant que membre de la Ligue non partisane. Plus tard, elle a été l'une des cinq célèbres à avoir fait campagne avec succès pour le droit des Canadiennes à être namemées au Sénat. Ancienne institutrice et organisatrice de tempérance, elle est arrivée en Alberta en 1903 en tant que fermière. [",
     imageUrl: "105.jpg",
   },
   {
@@ -519,9 +515,9 @@ export const jsonData: IElement[] = [
     name: "Irene Parlby",
     dates: "1868-1965",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/mary-irene-parlby",
+      "https://www.thecanadianencyclopedia.ca/fr/article/mary-irene-parlby",
     infoBlurb:
-      "She was the first woman in Alberta, and the second in the British Empire, to be appointed to a cabinet position. One of the Famous Five appellants in the Persons Case, Parlby was a compelling advocate for women’s rights. Known as the “Women’s Minister,” her career in activism and legislation was dedicated to improving the lives of rural women and children, such as with Alberta’s Dower Act in 1917.",
+      "Elle a été la première femme en Alberta, et la deuxième dans l'Empire britannique, à être namemée à un poste ministériel. L'une des cinq célèbres appelantes dans l'affaire personne, Parlby était une ardente défenseure des droits des femmes. Connue sous le name de Women's Ministre, sa carrière d'activisme et de législation a été consacrée à l'amélioration de la vie des femmes et des enfants des régions rurales, comme avec la Dower Act de l'Alberta en 1917.",
     imageUrl: "106.jpg",
   },
   {
@@ -530,9 +526,9 @@ export const jsonData: IElement[] = [
     id: "Ls",
     name: "Laura Secord",
     dates: "1775-1868",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/laura-secord",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/laura-secord",
     infoBlurb:
-      "Heroine, wife, and mother. In 1812, Laura Secord courageously rescued her husband, James Secord, after he was wounded at the Battle of Queenston Heights. Her husband was still recovering when, the following summer, American soldiers advanced into the Niagara Peninsula and were being billeted at their home. On June 21,1813, Secord overheard American officers plan an attack. She is believed to have walked thirty-two kilometres through rough terrain from her home in Queenston, Upper Canada (Ontario), to warn Lieutenant James FitzGibbon of the surprise attack at Beaver Dams. Facing imminent danger, she reached FitzGibbon in time for him to prepare an ambush, forcing the U.S. general and five hundred soldiers to surrender. Secord was never properly recognized for her heroic feat until after her death.",
+      "Héroïne, épouse et mère. En 1812, Laura Secord a courageusement sauvé son mari, James Secord, après qu'il ait été blessé à la bataille de Queenston Heights. Son mari était toujours en convalescence lorsque, l'été suivant, des soldats américains ont avancé dans la péninsule du Niagara. et étaient cantonnés à leur domicile. Le 21 juin 1813, Secord a entendu des officiers américains planifier une attaque. Elle aurait parcouru trente-deux kilomètres de terrain accidenté depuis son domicile de Queenston, dans le Haut-Canada (Ontario), pour avertir le lieutenant James FitzGibbon de l'attaque surprise de Beaver Dams. Faisant face à un danger imminent, elle a atteint FitzGibbon à temps pour qu'il prépare une embuscade, forçant le général américain et cinq cents soldats à se rendre. Secord n'a été reconnue pour son exploit héroïque qu'après sa mort . ",
     imageUrl: "107.jpg",
   },
   {
@@ -544,7 +540,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/en/article/irma-le-vasseur",
     infoBlurb:
-      "Pediatrician and co-founder of Sainte-Justine Children’s Hospital. In 1894, Irma Levasseur pursued a career in medicine but as a woman she was unable to get a suitable university education in Canada. She went to Minneapolis to study for six years but was not admitted to the College of Physicians and Surgeons in Quebec until 1903.",
+      "Pédiatre et cofondatrice de l'hôpital pour enfants Sainte-Justine. En 1894, Irma Levasseur a poursuivi une carrière en médecine, mais en tant que femme, elle n'a pas pu obtenir une formation universitaire convenable au Canada. Elle est allée à Minneapolis pour étudier pendant six ans, mais a été non admis au Collège des médecins et chirurgiens du Québec avant 1903. ",
     imageUrl: "108.jpg",
   },
   {
@@ -553,44 +549,44 @@ export const jsonData: IElement[] = [
     id: "Jr",
     name: "Dr. Jennie Smillie Robertson",
     dates: "1878-1981",
-    urlLink: "https://thecanadianencyclopedia.ca/en/article/jennie-smillie",
+    urlLink: "https://thecanadianencyclopedia.ca/fr/article/jennie-smillie",
     infoBlurb:
-      "Canadian physician and the first female surgeon in Canada. Born Jane Smillie, near Hensall, Ontario, she became a teacher until she had saved enough money to attend Kingston’s Ontario Medical College in 1906 (integrated into the University of Toronto medical school).",
+      "Médecin canadien et première femme chirurgienne au Canada. Née Jane Smillie, près de Hensall, Ontario, elle est devenue enseignante jusqu'à ce qu'elle ait éconameisé suffisamment d'argent pour fréquenter le Ontario Medical College de Kingston en 1906 (intégré à la faculté de médecine de l'Université de Toronto).",
     imageUrl: "112.jpg",
   },
   {
     number: "5",
     category: "government",
-    id: "Tc",
-    name: "Thérèse Casgrain",
-    dates: "1896–1981",
+    id: "Tt",
+    name: "Dr Theresa Tam",
+    dates: "1965",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/therese-casgrain#",
+      "https://www.who.int/about/who_reform/emergency-capacities/oversight-committee/theresa-tam/en/",
     infoBlurb:
-      "Thérèse Casgrain, née Forget, CC, OBE, reformer, activist, feminist, politician (born 10 July 1896 in Montréal, QC; died 2 November 1981 in Montréal). Best remembered for leading the campaign for women's suffrage in Québec, Thérèse Casgrain was the first woman to be elected the leader of a political party in Canada. She had a long political career and vigorously fought against social, economic and political injustices affecting both women and men.",
+      "La Dre Theresa Tam a été namemée administratrice en chef de la santé publique du Canada le 26 juin 2017. Elle est une médecin spécialisée dans l'immunisation, les maladies infectieuses, la préparation aux situations d'urgence et la sécurité sanitaire mondiale.",
     imageUrl: "5.jpg",
   },
   {
     number: "14",
     category: "government",
-    id: "Ef",
-    name: "Ellen Fairclough",
-    dates: "1905–2004",
+    id: "D",
+    name: "Diane Rowe",
+    dates: "----",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/ellen-fairclough",
+      "https://www.canada.ca/en/department-justice/news/2020/05/g government-of-canada-announces-a-judicial-appointment-in-the-province-of-nova-scotia.html ",
     infoBlurb:
-      "Canadian politician, first woman to serve in the Canadian Cabinet, and a women’s rights advocate. Fairclough worked as an accountant until being elected as a Progressive Conservative Member of Parliament for Hamilton West.",
+      "La juge Diane Rowe a obtenu son diplôme de la Faculté de droit de l'Université du Nouveau-Brunswick en 1997. Elle a été admise au Barreau de la Nouvelle-Écosse en 1998 et au Barreau de Terre-Neuve-et-Labrador en 2001. Elle est profondément engagée envers la fonction publique, la justice et l'égalité. La juge Rowe s'est engagée dans un travail de plaidoyer bénévole au name des peuples autochtones, des droits à l'égalité, des demandeurs du statut de réfugié et de la communauté LGBTQ. Elle est anishinaabe bispirituelle. En tant qu'enfant des années 60, elle a été envoyée à Terre-Neuve. la famille et la communauté de son époux en tant que membre des Micmacs de la bande de Gesgapegiag, à Gespe'ge'wagi, le septième district des Mi'kma'ki. ",
     imageUrl: "14.jpg",
   },
   {
     number: "32",
     category: "government",
-    id: "Jv",
-    name: "Julia Verlyn LaMarsh",
+    id: "Cc",
+    name: "Celina Caesar-Chavannes",
     dates: "1924–1980",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/judy-lamarsh",
+    urlLink: "https://www.celinacc.ca/about/",
     infoBlurb:
-      "Julia Verlyn (Judy) LaMarsh, OC, lawyer, politician, broadcaster, author (born 20 December 1924 in Chatham, ON; died 27 October 1980 in Toronto). Judy LaMarsh was a force in politics at a time when Canadian women were fighting for equal treatment in the country’s political system. She became the second female federal Cabinet minister in Canadian history when Prime Minister Lester B. Pearson named her Minister of National Health and Welfare in 1963. She was instrumental in the development of several groundbreaking federal programs, including Medicare and the Canada Pension Plan. As Canada’s Secretary of State (1965–68), she pushed for the establishment of the Royal Commission on the Status of Women in Canada and coordinated Canada’s Centennial year festivities. Fiercely outspoken, LaMarsh remained active in public life after her retirement from politics, as an author, a broadcaster and a lawyer.",
+      "Celina Caesar-Chavannes est consultante en affaires, coach, conférencière internationale et auteure à succès. Elle est actuellement conseillère principale pour l'équité, la diversité, les initiatives d'inclusion et chargée de cours associée à l'Université Queen's. Celina était l'ancienne députée, avec le government du Canada, représentant la ville de Whitby, une banlieue à l'est de Toronto, et a été secrétaire parlementaire du premier ministre Justin Trudeau de décembre 2015 à janvier 2017 et a été secrétaire parlementaire du ministre du Développement international et de la Francophonie de Janvier 2017 à août 2018. ",
     imageUrl: "32.jpg",
   },
   {
@@ -600,9 +596,9 @@ export const jsonData: IElement[] = [
     name: "Cairine Mackay Wilson",
     dates: "1885-1962",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/cairine-reay-wilson",
+      "https://www.thecanadianencyclopedia.ca/fr/article/cairine-reay-wilson",
     infoBlurb:
-      "Canada’s first female senator. Wilson moved with her family to Ottawa in 1918, where she helped found the Twentieth Century Liberal Association and the National Federation of Liberal Women of Canada. In February 1930, Wilson was appointed the first senator of Canada –– four months after the Persons Case judgment.",
+      "Première femme sénateur au Canada. Wilson a déménagé avec sa famille à Ottawa en 1918, où elle a aidé à fonder l'Association libérale du vingtième siècle et la Fédération nationale des femmes libérales du Canada. mois après le jugement de l'affaire \"personne\". ",
     imageUrl: "33.jpg",
   },
   {
@@ -611,9 +607,9 @@ export const jsonData: IElement[] = [
     id: "Amp",
     name: "Agnes Macphail",
     dates: "1890–1954",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/agnes-macphail",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/agnes-macphail",
     infoBlurb:
-      "First woman elected to the House of Commons. Agnes Macphail was born in rural Ontario. While working as a young schoolteacher she became involved with progressive political movements",
+      "Première femme élue à la Chambre des communes. Agnes Macphail est née dans les régions rurales de l'Ontario. Tout en travaillant comme jeune institutrice, elle s'est impliquée dans des mouvements politiques progressistes",
     imageUrl: "51.jpg",
   },
   {
@@ -625,7 +621,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.chatelaine.com/living/women-of-the-year-2017/image/12/#gallery/woty-2017/slide-12",
     infoBlurb:
-      "The first trans mayor in Canadian history: The big election issue in the tiny village of Très-Saint-Redempteur, Que., was whether residents could keep backyard chickens, not whether it mattered that mayoral candidate Julie Lemieux was born female or male. The trans woman, who had been a councillor in the historically Catholic western Quebec municipality since 2013, won with 48 percent of the vote. Then she got down to business, working to ensure that her neighbours will be able to keep their own roosters and hens.",
+      "Le premier maire trans de l'histoire du Canada: le grand enjeu électoral dans le petit village de Très-Saint-Rédempteur, au Québec, était de savoir si les résidents pouvaient garder des poulets de basse-cour, et non si cela importait que la candidate à la mairie Julie Lemieux soit née femme ou homme. La femme trans, qui était conseillère dans la municipalité historiquement catholique de l'ouest du Québec depuis 2013, a gagné avec 48% des voix. Puis elle s'est mise au travail en veillant à ce que ses voisins puissent garder leurs propres coqs et poules. . ",
     imageUrl: "52.jpg",
   },
   {
@@ -637,7 +633,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://trnto.com/torontos-most-inspiring-women-of-2020-tracy-moore/",
     infoBlurb:
-      "Tracy Moore has been the host of Cityline since 2008 and is the first Black woman to host a national daytime show in Canada. This year she also launched the #CitylineRealonRace podcast which featured leading voices on Black trans lives, the Black queer experience, white privilege, Black activism, police brutality, Black resistance, misogynoir and microaggressions from a Canadian perspective. Canadian television journalist and host of lifestyle magazine Cityline on City since October 2008.[1] She previously served as news anchor on Citytv Toronto's Breakfast Television from 2005 to 2008.[1] She fills in for Dina Pugliese as co-host on Breakfast Television on an infrequent basis.",
+      "Tracy Moore est l'hôte de Cityline depuis 2008 et est la première femme noire à animer une émission nationale de jour au Canada. Cette année, elle a également lancé le podcast #CitylineRealonRace qui présentait des voix de premier plan sur les vies trans noires, l'expérience queer noire, blanc privilège, activisme noir, brutalité policière, résistance noire, misogynoir et microagressions d'un point de vue canadien. Journaliste de télévision canadienne et animatrice du magazine de style de vie Cityline on City depuis octobre 2008. [1] Elle a auparavant été présentatrice de nouvelles sur la télévision Breakfast de Citytv Toronto à partir de 2005 à 2008. [1] Elle remplace Dina Pugliese en tant que co-animatrice sur Breakfast Television sur une base peu fréquente. ",
     imageUrl: "56.jpg",
   },
   {
@@ -646,9 +642,9 @@ export const jsonData: IElement[] = [
     id: "J",
     name: "Joni Mitchell",
     dates: "1943",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/joni-mitchell",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/joni-mitchell",
     infoBlurb:
-      "Joni Mitchell, as she later called herself, gravitated towards music from an early age. At age 7, she began studying classical piano, but like all curious young minds her interest shifted a year and a half later to drawing, a passion she still holds today. In the months that followed, Mitchell, who had relocated with her family to Saskatoon, Sask, contracted polio.",
+      "Joni Mitchell, comme elle se namemera plus tard, s'est tournée vers la musique dès son plus jeune âge. À 7 ans, elle a commencé à étudier le piano classique, mais comme tous les jeunes esprits curieux, son intérêt s'est tourné un an et demi plus tard vers le dessin, une passion qu'elle toujours Dans les mois qui ont suivi, Mitchell, qui avait déménagé avec sa famille à Saskatoon, en Saskatchewan, a contracté la polio. ",
     imageUrl: "2.jpg",
   },
   {
@@ -657,9 +653,9 @@ export const jsonData: IElement[] = [
     id: "St",
     name: "Shania Twain",
     dates: "1965",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/shania-twain",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/shania-twain",
     infoBlurb:
-      "“Queen of Country Pop,” Shania Twain rose from rags to riches to become the biggest-selling female country artist of all time. Buoyed by sassy lyrics, a sexy image and slick production values, her smash hit recordings from 1995 to 2004 defied country music conventions, breaking numerous sales records and establishing her as an international superstar.",
+      "Reine de la pop country, Shania Twain est passée de haillons en richesses pour devenir l'artiste country féminine la plus vendue de tous les temps. Portée par des paroles impertinentes, une image sexy et des valeurs de production raffinées, ses enregistrements à succès de 1995 à 2004 ont défié conventions de musique country, battant de numberux records de ventes et faisant d'elle une superstar internationale. ",
     imageUrl: "10.jpg",
   },
   {
@@ -669,9 +665,9 @@ export const jsonData: IElement[] = [
     name: "Alanis Morissette",
     dates: "1974",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/alanis-morissette",
+      "https://www.thecanadianencyclopedia.ca/fr/article/alanis-morissette",
     infoBlurb:
-      "lanis Morissette is one of Canada’s most recognized and internationally acclaimed singer-songwriters. She established herself as a Juno-winning teen pop star in Canada before adopting an edgy alternative rock sound. She exploded onto the world stage with her record-breaking international debut, Jagged Little Pill (1995). It sold more than 16 million copies in the United States and 33 million worldwide.",
+      "Lanis Morissette est l'une des auteurs-compositeurs-interprètes les plus reconnus et les plus acclamés au Canada. Elle s'est imposée comme une pop star adolescente lauréate d'un prix Juno au Canada avant d'adopter un son rock alternatif avant-gardiste. Elle a explosé sur la scène mondiale avec ses débuts internationaux record. , Jagged Little Pill (1995). Il s'est vendu à plus de 16 millions d'exemplaires aux États-Unis et à 33 millions dans le monde. ",
     imageUrl: "18.jpg",
   },
   {
@@ -681,31 +677,31 @@ export const jsonData: IElement[] = [
     name: "Céline Dion",
     dates: "1968",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/celine-dion-emc",
+      "https://www.thecanadianencyclopedia.ca/fr/article/celine-dion-emc",
     infoBlurb:
-      "The last of 14 children (most of them active in show business), she sang the songs of Ginette Reno at seven at her parents' restaurant. Her mother wrote her first song, 'Ce n'était qu'un rêve,' and sent a recording to René Angélil, then Ginette Reno's impresario. Favourably impressed, Angélil (b 1942) commissioned French lyricist Eddy Marnay to write 'La Voix du Bon Dieu,' and supervised the recording of Céline Dion's first single. Angélil became Dion's first and only manager.",
+      "Dernière de 14 enfants (la plupart actifs dans le show business), elle a chanté les chansons de Ginette Reno à sept ans au restaurant de ses parents. Sa mère a écrit sa première chanson, 'Ce n'était qu'un rêve', et envoie un enregistrement à René Angélil, puis à l'imprésario de Ginette Reno. Impressionné, Angélil (né en 1942) charge le parolier français Eddy Marnay d'écrire \"La Voix du Bon Dieu\" et supervise l'enregistrement du premier single de Céline Dion. Angélil devient le premier et seul gestionnaire. ",
     imageUrl: "36.jpg",
   },
   {
     number: "54",
     category: "musician",
     id: "kd",
-    name: "k.d. lang",
+    name: "kd lang",
     dates: "1961",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/kd-lang-emc",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/kd-lang-emc",
     infoBlurb:
-      'Canadian pop and country singer-songwriter and occasional actress. Lang has won Juno Awards and Grammy Awards for her musical performances. Hits include the songs "Constant Craving" and "Miss Chatelaine".',
+      'Auteur-compositeur-interprète canadien de pop et de country et actrice occasionnelle. Lang a remporté des Juno Awards et des Grammy Awards pour ses performances musicales. Les succès incluent les chansons "Constant Craving" et "Miss Châtelaine". ',
     imageUrl: "54.jpg",
   },
   {
     number: "86",
     category: "musician",
-    id: "Al",
-    name: "Avril Lavigne",
-    dates: "1984",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/avril-lavigne",
+    id: "TS",
+    name: "Tegan et Sara",
+    dates: "1980",
+    urlLink: "https://www.teganandsarafoundation.org/about",
     infoBlurb:
-      'With tutelage from Vancouver-based Nettwerk Management, the young singer sold well over 10 million copies of Let Go around the world, and she received a diamond award for selling a million units in Canada from Prime Minister Jean Chrétien while she was in Ottawa for the 2003 Juno Awards. While there, she also picked up Junos for Best Album, New Artist, Pop Artist and Single ("Complicated"). "Complicated,""Sk8er Boi,""Losing Grip" and "I\'m With You" were all major hits from the album. Lavigne\'s brash attitude, knack for coming up with catchy pop tunes and eclectic sense of fashion has made her an icon among young female fans.',
+      "Sœurs jumelles nées au Canada, Tegan et Sara ont vendu plus d'un million d'albums et ont reçu sept certifications Or, une certification Double Platine, trois prix Juno, deux nameinations pour le prix Polaris et une nameination aux Grammy. les plus grandes scènes du monde, de l'Oscar Telecast 2015 aux grands festivals tels que Coachella, Lollapalooza et Glastonbury. ",
     imageUrl: "86.jpg",
   },
   {
@@ -715,21 +711,20 @@ export const jsonData: IElement[] = [
     name: "Sarah McLachlan",
     dates: "1968",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/mclachlan-sarah",
+      "https://www.thecanadianencyclopedia.ca/fr/article/mclachlan-sarah",
     infoBlurb:
-      'Sarah McLachlan studied classical guitar, piano and voice at the Nova Scotia Conservatory of Music, winning one Kiwanis Music Festival vocal contest as a girl by singing "Where the Bee Sucks, There Lurk I." Pop music was more to her liking, though; "I was your average teenage rebel with a skateboard and a bad attitude," she told The Record. At 17, she made her debut with the Halifax new-wave group October Game.',
+      'Sarah McLachlan a étudié la guitare classique, le piano et le chant au Conservatoire de musique de la Nouvelle-Écosse, remportant un concours vocal du Kiwanis Music Festival en tant que fille en chantant "Where the Bee Sucks, There Lurk I." La musique pop était plus à son goût, cependant; "J\'étais votre rebelle adolescent moyen avec une planche à roulettes et une mauvaise attitude", a-t-elle déclaré à The Record. À 17 ans, elle a fait ses débuts avec le groupe new-wave d\'Halifax October Game.',
     imageUrl: "118.jpg",
   },
   {
     number: "9",
     category: "poets",
-    id: "At",
-    name: "Margaret Atwood",
-    dates: "1916–2000",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/margaret-atwood",
+    id: "Ac",
+    name: "Dr Afua Cooper",
+    dates: "1957",
+    urlLink: "https://afuacooper.com/about/",
     infoBlurb:
-      "A writer whose work was universally recognized in all francophone countries. Anne Hébert won all the major awards in France and Belgium and the Governor General’s Award for fiction three times in Canada. She wrote poems",
+      "Poète, interprète, universitaire, historienne et commentatrice sociale et culturelle, l'expertise et les contributions de la Dre Afua Cooper aux arts, à l'histoire et à l'éducation ont été reconnues lorsqu'elle a reçu en 2015 le Prix des droits de la personne de la Nouvelle-Écosse de la Nouvelle-Écosse. Commission Scotia des droits de la personne. ",
     imageUrl: "9.jpg",
   },
   {
@@ -739,9 +734,9 @@ export const jsonData: IElement[] = [
     name: "P. K. Page",
     dates: "1916-2010",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/pk-patricia-kathleen-page",
+      "https://www.thecanadianencyclopedia.ca/fr/article/pk-patricia-kathleen-page",
     infoBlurb:
-      "She was educated in Calgary and Winnipeg and later studied art in Brazil and New York. In the late 1930s she lived briefly in Saint John, NB; in the early 1940s she moved to Montréal and worked as a filing clerk and historical researcher. There she was part of the group that founded the journal Preview (1942-45); her poems first appeared in periodicals and in Unit of Five (ed. Ronald Hambleton, 1942).",
+      "Elle a fait ses études à Calgary et à Winnipeg et a ensuite étudié l'art au Brésil et à New York. À la fin des années 1930, elle a vécu brièvement à Saint John, au Nouveau-Brunswick; au début des années 1940, elle a déménagé à Montréal et a travaillé comme classeuse et chercheuse historique. elle faisait partie du groupe qui a fondé la revue Preview (1942-45); ses poèmes sont apparus pour la première fois dans des périodiques et dans Unit of Five (éd. Ronald Hambleton, 1942). ",
     imageUrl: "17.jpg",
   },
   {
@@ -751,9 +746,9 @@ export const jsonData: IElement[] = [
     name: "Dorothy Livesay",
     dates: "1909-1996",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/dorothy-livesay",
+      "https://www.thecanadianencyclopedia.ca/fr/article/dorothy-livesay",
     infoBlurb:
-      "A writer of journalism, short fiction, autobiography and literary criticism, Livesay is best known as a strong, sensitive poet dealing as capably with public and political issues as with personal and intimate emotion and reflection. She was senior woman writer in Canada during active and productive years in the 1970s and 1980s. Her mother, Florence Randal Livesay, journalist, poet and translator, and her father, J.F.B. Livesay, general manager of Canadian Press, encouraged her literary efforts from her first publication, Green Pitcher (1928).",
+      "Écrivain de journalisme, de fiction courte, d'autobiographie et de critique littéraire, Livesay est surtout connue comme une poète forte et sensible traitant aussi bien des questions publiques et politiques que de l'émotion et de la réflexion personnelles et intimes. et des années productives dans les années 1970 et 1980. Sa mère, Florence Randal Livesay, journaliste, poète et traductrice, et son père, JFB Livesay, directeur général de la Presse canadienne, ont encouragé ses efforts littéraires dès sa première publication, Green Pitcher (1928). ",
     imageUrl: "35.jpg",
   },
   {
@@ -763,21 +758,20 @@ export const jsonData: IElement[] = [
     name: "Pauline Johnson",
     dates: "1861–1913",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/pauline-johnson",
+      "https://www.thecanadianencyclopedia.ca/fr/article/pauline-johnson",
     infoBlurb:
-      "Poet and public speaker. Pauline Johnson (Tekahionwake) is best known for her poetry celebrating her Aboriginal heritage. The daughter of George Johnson",
+      "Poète et oratrice. Pauline Johnson (Tekahionwake) est surtout connue pour sa poésie célébrant son héritage aborigène. La fille de George Johnson",
     imageUrl: "53.jpg",
   },
   {
     number: "85",
     category: "poets",
-    id: "Ic",
-    name: "Isabella Valancy Crawford",
-    dates: "1850-1887",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/isabella-valancy-crawford",
+    id: "Rk",
+    name: "Rupi Kaur",
+    dates: "1992",
+    urlLink: "https://rupikaur.com/about-me/",
     infoBlurb:
-      "Crawford began to write and publish the poems and stories that became her family's chief source of income following her father's death in 1875. To further her writing career, she moved with her family to Toronto, where they lived in a succession of boarding houses (1883-87). During this productive period she contributed numerous serialized novels and novellas to New York and Toronto publications and wrote much popular verse.",
+      "En tant qu'étudiante universitaire de 21 ans, Rupi a écrit, illustré et auto-publié son premier recueil de poésie, lait et miel. Viennent ensuite son frère artistique, le soleil et ses fleurs. Ces recueils se sont vendus à plus de 8 millions d'exemplaires et ont été traduit dans plus de 42 langues. Son livre le plus récent, home body, a fait ses débuts au premier rang des meilleures ventes à travers le monde. Le travail de Rupi aborde l'amour, la perte, les traumatismes, la guérison, la féminité et la migration. exécutant sa poésie sur scène. ",
     imageUrl: "85.jpg",
   },
   {
@@ -788,7 +782,7 @@ export const jsonData: IElement[] = [
     dates: "1963",
     urlLink: "https://www.maydianne.com/",
     infoBlurb:
-      'Maydianne Andrade is a Jamaican-born Canadian ecologist. She is known for her work on the mating habits of spiders, in particular spiders belonging to the Latrodectus species. In 2005, she was named one of the Brilliant 10 by Popular Science magazine. In 2007, she was named a Canadian Research Chair in Integrative Behavioural Ecology. Her best known work is about the mating habits of Australian redback spiders where the most successful males often increase the amount of time they spend mating while being cannibalized by female redbacks. She appeared in the second episode of Season 4 of Nova ScienceNow. In 2020 she was featured in and presented an episode of CBC\'s The Nature of Things with David Suzuki about recent discoveries at the Burgess Shale, called "First Animals", and was interviewed for Quirks & Quarks on her research and work towards racial equity in STEM.',
+      "Maydianne Andrade est une écologiste canadienne d'origine jamaïcaine. Elle est connue pour ses travaux sur les habitudes d'accouplement des araignées, en particulier des araignées appartenant à l'espèce Latrodectus. En 2005, elle a été namemée l'une des Brilliant 10 par le magazine Popular Science. En 2007, elle a été namemée titulaire d'une chaire de recherche canadienne en écologie comportementale intégrative. Son travail le plus connu porte sur les habitudes d'accouplement des araignées rouges australiennes, où les mâles les plus prospères augmentent souvent le temps qu'ils passent à s'accoupler tout en étant cannibalisés par des femelles à dos rouge. Elle est apparue dans le deuxième épisode de la saison 4 de Nova ScienceNow. En 2020, elle a participé et présenté un épisode de The Nature of Things de CBC avec David Suzuki sur les récentes découvertes dans les schistes de Burgess, intitulé \"First Animals\", et a été interviewée pour Quirks",
     imageUrl: "21.jpg",
   },
   {
@@ -800,7 +794,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://web.archive.org/web/20131216035207/http://drjoanneliu.com/about",
     infoBlurb:
-      "Liu is a pediatric emergency physician at Sainte-Justine University Hospital Centre in Montreal, seeing 25 to 50 patients a shift as well as an associate professor at the University of Montreal. But if that wasn’t enough to blow you away, Liu is now going on 24 years with Médecins Sans Frontières (Doctors Without Borders), a French-based non-for-profit. The Star previously reported that since her first field mission, Liu has been on more than 20 assignments to 16 countries. She has worked in Somali refugee camps in Kenya, created a program to treat rape victims in the Democratic Republic of Congo, treated tsunami survivors in Indonesia in 2004, and helped devastated earthquake and cholera victims in Haiti. In 2013, Liu was elected the president of MSF.",
+      "Liu est urgentologue pédiatrique au Centre hospitalier universitaire Sainte-Justine à Montréal, accompagnant 25 à 50 patients par quart de travail ainsi que professeur agrégé à l'Université de Montréal. Mais si cela ne suffisait pas à vous épater, Liu est en cours depuis 24 ans avec Médecins Sans Frontières, une organisation à but non lucratif basée en France. Le Star a précédemment rapporté que depuis sa première mission sur le terrain, Liu a effectué plus de 20 missions dans 16 pays. travaillé dans des camps de réfugiés somaliens au Kenya, créé un programme de traitement des victimes de viol en République démocratique du Congo, soigné des survivants du tsunami en Indonésie en 2004 et aidé des victimes dévastées du tremblement de terre et du choléra en Haïti. En 2013, Liu a été élu président de MSF . ",
     imageUrl: "22.jpg",
   },
   {
@@ -810,9 +804,9 @@ export const jsonData: IElement[] = [
     name: "Ursula Franklin",
     dates: "1921-2016",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/ursula-franklin",
+      "https://www.thecanadianencyclopedia.ca/fr/article/ursula-franklin",
     infoBlurb:
-      "Franklin was a German-Canadian metallurgist, physicist and Holocaust survivor. Over the course of her lifetime, Franklin accumulated honours including the Order of Canada in 1982 and the Pearson Peace Medal in 2002. In 1967, she became the first female professor to join the University of Toronto’s department of metallurgy and material sciences. In 1984 she became the first woman named a University Professor at U of T, the institution’s highest honour. She retired in 1989 but continued to fight for equality. In 2001 she and three other retired professors launched a class action against U of T alleging the institution had paid women less than men for decades. The settlement led to about 60 retired female faculty members receiving compensation. Franklin died in 2016 at the age of 94 in Toronto.",
+      "Franklin était une métallurgiste, physicienne et survivante de l'Holocauste germano-canadienne. Au cours de sa vie, Franklin a accumulé des honneurs, notamment l'Ordre du Canada en 1982 et la Médaille de la paix Pearson en 2002. En 1967, elle est devenue la première femme professeur à se joindre à nous. Département de métallurgie et des sciences des matériaux de l'Université de Toronto. En 1984, elle est devenue la première femme à être namemée professeur d'université à l'Université de Toronto, la plus haute distinction de l'institution. Elle a pris sa retraite en 1989, mais a continué de se battre pour l'égalité. En 2001, elle et trois autres personnes ont pris leur retraite Les professeurs ont intenté un recours collectif contre l'U de T, alléguant que l'établissement avait payé les femmes moins que les hommes pendant des décennies. Le règlement a permis à une soixantaine de professeures à la retraite de recevoir une compensation. Franklin est décédé en 2016 à l'âge de 94 ans à Toronto. ",
     imageUrl: "23.jpg",
   },
   {
@@ -821,9 +815,9 @@ export const jsonData: IElement[] = [
     id: "Rb",
     name: "Roberta Bondar",
     dates: "1945",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/roberta-bondar",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/roberta-bondar",
     infoBlurb:
-      "Bondar was the second-ever Canadian to travel to space after Marc Garneau, and the first Canadian woman and neurologist in space. She later became head of an international space medicine team working with NASA to study how human physiology changes in space flight and during recovery. Her team published a number of papers over the next 10 years, and discovered how their research could be applied to illnesses here on Earth. She was chancellor at Trent University for six years and started an educational foundation in her name. In her spare time, Bondar is also a renowned photographer.",
+      "Bondar a été la deuxième Canadienne à voyager dans l'espace après Marc Garneau et la première femme canadienne et neurologue dans l'espace. Elle est devenue plus tard chef d'une équipe internationale de médecine spatiale travaillant avec la NASA pour étudier comment la physiologie humaine change pendant les vols spatiaux et pendant les vols spatiaux. Son équipe a publié un certain number d'articles au cours des 10 prochaines années et a découvert comment leurs recherches pourraient être appliquées aux maladies ici sur Terre. Elle a été chancelière de l'Université Trent pendant six ans et a créé une fondation éducative en son name. temps, Bondar est aussi un photographe renamemé. ",
     imageUrl: "24.jpg",
   },
   {
@@ -833,9 +827,9 @@ export const jsonData: IElement[] = [
     name: "Donna Strickland",
     dates: "1959",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/donna-strickland",
+      "https://www.thecanadianencyclopedia.ca/fr/article/donna-strickland",
     infoBlurb:
-      "Strickland is the third woman to win a Nobel Prize for physics, the second Canadian woman to win one at all. The prize was for developing the “chirped pulse amplification technique,” described by the academy as “generating high-intensity, ultrashort optical pulses.” The technique now has broad applications, including use in corrective laser eye surgery. Strickland is a professor at the University of Waterloo and in 2018 was listed as one of BBC’s 100 Women. In a previous interview with the Star, Strickland reflected on her position as a female scientist — being the first to win the prize in 55 years. She said she cited Goeppert-Mayer in her thesis and reflected that the scientist who won the prize decades ago was not paid for most of her work.",
+      "Strickland est la troisième femme à remporter un prix Nobel de physique, la deuxième Canadienne à en remporter un. Le prix était pour le développement de la\" technique d'amplification des impulsions pulsées \", décrite par l'académie comme \" générant des optiques ultracourtes de haute intensité. impulsions. \" La technique a maintenant de vastes applications, y compris une utilisation dans la chirurgie oculaire corrective au laser. Strickland est professeur à l'Université de Waterloo et en 2018 a été répertoriée comme l'une des 100 femmes de la BBC. Dans une précédente interview avec le Star, Strickland a réfléchi à sa position en tant que une femme scientifique - étant la première à remporter le prix en 55 ans. Elle a dit qu'elle a cité Goeppert-Mayer dans sa thèse et a indiqué que la scientifique qui a remporté le prix il y a des décennies n'était pas payée pour la plupart de son travail. ",
     imageUrl: "25.jpg",
   },
   {
@@ -846,7 +840,7 @@ export const jsonData: IElement[] = [
     dates: "---",
     urlLink: "https://www.eugeniaduodu.com/",
     infoBlurb:
-      "Duodu is a chemist and the CEO of Visions of Science Network for Learning (VoSNL), a charitable organization aiming to advance the development of youth from low-income and marginalized communities through meaningful engagement in science, technology, engineering and mathematics (STEM) fields and research.VoSNL works with Toronto Community Housing (TCH) and Peel Housing Corporation in 24 locations across Toronto, Mississauga and Brampton, serving more than 500 youth from Grades 3 to 12. In a previous interview with the Star she said, “I have this deep sense of purpose to uplift and empower those around me, especially youth. I want my legacy to be the lives impacted/changed as a result of my presence and work.” Duodu is the recipient of the Harry Jerome CIBC Academics Award by the Black Business and Professional Association (BBPA) as well as the Adel S. Sedra Distinguished Graduate Award.",
+      "Duodu est chimiste et PDG de Visions of Science Network for Learning (VoSNL), une organisation caritative qui vise à faire progresser le développement des jeunes issus de communautés à faible revenu et marginalisées grâce à un engagement significatif dans les sciences, la technologie, l'ingénierie et les mathématiques (STEM). VoSNL travaille avec Toronto Community Housing (TCH) et Peel Housing Corporation dans 24 endroits à Toronto, Mississauga et Brampton, au service de plus de 500 jeunes de la 3e à la 12e année. Lors d'une précédente entrevue avec le Star, elle a déclaré: \"Je avoir ce sens profond du but d'élever et de responsabiliser ceux qui m'entourent, en particulier les jeunes. Je veux que mon héritage soit la vie affectée / changée en raison de ma présence et de mon travail.\" Duodu est le récipiendaire du prix Harry Jerome CIBC Academics Award de la Black Business and Professional Association (BBPA) ainsi que du Adel S. Sedra Distinguished Graduate Award.",
     imageUrl: "26.jpg",
   },
   {
@@ -855,9 +849,9 @@ export const jsonData: IElement[] = [
     id: "Ay",
     name: "Amelia Yeomans",
     dates: "1842-1913",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/amelia-yeomans",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/amelia-yeomans",
     infoBlurb:
-      "Amelia Yeomans (née LeSueur), physician, social and political reformer, temperance advocate, suffragist and public speaker (born 29 March 1842 in Québec City, Canada East; died 22 April 1913 in Calgary, AB). Yeomans practised in the burgeoning field of social medicine, where social and economic conditions are understood to impact health. She was unafraid to publicize her work and findings, shining a light into the darker corners of life, where social stigma and shame prevented people from venturing.",
+      "Amelia Yeomans (née LeSueur), médecin, réformatrice sociale et politique, défenseur de la tempérance, suffragiste et oratrice (née le 29 mars 1842 à Québec, Canada-Est; décédée le 22 avril 1913 à Calgary, AB). Les Yeomans ont exercé dans le domaine en plein essor de médecine sociale, où les conditions sociales et éconameiques sont considérées comme ayant un impact sur la santé. Elle n'avait pas peur de faire connaître son travail et ses découvertes, éclairant les recoins les plus sombres de la vie, où la stigmatisation sociale et la honte empêchaient les gens de s'aventurer. ",
     imageUrl: "27.jpg",
   },
   {
@@ -867,9 +861,9 @@ export const jsonData: IElement[] = [
     name: "Jane Jacobs",
     dates: "1916-2006",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/jane-isabel-jacobs",
+      "https://www.thecanadianencyclopedia.ca/fr/article/jane-isabel-jacobs",
     infoBlurb:
-      "Jacobs earned renown for her books, beginning with The Death and Life of Great American Cities (1961). In her writings Jacobs employed innovative expository techniques, including dialogues, to explain how economies and cities function and to analyse the conditions that permit them to thrive.",
+      "Jacobs a acquis une renamemée pour ses livres, à commencer par La mort et la vie des grandes villes américaines (1961). Dans ses écrits, Jacobs a utilisé des techniques d’exposition innovantes, y compris des dialogues, pour expliquer le fonctionnement des éconameies et des villes et pour analyser les conditions qui leur permettent de prospérer.",
     imageUrl: "28.jpg",
   },
   {
@@ -878,9 +872,9 @@ export const jsonData: IElement[] = [
     id: "Ma",
     name: "Maude Abbott",
     dates: "1868-1940",
-    urlLink: "https://thecanadianencyclopedia.ca/en/article/maude-abbott",
+    urlLink: "https://thecanadianencyclopedia.ca/fr/article/maude-abbott",
     infoBlurb:
-      "Maude Abbott is known as the author of The Atlas of Congenital Cardiac Disease (1936), a groundbreaking text in cardiac research. Though Abbott graduated in arts from McGill University (1890), she was barred from studying medicine at McGill because of her gender. Instead, she attended Bishop’s College (now Bishop’s University), earning a medical degree in 1894. As assistant curator of the McGill Medical Museum (1898), and curator (1901), she revolutionized the teaching of pathology by using the museum as an instructional tool.",
+      "Maude Abbott est connue comme l'auteur de l'Atlas des maladies cardiaques congénitales (1936), un texte révolutionnaire en recherche cardiaque. Bien qu'Abbott soit diplômée en arts de l'Université McGill (1890), elle n'a pas été autorisée à étudier la médecine à McGill en raison de son sexe. Au lieu de cela, elle a fréquenté le Bishop's College (aujourd'hui Bishop's University), obtenant un diplôme de médecine en 1894. En tant que conservatrice adjointe du Musée médical de McGill (1898) et conservatrice (1901), elle a révolutionné l'enseignement de la pathologie en utilisant le musée comme un outil pédagogique. ",
     imageUrl: "109.jpg",
   },
   {
@@ -890,9 +884,9 @@ export const jsonData: IElement[] = [
     name: "Elizabeth Lawrie Smellie",
     dates: "1884-1968",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/elizabeth-lawrie-smellie",
+      "https://www.thecanadianencyclopedia.ca/fr/article/elizabeth-lawrie-smellie",
     infoBlurb:
-      "Elizabeth (Beth) Smellie wrote that she had been “occasionally addressed as Colonel, Doctor, Matron, Sister, or Miss Smellie” — each title revealing different aspects of her life and career. She served as a nursing sister during the First World War, rose through the ranks as a matron and then assistant to the matron-in-chief of the postwar army nursing service. She left the military to take public health courses, teach at the McGill University School for Graduate Nurses, and work for the Victorian Order of Nurses (VON) before becoming the VON’s chief superintendent.",
+      "Elizabeth (Beth) Smellie a écrit qu’elle avait été \" occasionnellement appelée colonel, médecin, infirmière, sœur ou mademoiselle Smellie \"- chaque titre révélant différents aspects de sa vie et de sa carrière. Elle a été infirmière pendant la Première Guerre mondiale. , a gravi les échelons en tant que matrone puis assistante de la matrone en chef du service infirmier de l'armée d'après-guerre. Elle a quitté l'armée pour suivre des cours de santé publique, enseigner à l'École des infirmières diplômées de l'Université McGill et travailler pour le Victorian Ordre des infirmières (VON) avant de devenir le surintendant en chef du VON. ",
     imageUrl: "110.jpg",
   },
   {
@@ -901,9 +895,9 @@ export const jsonData: IElement[] = [
     id: "Mb",
     name: "Martha Black",
     dates: "1866-1957",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/martha-black",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/martha-black",
     infoBlurb:
-      "Naturalist, Politician. Martha Black joined the Klondike Gold Rush in 1898, hiking over the Chilkoot Pass. She became a Fellow of the Royal Geographical Society for her research and lectures on Yukon flora. From 1935 to 1940, Black represented the Yukon in Parliament. She was the second woman elected to the Canadian House of Commons.",
+      "Naturaliste, politicienne. Martha Black s'est jointe à la ruée vers l'or du Klondike en 1898, parcourant le col Chilkoot. Elle est devenue membre de la Royal Geographical Society pour ses recherches et ses conférences sur la flore du Yukon. De 1935 à 1940, Black a représenté le Yukon au Parlement. . Elle était la deuxième femme élue à la Chambre des communes canadienne. ",
     imageUrl: "111.jpg",
   },
   {
@@ -912,9 +906,9 @@ export const jsonData: IElement[] = [
     id: "So",
     name: "Sandra Oh",
     dates: "1971",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/sandra-oh",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/sandra-oh",
     infoBlurb:
-      "Actor, Producer (born 20 July 1971 in Nepean, ON). Sandra Oh is a versatile actor whose performances in film and television have won popular and critical acclaim. She won Genie Awards for her performances in Double Happiness (1994) and Last Night (1998) before gaining international recognition for her role in the successful ABC medical drama Grey’s Anatomy (2005–14).",
+      "Actrice, productrice (née le 20 juillet 1971 à Nepean, ON). Sandra Oh est une actrice polyvalente dont les performances au cinéma et à la télévision ont été acclamées par la population et la critique. Elle a remporté des prix Génie pour ses performances dans Double Happiness (1994) et Last Night (1998) avant de gagner une reconnaissance internationale pour son rôle dans le drame médical à succès Grey's Anatomy (2005–14). ",
     imageUrl: "4.jpg",
   },
   {
@@ -923,9 +917,9 @@ export const jsonData: IElement[] = [
     id: "Rm",
     name: "Rachel McAdams",
     dates: "1978",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/rachel-mcadams",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/rachel-mcadams",
     infoBlurb:
-      "Rachel McAdams is perhaps best known as a leading lady in such Hollywood romances as The Notebook (2004), The Time Traveler’s Wife (2009) and The Vow (2012). After graduating with a BFA from York University in 2001, she made a meteoric rise to stardom, going from a Gemini Award-winning role in the Canadian TV series Slings & Arrows (2003) to her breakthrough Hollywood performance in the hit high school comedy Mean Girls (2004). She was inducted into Canada’s Walk of Fame in 2014 and received Screen Actors Guild and Oscar nominations for her supporting performance in the Oscar-winning Spotlight (2015).",
+      "Rachel McAdams est peut-être mieux connue comme une femme de premier plan dans des romances hollywoodiennes telles que The Notebook (2004), The Time Traveler's Wife (2009) et The Vow (2012). Après avoir obtenu un baccalauréat en beaux-arts de l'Université York en 2001, elle a fait un ascension fulgurante vers la célébrité, passant d'un rôle primé dans la série télévisée canadienne Slings & Arrows (2003) à sa percée hollywoodienne dans la comédie à succès Mean Girls (2004). Elle a été intronisée à l'Allée des célébrités canadiennes en 2014 et a reçu des nameinations à la Screen Actors Guild et aux Oscars pour sa performance de soutien dans Spotlight, lauréat d'un Oscar (2015). ",
     imageUrl: "12.jpg",
   },
   {
@@ -935,9 +929,9 @@ export const jsonData: IElement[] = [
     name: "Catherine O'Hara",
     dates: "1954",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/catherine-ohara",
+      "https://www.thecanadianencyclopedia.ca/fr/article/catherine-ohara",
     infoBlurb:
-      "Catherine O’Hara is one of Canada’s most prominent comedic actors. She is perhaps best known for her work in television on SCTV(1976–79, 1981–83) and Schitt’s Creek (2015–20), as well as for her roles in Home Alone (1990) and Home Alone 2: Lost in New York (1992), and her many collaborations with director Christopher Guest. The winner of Emmy, Golden Globe, Gemini, Genie and Canadian Screen Awards, she is an Officer of the Order of Canadaand a member of Canada’s Walk of Fame.",
+      "Catherine O'Hara est l'une des comédiennes comiques les plus en vue au Canada. Elle est peut-être mieux connue pour son travail à la télévision sur SCTV (1976-1979, 1981-1983) et Schitt's Creek (2015-2020), ainsi que pour ses rôles dans Home Alone (1990) et Home Alone 2: Lost in New York (1992), et ses numberuses collaborations avec le réalisateur Christopher Guest. Lauréate des Emmy, Golden Globe, Gemini, Genie et Canadian Screen Awards, elle est Officier du Ordre du Canada et membre de l'Allée des célébrités canadiennes. ",
     imageUrl: "20.jpg",
   },
   {
@@ -946,9 +940,9 @@ export const jsonData: IElement[] = [
     id: "Ad",
     name: "Arlene Duncan",
     dates: "---",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/arlene-duncan",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/arlene-duncan",
     infoBlurb:
-      "Arlene Duncan is an award-winning actress and singer who has worked extensively in theatre, television, radio and film, but is perhaps best-known for her role as the conservative and crotchety café owner Fatima Dinssa on the hit CBC Television series “Little Mosque on the Prairie” (2007–12).",
+      'Arlene Duncan est une actrice et chanteuse primée qui a beaucoup travaillé au theatre, à la télévision, à la radio et au cinéma, mais est peut-être mieux connue pour son rôle de propriétaire de café conservatrice et crotchety Fatima Dinssa dans la série à succès de CBC Television "Little Mosquée dans la prairie " (2007–12)',
     imageUrl: "38.jpg",
   },
   {
@@ -959,7 +953,7 @@ export const jsonData: IElement[] = [
     dates: "----",
     urlLink: "https://www.broadwayworld.com/people/bio/Irene-Sankoff/",
     infoBlurb:
-      "Irene Sankoff is a Canadian librettist and composer-lyricist, best known for co-writing the Broadway musical Come from Away with her writing partner and husband, David Hein.",
+      "Irene Sankoff est une librettiste et compositrice-parolière canadienne, surtout connue pour avoir co-écrit la comédie musicale de Broadway Come from Away avec son partenaire d'écriture et mari, David Hein.",
     imageUrl: "88.jpg",
   },
   {
@@ -969,9 +963,9 @@ export const jsonData: IElement[] = [
     name: "Doris Anderson",
     dates: "1921–2007",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/doris-hilda-anderson",
+      "https://www.thecanadianencyclopedia.ca/fr/article/doris-hilda-anderson",
     infoBlurb:
-      "Magazine editor and women’s movement champion. Doris Anderson was a long-time editor of Chatelaine magazine and a newspaper columnist. Through the 1960s",
+      " Rédacteur en chef du magazine et le champion du mouvement des femmes. Doris Anderson était un éditeur de longue date du magazine Châtelaine et chroniqueur de journal. Dans les années 1960 ",
     imageUrl: "1.jpg",
   },
   {
@@ -981,9 +975,9 @@ export const jsonData: IElement[] = [
     name: "Lucy Maud Montgomery",
     dates: "1874–1942",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/montgomery-lucy-maud",
+      "https://www.thecanadianencyclopedia.ca/fr/article/montgomery-lucy-maud",
     infoBlurb:
-      "An author with an enduring legacy. Lucy Maud Montgomery is most famous for being the creator of “Anne",
+      'Un auteur avec un héritage durable. Lucy Maud Montgomery est surtout connue pour être la créatrice de "Anne ',
     imageUrl: "6.jpg",
   },
   {
@@ -994,18 +988,18 @@ export const jsonData: IElement[] = [
     dates: "---",
     urlLink: "https://tamarhuggins.com/",
     infoBlurb:
-      "A social entrepreneur, according to her website, Huggins has helped Black and female tech founders raise over 1.1 million dollars to launch their tech startups in Canada. In 2015, Tamar launched Tech Spark – Canada’s first technology and design school committed to empowering girls and children of colour through innovative tech education when she realized the importance for young girls and children of colour to see positive reflections of themselves within the tech industry. In 2017, Tamar was honoured as one of Canada’s top 150 Black women creating impact across the nation by CBC and Herstory In Black. Tech Spark educated over 1,500 youth in under two years and is on track",
+      "Entrepreneur social, selon son site Web, Huggins a aidé les fondatrices noires et féminines de la technologie à lever plus de 1,1 million de dollars pour lancer leurs startups technologiques au Canada. En 2015, Tamar a lancé Tech Spark, la première école de technologie et de enfants de couleur grâce à une éducation technologique innovante lorsqu'elle a réalisé l'importance pour les jeunes filles et les enfants de couleur de voir des reflets positifs d'eux-mêmes au sein de l'industrie de la technologie. En 2017, Tamar a été honorée comme l'une des 150 meilleures femmes noires du Canada ayant CBC et Herstory In Black. Tech Spark a formé plus de 1 500 jeunes en moins de deux ans et est sur la bonne voie ",
     imageUrl: "7.jpg",
   },
   {
     number: "8",
     category: "writers",
-    id: "Cb",
-    name: "Cassie Brown",
-    dates: "1919–1986",
-    urlLink: "https://www.heritage.nf.ca/articles/arts/cassie-eileen-brown.php",
+    id: "R",
+    name: "Robyn Maynard",
+    dates: "----",
+    urlLink: "https://robynmaynard.com/",
     infoBlurb:
-      "Author, editor, journalist, and publisher. Brown was born in Rose Blanche, Newfoundland and moved with her family to St. John’s in the 1930s. She wrote five literary works and won the government of Newfoundland and Labrador Arts and Letters competition from 1954 to 1957.",
+      'Robyn Maynard est une auteure et chercheuse basée à Toronto. Elle est l\'auteure de Policing Black Lives: State violence in Canada from slavery to the present (Fernwood 2017). Le livre est un best-seller national, désigné comme l\'un des " 100 meilleurs livres of 2017 " par le Hill Times, répertorié dans les " meilleurs livres de 2018 " de The Walrus, sélectionné pour un Atlantic Book Award, le Concordia University First Book Prize et le Mavis Gallant Prize for Non-fiction, et le lauréat du prix annuel Errol 2017 Morris Book Prize. À l\'automne 2018, le livre a été publié en français avec Mémoire d\'encrier, intitulé NoirEs sous surveillance. Esclavage, répression et violence d\'État au Canada. Traduit par Catherine Ego, il a récemment remporté le Prix de libraires 2019 category des "essais". ',
     imageUrl: "8.jpg",
   },
   {
@@ -1015,8 +1009,8 @@ export const jsonData: IElement[] = [
     name: "Margaret Laurence",
     dates: "1926–1987",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/margaret-laurence",
-    infoBlurb: "One of the giants of Canadian literature. Born in Neepawa",
+      "https://www.thecanadianencyclopedia.ca/fr/article/margaret-laurence",
+    infoBlurb: "Un des géants de la littérature canadienne. Né à Neepawa",
     imageUrl: "15.jpg",
   },
   {
@@ -1025,20 +1019,21 @@ export const jsonData: IElement[] = [
     id: "Gr",
     name: "Gabrielle Roy",
     dates: "1909–1983",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/gabrielle-roy",
+    urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/gabrielle-roy",
     infoBlurb:
-      "A francophone writer who gifted to Canada some of the most memorable novels of the twentieth century. Gabrielle Roy chronicled hardship and hope",
+      " Un écrivain francophone qui doué au Canada certains des plus mémorables romans du XXe siècle. Gabrielle Roy difficultés et d' espoir chroniqué ",
     imageUrl: "16.jpg",
   },
   {
     number: "34",
     category: "writers",
-    id: "Jc",
-    name: "June Callwood",
-    dates: "1924–2007",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/june-callwood",
+    id: "M",
+    name: "Margaret Atwood",
+    dates: "1939",
+    urlLink:
+      "https://www.thecanadianencyclopedia.ca/fr/article/margaret-atwood",
     infoBlurb:
-      "Author, journalist, broadcaster, and activist. Callwood started her journalistic career at the Brantford Expositor, and got a job with The Globe and Mail in 1942. She left The Globe to raise a family but continued as a freelance journalist, writing for Macleans and other magazines.",
+      "Margaret Eleanor Atwood, CC, poète, romancière, critique. Écrivaine variée et prolifique, Margaret Atwood est l'une des principales auteurs contemporains du Canada.",
     imageUrl: "34.jpg",
   },
 ];
