@@ -28,36 +28,35 @@ export const jsonData: IElement[] = [
   {
     number: "49",
     category: "activists",
-    id: "T",
-    name: "Thanadelthur",
-    dates: "1697–1717",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/thanadelthur",
+    id: "Ie",
+    name: "Ilwad Elman",
+    dates: "1989",
+    urlLink: "http://elmanpeace.org/ilwad-elman/",
     infoBlurb:
-      "Thanadelthur (Chipewyan for “marten shake”), peace negotiator, guide, teacher, interpreter (born c. 1697 likely in present-day northern MB; died 5 February 1717 at York Factory, MB). Known as the Ambassadress of Peace, Thanadelthur negotiated peace between the Chipewyan (Denesuline) and Cree peoples during the early fur trade. She was also instrumental in creating ties between the Chipewyan people and the Hudson’s Bay Company, as well as expanding the fur trade in today’s Churchill, Manitoba region.",
+      "Ilwad returned from Canada to Somalia in 2010 whilst the conflict still raged heavily and the majority of Mogadishu and South Central Regions of Somalia were lost to the control of the Al-Qaeda linked terrorist group Al-Shabaab. She remained in Somalia ever since, co-founding the first rape crisis centre for survivors of sexual and gender based violence, designing interventions aimed at security sector reform to create an inclusive space for women in peace building, and developing programs for the disarmament and rehabilitation of child soldiers and adults defecting from armed groups for their socio-economic empowerment, rehabilitation and reintegration.",
     imageUrl: "49.jpg",
   },
   {
     number: "50",
     category: "activists",
-    id: "Lg",
-    name: "Laure Gaudreault",
-    dates: "1889–1975",
+    id: "H",
+    name: "Hodan Nalayeh",
+    dates: "1976-2019",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/laure-gaudreault",
+      "https://toronto.ctvnews.ca/vaughan-ont-high-school-to-be-renamed-after-somali-canadian-journalist-hodan-nalayeh-1.5333067",
     infoBlurb:
-      "Union activist and advocate of fair working conditions for teachers. Laure Gaudreault began teaching in rural Quebec in 1906. She was sixteen years old, paying for her own supplies, and making $125 per year — a small fraction of a teacher’s wage in the city.",
+      "Hodan Nalayeh (Somali: Hodan Naalaye; Arabic: هودان نالايآه‎) was a Somali-Canadian media executive, marketing consultant, social activist and entrepreneur. She was president of the Cultural Integration Agency and vice president of Sales & Programming Development of Cameraworks Productions International. She was a journalist and inspirational storyteller whose message to youth was that achievement depends on perseverance and education,",
     imageUrl: "50.jpg",
   },
   {
     number: "81",
     category: "activists",
-    id: "Mp",
-    name: "Madeleine Parent",
-    dates: "1918–2012",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/madeleine-parent",
+    id: "Jbl",
+    name: "Jean B-Lumb",
+    dates: "1919–2002",
+    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/jean-lumb",
     infoBlurb:
-      "In 1942, barely 24 years old, she led the union movement at the Valleyfield and Montréal factories of the powerful Dominion Textile company under the banner of the United Textile Workers of America (UTWA). That same year, she met Kent Rowley, who would not only become her husband but her colleague in arms.",
+      "Jean Lumb was the first Chinese Canadian woman and first restaurateur inducted into the Order of Canada. She is also best known for her role in successfully lobbying the federal government to change its discriminatory immigration policies that separated Chinese families. Lumb also led the Save Chinatown Committee to prevent further demolition of Toronto’s Chinatown in the 1960s.",
     imageUrl: "81.jpg",
   },
   {
@@ -110,13 +109,12 @@ export const jsonData: IElement[] = [
   {
     number: "114",
     category: "artists",
-    id: "Mal",
-    name: "Maud Lewis",
+    id: "Vs",
+    name: "Vivek Shraya",
     dates: "1903-1970",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/paying-tribute-to-painter-maud-lewis",
+    urlLink: "https://vivekshraya.com",
     infoBlurb:
-      "Maud Kathleen Lewis was a Canadian folk artist from Nova Scotia. Lewis lived most of her life in poverty in a small house in Marshalltown, Nova Scotia, achieving national recognition in 1964 and 1965. Several books, plays and films have since been produced about her. Lewis remains one of Canada's best-known folk artists; her works and the restored Maud Lewis House are displayed in the Art Gallery of Nova Scotia.",
+      "Vivek Shraya is an artist whose body of work crosses the boundaries of music, literature, visual art, theatre, and film. Her best-selling book I’m Afraid of Men was her­ald­ed by Vanity Fair as “cultural rocket fuel,” and her album Part‑Time Woman was nominated for the Polaris Music Prize. She is also the founder of the publishing imprint VS. Books.",
     imageUrl: "114.jpg",
   },
   {
@@ -144,13 +142,12 @@ export const jsonData: IElement[] = [
   {
     number: "117",
     category: "artists",
-    id: "Pc",
-    name: "Paraskeva Clark",
-    dates: "1898-1986",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/paraskeva-clark",
+    id: "W",
+    name: "Wondagurl",
+    dates: "1996",
+    urlLink: "https://en.wikipedia.org/wiki/WondaGurl",
     infoBlurb:
-      "Paraskeva Clark was a Canadian painter. Her work is often political as she believed that “an artist must act as a witness to class struggle and other societal issues",
+      "Ebony Naomi Oshunrinde (born December 28, 1996), professionally known as WondaGurl, is a Canadian record producer, songwriter and record executive. WondaGurl has worked with several prominent artists in the music industry, including Mariah Carey, Travis Scott, Jay-Z, Drake and Kanye West, among others.",
     imageUrl: "117.jpg",
   },
   {
@@ -376,13 +373,12 @@ export const jsonData: IElement[] = [
   {
     number: "72",
     category: "firsts",
-    id: "Mv",
-    name: "Marie-Madeleine Jarret de Verchères",
-    dates: "1678–1747",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/marie-madeleine-jarret-de-vercheres",
+    id: "Gm",
+    name: "Ginella Massa",
+    dates: "1987",
+    urlLink: "https://www.cbc.ca/mediacentre/bio/ginella-massa",
     infoBlurb:
-      "Marie-Madeleine Jarret de Verchères (born 3 March 1678 in Verchères, Quebec; died August 1747 in Sainte-Anne-de-la-Pérade, Quebec). Madeleine de Verchères is best known for her role in the defence of Fort Verchères in New France in 1692. She is remembered as a military heroine, and her image became part of efforts to recruit Canadian women for wartime work during the First and Second World Wars.",
+      "Ginella Massa is a Canadian Screen Award-winner best known as Canada's first hijab-wearing television news reporter, local anchor, and national host. She is currently the host of CANADA TONIGHT WITH GINELLA MASSA airing weeknights at 8 p.m. ET / 5 p.m. PT on CBC News Network. Massa made history in 2015, believed to be the first television news reporter in North America to wear a hijab on-air when she was hired as a Video Journalist for CTV News in Kitchener, Ontario. She made international headlines again after anchoring the evening newscast at CityNews Toronto in 2016. ",
     imageUrl: "72.jpg",
   },
   {
@@ -410,13 +406,13 @@ export const jsonData: IElement[] = [
   {
     number: "75",
     category: "firsts",
-    id: "Mg",
-    name: "Marie Lacoste Gérin-Lajoie",
-    dates: "1867–1945",
+    id: "Cs",
+    name: "Corinne Sparks",
+    dates: "----",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/marie-gerin-lajoie-nee-lacoste",
+      "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-robert-wright-judicial-equity-1.3963884",
     infoBlurb:
-      "Marie Gérin-Lajoie, feminist, pioneer social worker, founder of the Institut Notre-Dame du Bon-Conseil (born 9 June 1890 in Montréal, QC; died 7 January 1971 in Montréal). Gérin-Lajoie is the daughter of Marie Gérin-Lajoie (née Lacoste), a pioneer of the women’s rights movement in Québec. She was the first French Canadian woman to earn a Bachelor of Arts degree (1911).",
+      "Corrine Sparks is a Canadian judge. She was the first Black Canadian woman to become a judge in Canada, and the first black judge in the province of Nova Scotia. Her decision in the case R v S (RD), which was controversially overturned on appeal, was later upheld by the Supreme Court of Canada in a leading decision on reasonable apprehension of bias.",
     imageUrl: "75.jpg",
   },
   {
@@ -561,36 +557,36 @@ export const jsonData: IElement[] = [
   {
     number: "5",
     category: "government",
-    id: "Tc",
-    name: "Thérèse Casgrain",
-    dates: "1896–1981",
+    id: "Tt",
+    name: "Dr Theresa Tam",
+    dates: "1965",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/therese-casgrain#",
+      "https://www.who.int/about/who_reform/emergency-capacities/oversight-committee/theresa-tam/en/",
     infoBlurb:
-      "Thérèse Casgrain, née Forget, CC, OBE, reformer, activist, feminist, politician (born 10 July 1896 in Montréal, QC; died 2 November 1981 in Montréal). Best remembered for leading the campaign for women's suffrage in Québec, Thérèse Casgrain was the first woman to be elected the leader of a political party in Canada. She had a long political career and vigorously fought against social, economic and political injustices affecting both women and men.",
+      "Dr Theresa Tam was named Canada’s Chief Public Health Officer on June 26, 2017. She is a physician with expertise in immunization, infectious disease, emergency preparedness and global health security.",
     imageUrl: "5.jpg",
   },
   {
     number: "14",
     category: "government",
-    id: "Ef",
-    name: "Ellen Fairclough",
-    dates: "1905–2004",
+    id: "D",
+    name: "Diane Rowe",
+    dates: "----",
     urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/ellen-fairclough",
+      "https://www.canada.ca/en/department-justice/news/2020/05/government-of-canada-announces-a-judicial-appointment-in-the-province-of-nova-scotia.html ",
     infoBlurb:
-      "Canadian politician, first woman to serve in the Canadian Cabinet, and a women’s rights advocate. Fairclough worked as an accountant until being elected as a Progressive Conservative Member of Parliament for Hamilton West.",
+      "Justice Diane Rowe graduated from the University of New Brunswick’s Faculty of Law in 1997. She was admitted to the Nova Scotia Bar in 1998 and the Newfoundland and Labrador Bar in 2001. She has a deep commitment to public service, justice, and equality. Justice Rowe has engaged in volunteer advocacy work on behalf of Indigenous peoples, equality rights, refugee claimants, and the LGBTQ community. She is Anishinaabe Two-Spirit. As a Sixties Scoop child, she was sent to Newfoundland. Justice Rowe was formally welcomed into her spouse’s family and community as a member of the Micmacs of Gesgapegiag Band, in Gespe’ge’wagi, the seventh district of Mi’kma’ki.",
     imageUrl: "14.jpg",
   },
   {
     number: "32",
     category: "government",
-    id: "Jv",
-    name: "Julia Verlyn LaMarsh",
+    id: "Cc",
+    name: "Celina Caesar-Chavannes",
     dates: "1924–1980",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/judy-lamarsh",
+    urlLink: "https://www.celinacc.ca/about/",
     infoBlurb:
-      "Julia Verlyn (Judy) LaMarsh, OC, lawyer, politician, broadcaster, author (born 20 December 1924 in Chatham, ON; died 27 October 1980 in Toronto). Judy LaMarsh was a force in politics at a time when Canadian women were fighting for equal treatment in the country’s political system. She became the second female federal Cabinet minister in Canadian history when Prime Minister Lester B. Pearson named her Minister of National Health and Welfare in 1963. She was instrumental in the development of several groundbreaking federal programs, including Medicare and the Canada Pension Plan. As Canada’s Secretary of State (1965–68), she pushed for the establishment of the Royal Commission on the Status of Women in Canada and coordinated Canada’s Centennial year festivities. Fiercely outspoken, LaMarsh remained active in public life after her retirement from politics, as an author, a broadcaster and a lawyer.",
+      "Celina Caesar-Chavannes is a business consultant, coach, international speaker and best-selling author. She currently serves as the Sr. Advisor of Equity, Diversity, Inclusion Initiatives and Adjunct Lecturer at Queen’s University. Celina was the former Member of Parliament, with the Government of Canada, representing the Town of Whitby, a suburb east of Toronto, and served as Parliamentary Secretary to Prime Minister Justin Trudeau from December 2015 to January 2017 and served as the Parliamentary Secretary to the Minister of International Development et la Francophonie from January 2017 to August 2018.",
     imageUrl: "32.jpg",
   },
   {
@@ -700,12 +696,12 @@ export const jsonData: IElement[] = [
   {
     number: "86",
     category: "musician",
-    id: "Al",
-    name: "Avril Lavigne",
-    dates: "1984",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/avril-lavigne",
+    id: "TS",
+    name: "Tegan and Sara",
+    dates: "1980",
+    urlLink: "https://www.teganandsarafoundation.org/about",
     infoBlurb:
-      'With tutelage from Vancouver-based Nettwerk Management, the young singer sold well over 10 million copies of Let Go around the world, and she received a diamond award for selling a million units in Canada from Prime Minister Jean Chrétien while she was in Ottawa for the 2003 Juno Awards. While there, she also picked up Junos for Best Album, New Artist, Pop Artist and Single ("Complicated"). "Complicated,""Sk8er Boi,""Losing Grip" and "I\'m With You" were all major hits from the album. Lavigne\'s brash attitude, knack for coming up with catchy pop tunes and eclectic sense of fashion has made her an icon among young female fans.',
+      "Twin sisters born in Canada, Tegan and Sara have sold more than one million albums, and have received seven Gold certifications, one Double Platinum certification, three Juno Awards, two Polaris Prize nominations, and a Grammy nomination. They have performed on some of the world’s biggest stages, from the 2015 Oscar Telecast to major festivals such as Coachella, Lollapalooza and Glastonbury. ",
     imageUrl: "86.jpg",
   },
   {
@@ -723,13 +719,12 @@ export const jsonData: IElement[] = [
   {
     number: "9",
     category: "poets",
-    id: "At",
-    name: "Margaret Atwood",
-    dates: "1916–2000",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/margaret-atwood",
+    id: "Ac",
+    name: "Dr Afua Cooper",
+    dates: "1957",
+    urlLink: "https://afuacooper.com/about/",
     infoBlurb:
-      "A writer whose work was universally recognized in all francophone countries. Anne Hébert won all the major awards in France and Belgium and the Governor General’s Award for fiction three times in Canada. She wrote poems",
+      "A poet, performer, scholar, historian, and social and cultural commentator, Dr. Afua Cooper’s expertise in and contributions to the arts, history, and education were recognized when she was presented in 2015 with the Nova Scotia Human Rights Award from the Nova Scotia Human Rights Commission.",
     imageUrl: "9.jpg",
   },
   {
@@ -771,13 +766,12 @@ export const jsonData: IElement[] = [
   {
     number: "85",
     category: "poets",
-    id: "Ic",
-    name: "Isabella Valancy Crawford",
-    dates: "1850-1887",
-    urlLink:
-      "https://www.thecanadianencyclopedia.ca/en/article/isabella-valancy-crawford",
+    id: "Rk",
+    name: "Rupi Kaur",
+    dates: "1992",
+    urlLink: "https://rupikaur.com/about-me/",
     infoBlurb:
-      "Crawford began to write and publish the poems and stories that became her family's chief source of income following her father's death in 1875. To further her writing career, she moved with her family to Toronto, where they lived in a succession of boarding houses (1883-87). During this productive period she contributed numerous serialized novels and novellas to New York and Toronto publications and wrote much popular verse.",
+      "As a 21-year-old university student Rupi wrote, illustrated and self-published her first poetry collection, milk and honey. Next came its artistic sibling, the sun and her flowers. These collections have sold over 8 million copies and have been translated into over 42 languages. Her most recent book, home body, debuted #1 on bestsellers lists across the world. Rupi’s work touches on love, loss, trauma, healing, femininity, and migration. She feels most at home when creating art or performing her poetry on stage.",
     imageUrl: "85.jpg",
   },
   {
@@ -1000,12 +994,12 @@ export const jsonData: IElement[] = [
   {
     number: "8",
     category: "writers",
-    id: "Cb",
-    name: "Cassie Brown",
-    dates: "1919–1986",
-    urlLink: "https://www.heritage.nf.ca/articles/arts/cassie-eileen-brown.php",
+    id: "R",
+    name: "Robyn Maynard",
+    dates: "----",
+    urlLink: "https://robynmaynard.com/",
     infoBlurb:
-      "Author, editor, journalist, and publisher. Brown was born in Rose Blanche, Newfoundland and moved with her family to St. John’s in the 1930s. She wrote five literary works and won the government of Newfoundland and Labrador Arts and Letters competition from 1954 to 1957.",
+      "Robyn Maynard is a Toronto based author and scholar. She is the author of Policing Black Lives: State violence in Canada from slavery to the present (Fernwood 2017). The book is a  national bestseller, designated as one of the “best 100 books of 2017” by the Hill Times, listed in The Walrus‘s “best books of 2018”, shortlisted for an Atlantic Book Award, the Concordia University First Book Prize and the Mavis Gallant Prize for Non-fiction, and the winner of the 2017 Annual Errol Morris Book Prize. In fall 2018  the book was published in French with Mémoire d’encrier, titled NoirEs sous surveillance. Esclavage, répression et violence d’État au Canada. Translated by Catherine Ego,  it recently won the 2019 Prix de libraires in the category of “essais”.",
     imageUrl: "8.jpg",
   },
   {
@@ -1033,12 +1027,13 @@ export const jsonData: IElement[] = [
   {
     number: "34",
     category: "writers",
-    id: "Jc",
-    name: "June Callwood",
-    dates: "1924–2007",
-    urlLink: "https://www.thecanadianencyclopedia.ca/en/article/june-callwood",
+    id: "M",
+    name: "Margaret Atwood",
+    dates: "1939",
+    urlLink:
+      "https://www.thecanadianencyclopedia.ca/en/article/margaret-atwood",
     infoBlurb:
-      "Author, journalist, broadcaster, and activist. Callwood started her journalistic career at the Brantford Expositor, and got a job with The Globe and Mail in 1942. She left The Globe to raise a family but continued as a freelance journalist, writing for Macleans and other magazines.",
+      "Margaret Eleanor Atwood, CC, poet, novelist, critic. A varied and prolific writer, Margaret Atwood is one of Canada's major contemporary authors.",
     imageUrl: "34.jpg",
   },
 ];
