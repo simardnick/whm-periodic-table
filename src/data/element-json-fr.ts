@@ -22,7 +22,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/mary-two-axe-earley",
     infoBlurb:
-      "Contestation de la loi discriminatoire à l'égard des femmes des Premières Nations. Mary Two-Axe Earley s'est lancée dans l'activisme à l'âge de cinquante-cinq ans",
+      "Contestation de la loi discriminatoire à l'égard des femmes des Premières Nations. Mary Two-Axe Earley s'est lancée dans l'activisme à l'âge de cinquante-cinq ans. ",
     imageUrl: "31.jpg",
   },
   {
@@ -45,7 +45,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://toronto.ctvnews.ca/vaughan-ont-high-school-to-be-renamed-after-somali-canadian-journalist-hodan-nalayeh-1.5333067",
     infoBlurb:
-      "Hodan Nalayeh (somali: Hodan Naalaye; arabe: هودان نالايآه) était une dirigeante des médias somalo-canadienne, une consultante en marketing, une militante sociale et une entrepreneure. Elle a été présidente de l'Agence d'intégration culturelle et vice-présidente du développement des ventes et de la programmation de Cameraworks Productions Internationale. Elle était une journaliste et une conteuse inspirante dont le message aux jeunes était que la réussite dépend de la persévérance et de l'éducation ",
+      "Hodan Nalayeh (somali: Hodan Naalaye; arabe: هودان نالايآه) était une dirigeante des médias somalo-canadienne, une consultante en marketing, une militante sociale et une entrepreneure. Elle a été présidente de l'Agence d'intégration culturelle et vice-présidente du développement des ventes et de la programmation de Cameraworks Productions Internationale. Elle était une journaliste et une conteuse inspirante dont le message aux jeunes était que la réussite dépend de la persévérance et de l'éducation. ",
     imageUrl: "50.jpg",
   },
   {
@@ -67,7 +67,7 @@ export const jsonData: IElement[] = [
     dates: "-",
     urlLink: "https://saadiam.com/",
     infoBlurb:
-      "Entrepreneuse canadienne, auteure et fondateur de TechGirls Canada (un organisme avec but lucratif de promouvoir les femmes dans les STIM).",
+      "Entrepreneuse canadienne, auteure et fondateur de TechGirls Canada (un organisme avec but lucratif de promouvoir les femmes dans les STIM) .",
     imageUrl: "82.jpg",
   },
   {
@@ -103,7 +103,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/kenojuak-ashevak",
     infoBlurb:
-      "Une artiste inuite inspirant. Né dans un igloo sur la côte sud de l'île de Baffin",
+      "Une artiste inuite inspirant. Né dans un igloo sur la côte sud de l'île de Baffin. ",
     imageUrl: "113.jpg",
   },
   {
@@ -125,7 +125,7 @@ export const jsonData: IElement[] = [
     dates: "1871-1945",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-carr",
     infoBlurb:
-      "Un artiste de la côte ouest qui a été décrit comme Van Gogh du Canada. Né à Victoria ",
+      "Un artiste de la côte ouest qui a été décrit comme Van Gogh du Canada, né à Victoria. ",
     imageUrl: "115.jpg",
   },
   {
@@ -159,7 +159,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/fanny-rosenfeld",
     infoBlurb:
-      "Athlète canadienne, olympienne, et écrivaine sportif. \"Bobbie\" Rosenfeld était un excellent athlète polyvalent. En 1923, elle était la meilleure sprinteuse canadienne et en 1925, elle excelle au course de 200 mètres, saut en longueur, lancer du poids et disque. Elle a représenté le Canada aux Jeux olympiques d'été d'Amsterdam en 1928, et a remporté la médaille d'or au relais 4 x 100 mètres et l'argent au 100 mètres.",
+      "Athlète canadienne, olympienne, et écrivaine sportif. \"Bobbie\" Rosenfeld était un excellent athlète polyvalent. En 1923, elle était la meilleure sprinteuse canadienne et en 1925, elle excelle au course de 200 mètres, saut en longueur, lancer du poids et disque. Elle a représenté le Canada aux Jeux olympiques d'été d'Amsterdam en 1928, et a remporté la médaille d'or au relais 4 x 100 mètres et l'argent au 100 mètres. ",
     imageUrl: "29.jpg",
   },
   {
@@ -216,7 +216,7 @@ export const jsonData: IElement[] = [
     dates: "1965",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/silken-laumann",
     infoBlurb:
-      "En 1991, elle était devenue la première rameuse féminine du monde et a aussi remporté le championnat de la Coupe du monde. Deux mois avant les Jeux Olympiques de 1992 à Barcelone, le bateau de Laumann a été percuté accidentellement alors qu'elle se préparait pour une régate en Europe .",
+      "En 1991, elle était devenue la première rameuse féminine du monde et a aussi remporté le championnat de la Coupe du monde. Deux mois avant les Jeux Olympiques de 1992 à Barcelone, le bateau de Laumann a été percuté accidentellement alors qu'elle se préparait pour une régate en Europe. ",
     imageUrl: "43.jpg",
   },
   {
@@ -228,7 +228,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/chantal-petitclerc",
     infoBlurb:
-      "La plus grande coureuse en fauteuil roulant du Canada de tous les temps brille les pistes partout où sa carrière la mène - en tant qu'athlète, militante ou politicienne. Elle est la seule femme paralympienne à avoir remporté le prix Lou Marsh en tant que meilleure athlète au Canada (2008). Elle défend les personnes handicapées et a été chef de mission du Canada pour l'équipe paralympique de Rio 2016 et le Équipe des Jeux du Commonwealth de 2014. Membre du Panthéon des sports canadiens et Compagnon de l'Ordre du Canada, elle a été nominée au Sénat en mars 2016 ",
+      "La plus grande coureuse en fauteuil roulant du Canada de tous les temps brille les pistes partout où sa carrière la mène - en tant qu'athlète, militante ou politicienne. Elle est la seule femme paralympienne à avoir remporté le prix Lou Marsh en tant que meilleure athlète au Canada (2008). Elle défend les personnes handicapées et a été chef de mission du Canada pour l'équipe paralympique de Rio 2016 et le Équipe des Jeux du Commonwealth de 2014. Membre du Panthéon des sports canadiens et Compagnon de l'Ordre du Canada, elle a été nominée au Sénat en mars 2016. ",
     imageUrl: "44.jpg",
   },
   {
@@ -274,7 +274,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/elizabeth-muriel-gregory-macgill",
     infoBlurb:
-      "Pendant la Seconde Guerre mondiale, MacGill était ingénieure en chef pour le Canadian Car and Foundry Company, supervisant la production du Hawker Hurricane au Canada et concevant des modifications à l'avion pour le vol par temps froid. En 1942, une série de bandes dessinées sur MacGill l'a surnommée la \"Reine des ouragans.\"",
+      "Pendant la Seconde Guerre mondiale, MacGill était ingénieure en chef pour le Canadian Car and Foundry Company, supervisant la production du Hawker Hurricane au Canada et concevant des modifications à l'avion pour le vol par temps froid. En 1942, une série de bandes dessinées sur MacGill l'a surnommée la \"Reine des ouragans\". ",
     imageUrl: "11.jpg",
   },
   {
@@ -285,7 +285,7 @@ export const jsonData: IElement[] = [
     dates: "1914-1965",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/viola-desmond",
     infoBlurb:
-      "Contestation des pratiques de ségrégation en Nouvelle-Écosse; bien avant le mouvement moderne des droits civiques aux États-Unis",
+      "Contestation des pratiques de ségrégation en Nouvelle-Écosse; bien avant le mouvement moderne des droits civiques aux États-Unis. ",
     imageUrl: "19.jpg",
   },
   {
@@ -308,7 +308,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "http://www.experiencemountainparks.com/charlotte-small-woman-of-historic-significance/",
     infoBlurb:
-      "Épouse et interprète de l'explorateur David Thompson. Charlotte Small est née à l'Île-à-la-Crosse",
+      "Épouse et interprète de l'explorateur David Thompson. Charlotte Small est née à l'Île-à-la-Crosse. ",
     imageUrl: "55.jpg",
   },
   {
@@ -343,7 +343,7 @@ export const jsonData: IElement[] = [
     dates: "1876–1970",
     urlLink: "http://www.heroines.ca/people/gale.html",
     infoBlurb:
-      "Première échevin de l'Empire britannique. Quand Annie Gale et son mari William ont immigré à Calgary en 1912, elle a été consternée par les coûts élevés du logement et de la nourriture. Déterminée à changer les choses",
+      "Première échevin de l'Empire britannique. Quand Annie Gale et son mari William ont immigré à Calgary en 1912, elle a été consternée par les coûts élevés du logement et de la nourriture, déterminée à changer les choses. ",
     imageUrl: "47.jpg",
   },
   {
@@ -355,7 +355,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://ottawacitizen.com/news/local-news/fifteen-canadian-stories-a-murder-trial-like-no-other",
     infoBlurb:
-      "Angelina Napolitano (1882-1932) était une immigrante au Canada qui a assassiné son mari violent en 1911, déclenchant un débat public sur la violence domestique et la peine de mort. Elle a été la première femme au Canada à utiliser la défense de la femme battue pour meurtre [4] ",
+      "Angelina Napolitano (1882-1932) était une immigrante au Canada qui a assassiné son mari violent en 1911, déclenchant un débat public sur la violence domestique et la peine de mort. Elle a été la première femme au Canada à utiliser la défense de la femme battue pour meurtre. ",
     imageUrl: "48.jpg",
   },
   {
@@ -367,7 +367,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/adelaide-hoodless",
     infoBlurb:
-      "Réformatrice de l'éducation et fondatrice du Women's Institute. Adelaide Hoodless a commencé sa vie publique avec la mort de son fils en 1889 après avoir bu du lait impur.",
+      "Réformatrice de l'éducation et fondatrice du Women's Institute. Adelaide Hoodless a commencé sa vie publique avec la mort de son fils en 1889 après avoir bu du lait impur. ",
     imageUrl: "57.jpg",
   },
   {
@@ -378,7 +378,7 @@ export const jsonData: IElement[] = [
     dates: "1987",
     urlLink: "https://www.cbc.ca/mediacentre/bio/ginella-massa",
     infoBlurb:
-      "Ginella Massa est une lauréate d'un prix Écrans canadiens, mieux connue comme la première journaliste télévisée canadienne portant le hijab, présentatrice locale et animatrice nationale. Elle est actuellement l'animatrice de CANADA TONIGHT WITH GINELLA MASSA diffusée en semaine sur CBC.",
+      "Ginella Massa est une lauréate d'un prix Écrans canadiens, mieux connue comme la première journaliste télévisée canadienne portant le hijab, présentatrice locale et animatrice nationale. Elle est actuellement l'animatrice de CANADA TONIGHT WITH GINELLA MASSA diffusée en semaine sur CBC. ",
     imageUrl: "72.jpg",
   },
   {
@@ -389,7 +389,7 @@ export const jsonData: IElement[] = [
     dates: "1823–1893",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/mary-ann-shadd",
     infoBlurb:
-      "Première rédactrice en chef de journal femme noire en Amérique du Nord. Mary Ann Shadd était une ardente défenseure de l'éducation universelle",
+      "Première rédactrice en chef de journal femme noire en Amérique du Nord. Mary Ann Shadd était une ardente défenseure de l'éducation universelle. ",
     imageUrl: "73.jpg",
   },
   {
@@ -400,7 +400,7 @@ export const jsonData: IElement[] = [
     dates: "1923–2007",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/bertha-wilson",
     infoBlurb:
-      "Première femme nominée à la Cour suprême du Canada. Née dans une famille ouvrière en Écosse",
+      "Première femme nominée à la Cour suprême du Canada. Née dans une famille ouvrière en Écosse. ",
     imageUrl: "74.jpg",
   },
   {
@@ -423,7 +423,7 @@ export const jsonData: IElement[] = [
     dates: "1884–1975",
     urlLink: "https://nscsw.org/jane-wisdom-halifax-explosion/",
     infoBlurb:
-      "L'une des premières travailleuses sociales professionnelles au Canada et la première directrice du Bureau des services sociaux à Halifax. Jane Wisdom a terminé sa formation initiale et ses études en travail social à New York parce qu'il n'y avait pas d'écoles de travail social au Canada. Elle est retournée à Halifax en 1916 pour diriger le nouveau Bureau des services sociaux. Elle déménage à Montréal en 1921 pour terminer ses études et donne des cours en travail social. Elle poursuit son travail à Montréal pendant dix-huit ans avant de retourner en Nouvelle-Écosse. En 1941, elle accepte un poste en tant que premier agent social de Glace Bay ",
+      "L'une des premières travailleuses sociales professionnelles au Canada et la première directrice du Bureau des services sociaux à Halifax. Jane Wisdom a terminé sa formation initiale et ses études en travail social à New York parce qu'il n'y avait pas d'écoles de travail social au Canada. Elle est retournée à Halifax en 1916 pour diriger le nouveau Bureau des services sociaux. Elle déménage à Montréal en 1921 pour terminer ses études et donne des cours en travail social. Elle poursuit son travail à Montréal pendant dix-huit ans avant de retourner en Nouvelle-Écosse. En 1941, elle accepte un poste en tant que premier agent social de Glace Bay. ",
     imageUrl: "76.jpg",
   },
   {
@@ -435,7 +435,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/tekakwitha-kateri",
     infoBlurb:
-      "Kateri Tekakwitha ou Tekaouïta (baptisée Catherine), connue sous le name de Lys des Mohawks, première aborigène nord-américain élevé à la sainteté.",
+      "Kateri Tekakwitha ou Tekaouïta (baptisée Catherine), connue sous le name de Lys des Mohawks, première aborigène nord-américain élevé à la sainteté. ",
     imageUrl: "77.jpg",
   },
   {
@@ -447,7 +447,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/flora-isabel-macdonald",
     infoBlurb:
-      "Femme politique et humanitaire canadienne, première femme ministre des Affaires étrangères et l'une des premières femmes à se disputer la direction d'un grand parti politique canadien (progressiste-conservateur). MacDonald a travaillé au quartier général progressiste-conservateur de 1956 à 1965 et a été secrétaire exécutive pendant un demi-siècle.",
+      "Femme politique et humanitaire canadienne, première femme ministre des Affaires étrangères et l'une des premières femmes à se disputer la direction d'un grand parti politique canadien (progressiste-conservateur). MacDonald a travaillé au quartier général progressiste-conservateur de 1956 à 1965 et a été secrétaire exécutive pendant un demi-siècle. ",
     imageUrl: "79.jpg",
   },
   {
@@ -481,7 +481,7 @@ export const jsonData: IElement[] = [
     dates: "1868 - 1933",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/emily-murphy",
     infoBlurb:
-      "surtout connue comme suffragiste, et en particulier pour son rôle dans la célèbre affaire personne. Lors de son premier jour en tant que magistrat, elle a été interpellée par un avocat; il a affirmé qu'en tant que femme, elle n'était pas une personne aux yeux du droit britannique . À l'époque, les femmes n'étaient pas incluses dans la définition des personnes en vertu de la Constitution. Cela a conduit Murphy à se lancer dans une campagne d'une décennie pour que les femmes soient déclarées personnes morales.",
+      "Lors de son premier jour en tant que magistrat, Murphy a été interpellée par un avocat qui a affirmé qu'en tant que femme, elle n'était pas une personne aux yeux du droit britannique . À l'époque, les femmes n'étaient pas incluses dans la définition des personnes en vertu de la Constitution. Cela a conduit Murphy à se lancer dans une campagne d'une décennie pour que les femmes soient déclarées personnes morales. ",
     imageUrl: "90.jpg",
   },
   {
@@ -493,7 +493,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/henrietta-louise-edwards",
     infoBlurb:
-      "Henrietta Edwards a rejoint la Woman's Christian Temperance Union (WCTU) et est également devenue vice-présidente de la section des Territoires du Nord-Ouest de la NCWC. C'est par le biais de la WCTU qu'Edwards s'est engagée dans des campagnes pour le suffrage des femmes et l'égalité des droits. À l'époque, la NCWC et la WCTU se sont toutes deux concentrées sur la réforme des prisons, les allocations financières pour les femmes et l'égalité des motifs de divorce. Cependant, la NCWC n'avait pas encore officiellement soutenu le suffrage des femmes. ",
+      "Henrietta Edwards a rejoint la Woman's Christian Temperance Union (WCTU) et est également devenue vice-présidente de la section des Territoires du Nord-Ouest de la NCWC. C'est par le biais de la WCTU qu'Edwards s'est engagée dans des campagnes pour le suffrage des femmes et l'égalité des droits. À l'époque, la NCWC et la WCTU se sont toutes deux concentrées sur la réforme des prisons, les allocations financières pour les femmes et l'égalité des motifs de divorce. Cependant, la NCWC n'avait pas encore officiellement soutenu le titre de suffrage des femmes. ",
     imageUrl: "104.jpg",
   },
   {
@@ -505,7 +505,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/louise-mckinney",
     infoBlurb:
-      "Politicienne canadienne et militante des droits des femmes de l'Alberta, Canada. Elle a été la première femme assermentée à l'Assemblée législative de l'Alberta et la première femme élue à une assemblée législative de l'Empire britannique. Elle a siégé à l'Assemblée législative de l'Alberta de 1917 à 1921 en tant que membre de la Ligue non partisane. Plus tard, elle a été l'une des cinq célèbres à avoir fait campagne avec succès pour le droit des Canadiennes à être namemées au Sénat. Ancienne institutrice et organisatrice de tempérance, elle est arrivée en Alberta en 1903 en tant que fermière. [",
+      "Politicienne canadienne et militante des droits des femmes de l'Alberta. McKinney a été la première femme assermentée à l'Assemblée législative de l'Alberta et la première femme élue à une assemblée législative de l'Empire britannique. Elle a siégé à l'Assemblée législative de l'Alberta de 1917 à 1921 en tant que membre de la Ligue non partisane. Plus tard, elle a été l'une des cinq célèbres à avoir fait campagne avec succès pour le droit des Canadiennes à être nominées au Sénat. Ancienne institutrice et organisatrice de tempérance, elle est arrivée en Alberta en 1903 en tant que fermière. ",
     imageUrl: "105.jpg",
   },
   {
@@ -517,7 +517,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/mary-irene-parlby",
     infoBlurb:
-      "Elle a été la première femme en Alberta, et la deuxième dans l'Empire britannique, à être namemée à un poste ministériel. L'une des cinq célèbres appelantes dans l'affaire personne, Parlby était une ardente défenseure des droits des femmes. Connue sous le name de Women's Ministre, sa carrière d'activisme et de législation a été consacrée à l'amélioration de la vie des femmes et des enfants des régions rurales, comme avec la Dower Act de l'Alberta en 1917.",
+      "Elle a été la première femme en Alberta, et la deuxième dans l'Empire britannique, à être nominée à un poste ministériel. L'une des cinq célèbres à avoir fait campagne avec succès pour le droit des Canadiennes, Parlby était une ardente défenseure des droits des femmes. Connue sous le nom Women's Minister, sa carrière d'activisme et de législation a été consacrée à l'amélioration de la vie des femmes et des enfants des régions rurales, comme avec la Dower Act de l'Alberta en 1917. ",
     imageUrl: "106.jpg",
   },
   {
@@ -528,7 +528,7 @@ export const jsonData: IElement[] = [
     dates: "1775-1868",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/laura-secord",
     infoBlurb:
-      "Héroïne, épouse et mère. En 1812, Laura Secord a courageusement sauvé son mari, James Secord, après qu'il ait été blessé à la bataille de Queenston Heights. Son mari était toujours en convalescence lorsque, l'été suivant, des soldats américains ont avancé dans la péninsule du Niagara. et étaient cantonnés à leur domicile. Le 21 juin 1813, Secord a entendu des officiers américains planifier une attaque. Elle aurait parcouru trente-deux kilomètres de terrain accidenté depuis son domicile de Queenston, dans le Haut-Canada (Ontario), pour avertir le lieutenant James FitzGibbon de l'attaque surprise de Beaver Dams. Faisant face à un danger imminent, elle a atteint FitzGibbon à temps pour qu'il prépare une embuscade, forçant le général américain et cinq cents soldats à se rendre. Secord n'a été reconnue pour son exploit héroïque qu'après sa mort . ",
+      "Héroïne, épouse et mère. En 1812, Laura Secord a courageusement sauvé son mari, James Secord, après qu'il ait été blessé à la bataille de Queenston Heights. Lorsque des soldats américains ont avancé dans la péninsule du Niagara et étaient cantonnés à leur domicile, Lle 21 juin 1813, Secord a entendu des officiers américains planifier une attaque. Elle aurait parcouru trente-deux kilomètres de terrain accidenté depuis son domicile de Queenston, dans le Haut-Canada (Ontario), pour avertir le lieutenant James FitzGibbon de l'attaque surprise de Beaver Dams. Faisant face à un danger imminent, elle a atteint FitzGibbon à temps pour qu'il prépare une embuscade, forçant le général américain et cinq cents soldats à se rendre. Secord n'a été reconnue pour son exploit héroïque qu'après sa mort. ",
     imageUrl: "107.jpg",
   },
   {
@@ -551,7 +551,7 @@ export const jsonData: IElement[] = [
     dates: "1878-1981",
     urlLink: "https://thecanadianencyclopedia.ca/fr/article/jennie-smillie",
     infoBlurb:
-      "Médecin canadien et première femme chirurgienne au Canada. Née Jane Smillie, près de Hensall, Ontario, elle est devenue enseignante jusqu'à ce qu'elle ait éconameisé suffisamment d'argent pour fréquenter le Ontario Medical College de Kingston en 1906 (intégré à la faculté de médecine de l'Université de Toronto).",
+      "Médecin canadienne et première femme chirurgienne au Canada. Née Jane Smillie, près de Hensall, Ontario, elle est devenue enseignante jusqu'à ce qu'elle ait économisé assez d'argent pour fréquenter le Collège Médicale d'Ontario à Kingston en 1906 (intégré à la faculté de médecine de l'Université de Toronto). ",
     imageUrl: "112.jpg",
   },
   {
@@ -563,7 +563,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.who.int/about/who_reform/emergency-capacities/oversight-committee/theresa-tam/en/",
     infoBlurb:
-      "La Dre Theresa Tam a été namemée administratrice en chef de la santé publique du Canada le 26 juin 2017. Elle est une médecin spécialisée dans l'immunisation, les maladies infectieuses, la préparation aux situations d'urgence et la sécurité sanitaire mondiale.",
+      "Dr. Theresa Tam a été nommée administratrice en chef de la santé publique du Canada le 26 juin 2017. Elle est une médecin spécialisée dans l'immunisation, les maladies infectieuses, la préparation aux situations d'urgence et la sécurité sanitaire mondiale. ",
     imageUrl: "5.jpg",
   },
   {
@@ -575,7 +575,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.canada.ca/en/department-justice/news/2020/05/g government-of-canada-announces-a-judicial-appointment-in-the-province-of-nova-scotia.html ",
     infoBlurb:
-      "La juge Diane Rowe a obtenu son diplôme de la Faculté de droit de l'Université du Nouveau-Brunswick en 1997. Elle a été admise au Barreau de la Nouvelle-Écosse en 1998 et au Barreau de Terre-Neuve-et-Labrador en 2001. Elle est profondément engagée envers la fonction publique, la justice et l'égalité. La juge Rowe s'est engagée dans un travail de plaidoyer bénévole au name des peuples autochtones, des droits à l'égalité, des demandeurs du statut de réfugié et de la communauté LGBTQ. Elle est anishinaabe bispirituelle. En tant qu'enfant des années 60, elle a été envoyée à Terre-Neuve. la famille et la communauté de son époux en tant que membre des Micmacs de la bande de Gesgapegiag, à Gespe'ge'wagi, le septième district des Mi'kma'ki. ",
+      "La juge Diane Rowe a obtenu son diplôme de la Faculté de droit de l'Université du Nouveau-Brunswick en 1997. Elle a été admise au Barreau de la Nouvelle-Écosse en 1998 et au Barreau de Terre-Neuve-et-Labrador en 2001. Elle est profondément engagée envers la fonction publique, la justice et l'égalité. La juge Rowe s'est aussi engagée dans un travail de bénévole afin de representée des peuples autochtones, des droits à l'égalité, des demandeurs du statut de réfugié et de la communauté LGBTQ. Elle est anishinaabe bispirituelle et la communauté de son époux est membre des Micmacs de la bande de Gesgapegiag, à Gespe'ge'wagi, le septième district des Mi'kma'ki. ",
     imageUrl: "14.jpg",
   },
   {
@@ -586,7 +586,7 @@ export const jsonData: IElement[] = [
     dates: "1924–1980",
     urlLink: "https://www.celinacc.ca/about/",
     infoBlurb:
-      "Celina Caesar-Chavannes est consultante en affaires, coach, conférencière internationale et auteure à succès. Elle est actuellement conseillère principale pour l'équité, la diversité, les initiatives d'inclusion et chargée de cours associée à l'Université Queen's. Celina était l'ancienne députée, avec le government du Canada, représentant la ville de Whitby, une banlieue à l'est de Toronto, et a été secrétaire parlementaire du premier ministre Justin Trudeau de décembre 2015 à janvier 2017 et a été secrétaire parlementaire du ministre du Développement international et de la Francophonie de Janvier 2017 à août 2018. ",
+      "Celina Caesar-Chavannes est consultante en affaires, entraîneuse, conférencière internationale et auteure à succès. Elle est actuellement conseillère principale pour l'équité, la diversité, les initiatives d'inclusion et chargée de cours associée à l'Université Queen's. Celina était l'ancienne députée, avec le government du Canada, représentant la ville de Whitby, une banlieue à l'est de Toronto, et a été secrétaire parlementaire du premier ministre Justin Trudeau de décembre 2015 à janvier 2017 et a été secrétaire parlementaire du ministre du Développement international et de la Francophonie de Janvier 2017 à août 2018. ",
     imageUrl: "32.jpg",
   },
   {
@@ -598,7 +598,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/cairine-reay-wilson",
     infoBlurb:
-      "Première femme sénateur au Canada. Wilson a déménagé avec sa famille à Ottawa en 1918, où elle a aidé à fonder l'Association libérale du vingtième siècle et la Fédération nationale des femmes libérales du Canada. mois après le jugement de l'affaire \"personne\". ",
+      "Comme première femme sénateur au Canada, Wilson a déménagé avec sa famille à Ottawa en 1918, où elle a aidé à fonder l'Association libérale du vingtième siècle et la Fédération nationale des femmes libérales du Canada. ",
     imageUrl: "33.jpg",
   },
   {
@@ -609,7 +609,7 @@ export const jsonData: IElement[] = [
     dates: "1890–1954",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/agnes-macphail",
     infoBlurb:
-      "Première femme élue à la Chambre des communes. Agnes Macphail est née dans les régions rurales de l'Ontario. Tout en travaillant comme jeune institutrice, elle s'est impliquée dans des mouvements politiques progressistes",
+      "Comme première femme élue à la Chambre des communes, Agnes Macphail, née dans les régions rurales de l'Ontario, a travaillé comme jeune institutrice, et s'est impliquée dans des mouvements politiques progressistes. ",
     imageUrl: "51.jpg",
   },
   {
@@ -621,7 +621,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.chatelaine.com/living/women-of-the-year-2017/image/12/#gallery/woty-2017/slide-12",
     infoBlurb:
-      "Le premier maire trans de l'histoire du Canada: le grand enjeu électoral dans le petit village de Très-Saint-Rédempteur, au Québec, était de savoir si les résidents pouvaient garder des poulets de basse-cour, et non si cela importait que la candidate à la mairie Julie Lemieux soit née femme ou homme. La femme trans, qui était conseillère dans la municipalité historiquement catholique de l'ouest du Québec depuis 2013, a gagné avec 48% des voix. Puis elle s'est mise au travail en veillant à ce que ses voisins puissent garder leurs propres coqs et poules. . ",
+      "Le premier maire trans de l'histoire du Canada: le grand enjeu électoral dans le petit village de Très-Saint-Rédempteur, au Québec, était de savoir si les résidents pouvaient garder des poulets de basse-cour, et non si cela importait que la candidate à la mairie Julie Lemieux soit née femme ou homme. La femme trans, qui était conseillère dans la municipalité catholique de l'ouest du Québec depuis 2013, a gagné avec 48% des voix. Puis elle s'est mise au travail en veillant à ce que ses voisins puissent garder leurs propres coqs et poules. ",
     imageUrl: "52.jpg",
   },
   {
@@ -633,7 +633,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://trnto.com/torontos-most-inspiring-women-of-2020-tracy-moore/",
     infoBlurb:
-      "Tracy Moore est l'hôte de Cityline depuis 2008 et est la première femme noire à animer une émission nationale de jour au Canada. Cette année, elle a également lancé le podcast #CitylineRealonRace qui présentait des voix de premier plan sur les vies trans noires, l'expérience queer noire, blanc privilège, activisme noir, brutalité policière, résistance noire, misogynoir et microagressions d'un point de vue canadien. Journaliste de télévision canadienne et animatrice du magazine de style de vie Cityline on City depuis octobre 2008. [1] Elle a auparavant été présentatrice de nouvelles sur la télévision Breakfast de Citytv Toronto à partir de 2005 à 2008. [1] Elle remplace Dina Pugliese en tant que co-animatrice sur Breakfast Television sur une base peu fréquente. ",
+      "Tracy Moore est l'hôte de Cityline depuis 2008 et est la première femme noire à animer une émission nationale de jour au Canada. Cette année, elle a également lancé le podcast #CitylineRealonRace qui présentait des voix de premier plan sur les vies trans noires, l'expérience queer noire, le privilège blanc, l'activisme noir, la brutalité policière, la résistance noire, et les microagressions d'un point de vue canadienne. Elle a commencé sa carrière comme présentatrice de nouvelles sur la télévision Breakfast de Citytv Toronto à partir de 2005 à 2008. ",
     imageUrl: "56.jpg",
   },
   {
@@ -644,7 +644,7 @@ export const jsonData: IElement[] = [
     dates: "1943",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/joni-mitchell",
     infoBlurb:
-      "Joni Mitchell, comme elle se namemera plus tard, s'est tournée vers la musique dès son plus jeune âge. À 7 ans, elle a commencé à étudier le piano classique, mais comme tous les jeunes esprits curieux, son intérêt s'est tourné un an et demi plus tard vers le dessin, une passion qu'elle toujours Dans les mois qui ont suivi, Mitchell, qui avait déménagé avec sa famille à Saskatoon, en Saskatchewan, a contracté la polio. ",
+      "Joni Mitchell s'est tournée vers la musique dès l'âge de 7 ans, ou elle a commencé à étudier le piano classique, mais comme tous les jeunes esprits curieux, son intérêt s'est tourné un an et demi plus tard vers le dessin. ",
     imageUrl: "2.jpg",
   },
   {
@@ -655,7 +655,7 @@ export const jsonData: IElement[] = [
     dates: "1965",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/shania-twain",
     infoBlurb:
-      "Reine de la pop country, Shania Twain est passée de haillons en richesses pour devenir l'artiste country féminine la plus vendue de tous les temps. Portée par des paroles impertinentes, une image sexy et des valeurs de production raffinées, ses enregistrements à succès de 1995 à 2004 ont défié conventions de musique country, battant de numberux records de ventes et faisant d'elle une superstar internationale. ",
+      "Reine de la pop country, Shania Twain est passée de haillons en richesses pour devenir l'artiste country féminine le plus populaire de tous les temps. Portée par des paroles impertinentes, une image sexy et des valeurs de production raffinées, ses enregistrements à succès de 1995 à 2004 ont défié les conventions de musique country, battant de nomberux records de ventes et devenant une superstar internationale. ",
     imageUrl: "10.jpg",
   },
   {
@@ -667,7 +667,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/alanis-morissette",
     infoBlurb:
-      "Lanis Morissette est l'une des auteurs-compositeurs-interprètes les plus reconnus et les plus acclamés au Canada. Elle s'est imposée comme une pop star adolescente lauréate d'un prix Juno au Canada avant d'adopter un son rock alternatif avant-gardiste. Elle a explosé sur la scène mondiale avec ses débuts internationaux record. , Jagged Little Pill (1995). Il s'est vendu à plus de 16 millions d'exemplaires aux États-Unis et à 33 millions dans le monde. ",
+      "Alanis Morissette est l'une des auteures-compositrices-interprètes les plus reconnus et les plus acclamés au Canada. Elle s'est imposée comme une pop star adolescente en devenant lauréate d'un prix Juno au Canada avant d'adopter un son rock alternatif avant-gardiste. Elle a explosé sur la scène mondiale avec sa première album international, Jagged Little Pill (1995); où elle s'est vendu à plus de 16 millions d'exemplaires aux États-Unis et 33 millions dans le monde. ",
     imageUrl: "18.jpg",
   },
   {
@@ -679,7 +679,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/celine-dion-emc",
     infoBlurb:
-      "Dernière de 14 enfants (la plupart actifs dans le show business), elle a chanté les chansons de Ginette Reno à sept ans au restaurant de ses parents. Sa mère a écrit sa première chanson, 'Ce n'était qu'un rêve', et envoie un enregistrement à René Angélil, puis à l'imprésario de Ginette Reno. Impressionné, Angélil (né en 1942) charge le parolier français Eddy Marnay d'écrire \"La Voix du Bon Dieu\" et supervise l'enregistrement du premier single de Céline Dion. Angélil devient le premier et seul gestionnaire. ",
+      "Dernière de 14 enfants (la plupart actifs dans le show business), Dion a chanté les chansons de Ginette Reno à sept ans au restaurant de ses parents. Sa mère a écrit sa première chanson, 'Ce n'était qu'un rêve', et envoie un enregistrement à René Angélil, puis à l'imprésario de Ginette Reno. Impressionné, Angélil (né en 1942) charge le parolier français Eddy Marnay d'écrire \"La Voix du Bon Dieu\" et supervise l'enregistrement du premier single de Céline Dion. Angélil devient le premier et seul gestionnaire. ",
     imageUrl: "36.jpg",
   },
   {
@@ -690,7 +690,7 @@ export const jsonData: IElement[] = [
     dates: "1961",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/kd-lang-emc",
     infoBlurb:
-      'Auteur-compositeur-interprète canadien de pop et de country et actrice occasionnelle. Lang a remporté des Juno Awards et des Grammy Awards pour ses performances musicales. Les succès incluent les chansons "Constant Craving" et "Miss Châtelaine". ',
+      'Auteure-compositrice-interprète canadien de pop et de country et actrice occasionnelle. Lang a remporté des lauéate de Juno et de Grammy pour ses performances musicales. Les succès incluent les chansons "Constant Craving" et "Miss Châtelaine". ',
     imageUrl: "54.jpg",
   },
   {
@@ -701,7 +701,7 @@ export const jsonData: IElement[] = [
     dates: "1980",
     urlLink: "https://www.teganandsarafoundation.org/about",
     infoBlurb:
-      "Sœurs jumelles nées au Canada, Tegan et Sara ont vendu plus d'un million d'albums et ont reçu sept certifications Or, une certification Double Platine, trois prix Juno, deux nameinations pour le prix Polaris et une nameination aux Grammy. les plus grandes scènes du monde, de l'Oscar Telecast 2015 aux grands festivals tels que Coachella, Lollapalooza et Glastonbury. ",
+      "Sœurs jumelles nées au Canada, Tegan et Sara ont vendu plus d'un million d'albums et ont reçu sept certifications d'Or, une certification Double Platine, trois prix Juno, deux nominations pour le prix Polaris et une nomination  Grammy. Tegan et Sara ont aussi performés pour les plus grandes grands festivals de musique au monde tels que Coachella, Lollapalooza et Glastonbury. ",
     imageUrl: "86.jpg",
   },
   {
@@ -724,7 +724,7 @@ export const jsonData: IElement[] = [
     dates: "1957",
     urlLink: "https://afuacooper.com/about/",
     infoBlurb:
-      "Poète, interprète, universitaire, historienne et commentatrice sociale et culturelle, l'expertise et les contributions de la Dre Afua Cooper aux arts, à l'histoire et à l'éducation ont été reconnues lorsqu'elle a reçu en 2015 le Prix des droits de la personne de la Nouvelle-Écosse de la Nouvelle-Écosse. Commission Scotia des droits de la personne. ",
+      "Poétesse, interprète, historienne et commentatrice sociale et culturelle, l'expertise et les contributions de Dr. Afua Cooper aux arts, à l'histoire et à l'éducation ont été reconnues lorsqu'elle a reçu, en 2015, le Prix des droits de la personne de la Nouvelle-Écosse. ",
     imageUrl: "9.jpg",
   },
   {
@@ -736,7 +736,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/pk-patricia-kathleen-page",
     infoBlurb:
-      "Elle a fait ses études à Calgary et à Winnipeg et a ensuite étudié l'art au Brésil et à New York. À la fin des années 1930, elle a vécu brièvement à Saint John, au Nouveau-Brunswick; au début des années 1940, elle a déménagé à Montréal et a travaillé comme classeuse et chercheuse historique. elle faisait partie du groupe qui a fondé la revue Preview (1942-45); ses poèmes sont apparus pour la première fois dans des périodiques et dans Unit of Five (éd. Ronald Hambleton, 1942). ",
+      "Page a fait ses études à Calgary et à Winnipeg et a ensuite étudié l'art au Brésil et à New York. À la fin des années 1930, elle a vécu brièvement à Saint John, au Nouveau-Brunswick; au début des années 1940, elle a déménagé à Montréal et a travaillé comme classeuse et chercheuse historique. Elle faisait partie du groupe qui a fondé la revue Preview (1942-45); ses poèmes sont apparus pour la première fois dans des périodiques et dans Unit of Five (éd. Ronald Hambleton, 1942). ",
     imageUrl: "17.jpg",
   },
   {
@@ -748,7 +748,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/dorothy-livesay",
     infoBlurb:
-      "Écrivain de journalisme, de fiction courte, d'autobiographie et de critique littéraire, Livesay est surtout connue comme une poète forte et sensible traitant aussi bien des questions publiques et politiques que de l'émotion et de la réflexion personnelles et intimes. et des années productives dans les années 1970 et 1980. Sa mère, Florence Randal Livesay, journaliste, poète et traductrice, et son père, JFB Livesay, directeur général de la Presse canadienne, ont encouragé ses efforts littéraires dès sa première publication, Green Pitcher (1928). ",
+      "Écrivaine de journalisme, de fiction courte, d'autobiographie et de critique littéraire, Livesay est surtout connue comme une poétesse forte et sensible traitant aussi bien des questions publiques et politiques que de l'émotion et de la réflexion personnelles et intimes. Son père, JFB Livesay, directeur général de la Presse canadienne, a encouragé ses efforts littéraires dès sa première publication, Green Pitcher (1928). ",
     imageUrl: "35.jpg",
   },
   {
@@ -760,7 +760,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/pauline-johnson",
     infoBlurb:
-      "Poète et oratrice. Pauline Johnson (Tekahionwake) est surtout connue pour sa poésie célébrant son héritage aborigène. La fille de George Johnson",
+      "poétesse et oratrice, Pauline Johnson (Tekahionwake) est surtout connue pour sa poésie célébrant son héritage aborigène. Elle est aussi la fille de George Johnson. ",
     imageUrl: "53.jpg",
   },
   {
@@ -771,7 +771,7 @@ export const jsonData: IElement[] = [
     dates: "1992",
     urlLink: "https://rupikaur.com/about-me/",
     infoBlurb:
-      "En tant qu'étudiante universitaire de 21 ans, Rupi a écrit, illustré et auto-publié son premier recueil de poésie, lait et miel. Viennent ensuite son frère artistique, le soleil et ses fleurs. Ces recueils se sont vendus à plus de 8 millions d'exemplaires et ont été traduit dans plus de 42 langues. Son livre le plus récent, home body, a fait ses débuts au premier rang des meilleures ventes à travers le monde. Le travail de Rupi aborde l'amour, la perte, les traumatismes, la guérison, la féminité et la migration. exécutant sa poésie sur scène. ",
+      "En tant qu'étudiante universitaire de 21 ans, Rupi a écrit, illustré et auto-publié son premier recueil de poésie, lait et miel. Viennent ensuite son frère artistique, le soleil et ses fleurs. Ces recueils se sont vendus à plus de 8 millions d'exemplaires et ont été traduit dans plus de 42 langues. Son livre le plus récent, home body, a fait ses débuts au premier rang des meilleures ventes à travers le monde. Le travail de Rupi aborde l'amour, la perte, les traumatismes, la guérison, la féminité et la migration, tout en exécutant sa poésie sur scène. ",
     imageUrl: "85.jpg",
   },
   {
@@ -782,7 +782,7 @@ export const jsonData: IElement[] = [
     dates: "1963",
     urlLink: "https://www.maydianne.com/",
     infoBlurb:
-      "Maydianne Andrade est une écologiste canadienne d'origine jamaïcaine. Elle est connue pour ses travaux sur les habitudes d'accouplement des araignées, en particulier des araignées appartenant à l'espèce Latrodectus. En 2005, elle a été namemée l'une des Brilliant 10 par le magazine Popular Science. En 2007, elle a été namemée titulaire d'une chaire de recherche canadienne en écologie comportementale intégrative. Son travail le plus connu porte sur les habitudes d'accouplement des araignées rouges australiennes, où les mâles les plus prospères augmentent souvent le temps qu'ils passent à s'accoupler tout en étant cannibalisés par des femelles à dos rouge. Elle est apparue dans le deuxième épisode de la saison 4 de Nova ScienceNow. En 2020, elle a participé et présenté un épisode de The Nature of Things de CBC avec David Suzuki sur les récentes découvertes dans les schistes de Burgess, intitulé \"First Animals\", et a été interviewée pour Quirks",
+      "Maydianne Andrade est une écologiste canadienne d'origine jamaïcaine. Elle est connue pour ses travaux sur les habitudes d'accouplement des araignées, en particulier des araignées appartenant à l'espèce Latrodectus. En 2005, elle a été nommée l'une des Brilliant 10 par le magazine Popular Science. En 2007, elle a été nommée titulaire d'une chaire de recherche canadienne en écologie comportementale intégrative. Son travail le plus connu porte sur les habitudes d'accouplement des araignées rouges australiennes, où les mâles les plus prospères augmentent souvent le temps qu'ils passent à s'accoupler tout en étant cannibalisés par des femelles à dos rouge. Elle est apparue dans le deuxième épisode de la saison 4 de Nova Science Now. En 2020, elle a participé et présenté un épisode de The Nature of Things de CBC avec David Suzuki sur les récentes découvertes dans les schistes de Burgess, intitulé \"First Animals\", et a été interviewée pour Quirks. ",
     imageUrl: "21.jpg",
   },
   {
@@ -794,7 +794,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://web.archive.org/web/20131216035207/http://drjoanneliu.com/about",
     infoBlurb:
-      "Liu est urgentologue pédiatrique au Centre hospitalier universitaire Sainte-Justine à Montréal, accompagnant 25 à 50 patients par quart de travail ainsi que professeur agrégé à l'Université de Montréal. Mais si cela ne suffisait pas à vous épater, Liu est en cours depuis 24 ans avec Médecins Sans Frontières, une organisation à but non lucratif basée en France. Le Star a précédemment rapporté que depuis sa première mission sur le terrain, Liu a effectué plus de 20 missions dans 16 pays. travaillé dans des camps de réfugiés somaliens au Kenya, créé un programme de traitement des victimes de viol en République démocratique du Congo, soigné des survivants du tsunami en Indonésie en 2004 et aidé des victimes dévastées du tremblement de terre et du choléra en Haïti. En 2013, Liu a été élu président de MSF . ",
+      "Liu est urgentologue pédiatrique au Centre hospitalier universitaire Sainte-Justine à Montréal, accompagnant 25 à 50 patients par quart de travail ainsi que professeur agrégé à l'Université de Montréal. Mais si cela ne suffisait pas à vous épater, Liu est en cours depuis 24 ans avec Médecins Sans Frontières, une organisation à but non lucratif basée en France. Elle a travaillé dans des camps de réfugiés somaliens au Kenya, créé un programme de traitement des victimes de viol en République démocratique du Congo, soigné des survivants du tsunami en Indonésie en 2004 et aidé des victimes dévastées du tremblement de terre et du choléra en Haïti. En 2013, Liu a été élu président de MSF. ",
     imageUrl: "22.jpg",
   },
   {
@@ -806,7 +806,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/ursula-franklin",
     infoBlurb:
-      "Franklin était une métallurgiste, physicienne et survivante de l'Holocauste germano-canadienne. Au cours de sa vie, Franklin a accumulé des honneurs, notamment l'Ordre du Canada en 1982 et la Médaille de la paix Pearson en 2002. En 1967, elle est devenue la première femme professeur à se joindre à nous. Département de métallurgie et des sciences des matériaux de l'Université de Toronto. En 1984, elle est devenue la première femme à être namemée professeur d'université à l'Université de Toronto, la plus haute distinction de l'institution. Elle a pris sa retraite en 1989, mais a continué de se battre pour l'égalité. En 2001, elle et trois autres personnes ont pris leur retraite Les professeurs ont intenté un recours collectif contre l'U de T, alléguant que l'établissement avait payé les femmes moins que les hommes pendant des décennies. Le règlement a permis à une soixantaine de professeures à la retraite de recevoir une compensation. Franklin est décédé en 2016 à l'âge de 94 ans à Toronto. ",
+      "Franklin était une métallurgiste, physicienne et survivante de l'Holocauste germano-canadienne. Au cours de sa vie, Franklin a accumulé des honneurs, notamment l'Ordre du Canada en 1982 et la Médaille de la paix Pearson en 2002. En 1967, elle est devenue la première femme professeur à se joindre le Département de métallurgie et des sciences des matériaux de l'Université de Toronto. En 1984, elle est devenue la première femme à être nommée professeur d'université à l'Université de Toronto, la plus haute distinction de l'institution. Elle a pris sa retraite en 1989, mais a continué de se battre pour l'égalité. En 2001, elle et trois autres personnes ont pris leur retraite et poursuivi un recours collectif contre l'Université de Toronto, alléguant que l'établissement avait payé les femmes moins que les hommes pendant des décennies. Le règlement a permis à une soixantaine de professeures à la retraite de recevoir une compensation. Franklin est décédé en 2016 à l'âge de 94 ans à Toronto. ",
     imageUrl: "23.jpg",
   },
   {
@@ -817,7 +817,7 @@ export const jsonData: IElement[] = [
     dates: "1945",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/roberta-bondar",
     infoBlurb:
-      "Bondar a été la deuxième Canadienne à voyager dans l'espace après Marc Garneau et la première femme canadienne et neurologue dans l'espace. Elle est devenue plus tard chef d'une équipe internationale de médecine spatiale travaillant avec la NASA pour étudier comment la physiologie humaine change pendant les vols spatiaux et pendant les vols spatiaux. Son équipe a publié un certain number d'articles au cours des 10 prochaines années et a découvert comment leurs recherches pourraient être appliquées aux maladies ici sur Terre. Elle a été chancelière de l'Université Trent pendant six ans et a créé une fondation éducative en son name. temps, Bondar est aussi un photographe renamemé. ",
+      "Bondar a été la deuxième Canadienne à voyager dans l'espace après Marc Garneau et la première femme canadienne et neurologue dans l'espace. Elle est devenue plus tard chef d'une équipe internationale de médecine spatiale travaillant avec la NASA pour étudier comment la physiologie humaine change pendant les vols spatiaux. Son équipe a publié un plusieurs articles au cours des 10 prochaines années et leurs découvertes de recherches sont maintenant appliquées aux maladies ici sur Terre. Elle a été chancelière de l'Université Trent pendant six ans et a créé une fondation éducative en son name; Bondar est aussi une photographe renommé. ",
     imageUrl: "24.jpg",
   },
   {
@@ -829,7 +829,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/donna-strickland",
     infoBlurb:
-      "Strickland est la troisième femme à remporter un prix Nobel de physique, la deuxième Canadienne à en remporter un. Le prix était pour le développement de la\" technique d'amplification des impulsions pulsées \", décrite par l'académie comme \" générant des optiques ultracourtes de haute intensité. impulsions. \" La technique a maintenant de vastes applications, y compris une utilisation dans la chirurgie oculaire corrective au laser. Strickland est professeur à l'Université de Waterloo et en 2018 a été répertoriée comme l'une des 100 femmes de la BBC. Dans une précédente interview avec le Star, Strickland a réfléchi à sa position en tant que une femme scientifique - étant la première à remporter le prix en 55 ans. Elle a dit qu'elle a cité Goeppert-Mayer dans sa thèse et a indiqué que la scientifique qui a remporté le prix il y a des décennies n'était pas payée pour la plupart de son travail. ",
+      "Strickland est la troisième femme à remporter un prix Nobel de physique et la deuxième Canadienne. Le prix était pour le développement de la\" technique d'amplification des impulsions pulsées \", décrite par l'académie comme \" générant des optiques ultracourtes de haute intensité. \" La technique a maintenant de vastes applications, y compris une utilisation dans la chirurgie oculaire corrective au laser. Strickland est professeur à l'Université de Waterloo et en 2018 a été répertoriée comme l'une des 100 femmes de la BBC. Dans une entrevue avec le Star, Strickland a réfléchi à sa position en tant que femme scientifique - étant la première à remporter le prix en 55 ans. Elle a dit qu'elle a cité Goeppert-Mayer dans sa thèse et a indiqué que la scientifique qui a remporté le prix il y a des décennies n'était pas payée pour la plupart de son travail. ",
     imageUrl: "25.jpg",
   },
   {
@@ -840,7 +840,7 @@ export const jsonData: IElement[] = [
     dates: "---",
     urlLink: "https://www.eugeniaduodu.com/",
     infoBlurb:
-      "Duodu est chimiste et PDG de Visions of Science Network for Learning (VoSNL), une organisation caritative qui vise à faire progresser le développement des jeunes issus de communautés à faible revenu et marginalisées grâce à un engagement significatif dans les sciences, la technologie, l'ingénierie et les mathématiques (STEM). VoSNL travaille avec Toronto Community Housing (TCH) et Peel Housing Corporation dans 24 endroits à Toronto, Mississauga et Brampton, au service de plus de 500 jeunes de la 3e à la 12e année. Lors d'une précédente entrevue avec le Star, elle a déclaré: \"Je avoir ce sens profond du but d'élever et de responsabiliser ceux qui m'entourent, en particulier les jeunes. Je veux que mon héritage soit la vie affectée / changée en raison de ma présence et de mon travail.\" Duodu est le récipiendaire du prix Harry Jerome CIBC Academics Award de la Black Business and Professional Association (BBPA) ainsi que du Adel S. Sedra Distinguished Graduate Award.",
+      "Duodu est chimiste et PDG de Visions of Science Network for Learning (VoSNL), une organisation caritative qui vise à faire progresser le développement des jeunes de communautés à faible revenu et marginalisées grâce à un engagement significatif dans les sciences, la technologie, l'ingénierie et les mathématiques (STIM). VoSNL travaille avec Toronto Community Housing (TCH) et Peel Housing Corporation dans 24 endroits à Toronto, Mississauga et Brampton, au service de plus de 500 jeunes de la 3e à la 12e année. Lors d'une entrevue avec le Star, elle a déclaré: \"J'ai un sens profond du but d'élever et de responsabiliser ceux qui m'entourent, en particulier les jeunes. Je veux que mon héritage soit la vie affectée / changée en raison de ma présence et de mon travail.\" Duodu est le récipiendaire du prix Harry Jerome CIBC Academics Award du Black Business and Professional Association (BBPA) ainsi que du Adel S. Sedra Distinguished Graduate Award.",
     imageUrl: "26.jpg",
   },
   {
@@ -851,7 +851,7 @@ export const jsonData: IElement[] = [
     dates: "1842-1913",
     urlLink: "https://www.thecanadianencyclopedia.ca/fr/article/amelia-yeomans",
     infoBlurb:
-      "Amelia Yeomans (née LeSueur), médecin, réformatrice sociale et politique, défenseur de la tempérance, suffragiste et oratrice (née le 29 mars 1842 à Québec, Canada-Est; décédée le 22 avril 1913 à Calgary, AB). Les Yeomans ont exercé dans le domaine en plein essor de médecine sociale, où les conditions sociales et éconameiques sont considérées comme ayant un impact sur la santé. Elle n'avait pas peur de faire connaître son travail et ses découvertes, éclairant les recoins les plus sombres de la vie, où la stigmatisation sociale et la honte empêchaient les gens de s'aventurer. ",
+      "Amelia Yeomans (née LeSueur), médecin, réformatrice sociale et politique, défenseur de la tempérance, suffragiste et oratrice. Yeomans a exercé dans le domaine en plein essor de médecine sociale, où les conditions sociales et économiques sont considérées comme ayant un impact sur la santé. Elle n'avait pas peur de faire connaître son travail et ses découvertes, éclairant les recoins les plus sombres de la vie, où la stigmatisation sociale et la honte empêchaient les gens de s'aventurer. ",
     imageUrl: "27.jpg",
   },
   {
@@ -863,7 +863,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/fr/article/jane-isabel-jacobs",
     infoBlurb:
-      "Jacobs a acquis une renamemée pour ses livres, à commencer par La mort et la vie des grandes villes américaines (1961). Dans ses écrits, Jacobs a utilisé des techniques d’exposition innovantes, y compris des dialogues, pour expliquer le fonctionnement des éconameies et des villes et pour analyser les conditions qui leur permettent de prospérer.",
+      "Jacobs est renommée pour ses livres, en particuliee La mort et la vie des grandes villes américaines (1961). Dans ses écrits, Jacobs a utilisé des techniques d’exposition innovantes pour expliquer le fonctionnement des économies et des villes pour analyser les conditions qui leur permettent de prospérer.",
     imageUrl: "28.jpg",
   },
   {

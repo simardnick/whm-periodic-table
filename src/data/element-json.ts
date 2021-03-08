@@ -505,7 +505,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/en/article/louise-mckinney",
     infoBlurb:
-      "Canadian politician and women's rights activist from Alberta, Canada. She was the first woman sworn into the Legislative Assembly of Alberta and the first woman elected to a legislature in the British Empire. She served in the Alberta legislature from 1917 to 1921 as a member of the Non-Partisan League. Later she was one of the Famous Five who campaigned successfully for the right of Canadian women to be appointed to the Senate. A former schoolteacher and temperance organizer, she came to Alberta in 1903 as a homesteader.[",
+      "Canadian politician and women's rights activist from Alberta, Canada. She was the first woman sworn into the Legislative Assembly of Alberta and the first woman elected to a legislature in the British Empire. She served in the Alberta legislature from 1917 to 1921 as a member of the Non-Partisan League. Later she was one of the Famous Five who campaigned successfully for the right of Canadian women to be appointed to the Senate. A former schoolteacher and temperance organizer, she came to Alberta in 1903 as a homesteader.",
     imageUrl: "105.jpg",
   },
   {
@@ -609,7 +609,7 @@ export const jsonData: IElement[] = [
     dates: "1890–1954",
     urlLink: "https://www.thecanadianencyclopedia.ca/en/article/agnes-macphail",
     infoBlurb:
-      "First woman elected to the House of Commons. Agnes Macphail was born in rural Ontario. While working as a young schoolteacher she became involved with progressive political movements",
+      "First woman elected to the House of Commons. Agnes Macphail was born in rural Ontario. While working as a young schoolteacher she became involved with progressive political movements.",
     imageUrl: "51.jpg",
   },
   {
@@ -667,7 +667,7 @@ export const jsonData: IElement[] = [
     urlLink:
       "https://www.thecanadianencyclopedia.ca/en/article/alanis-morissette",
     infoBlurb:
-      "lanis Morissette is one of Canada’s most recognized and internationally acclaimed singer-songwriters. She established herself as a Juno-winning teen pop star in Canada before adopting an edgy alternative rock sound. She exploded onto the world stage with her record-breaking international debut, Jagged Little Pill (1995). It sold more than 16 million copies in the United States and 33 million worldwide.",
+      "Alanis Morissette is one of Canada’s most recognized and internationally acclaimed singer-songwriters. She established herself as a Juno-winning teen pop star in Canada before adopting an edgy alternative rock sound. She exploded onto the world stage with her record-breaking international debut, Jagged Little Pill (1995). It sold more than 16 million copies in the United States and 33 million worldwide.",
     imageUrl: "18.jpg",
   },
   {
