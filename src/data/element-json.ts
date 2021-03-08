@@ -583,7 +583,7 @@ export const jsonData: IElement[] = [
     category: "government",
     id: "Cc",
     name: "Celina Caesar-Chavannes",
-    dates: "1924–1980",
+    dates: "1974",
     urlLink: "https://www.celinacc.ca/about/",
     infoBlurb:
       "Celina Caesar-Chavannes is a business consultant, coach, international speaker and best-selling author. She currently serves as the Sr. Advisor of Equity, Diversity, Inclusion Initiatives and Adjunct Lecturer at Queen’s University. Celina was the former Member of Parliament, with the Government of Canada, representing the Town of Whitby, a suburb east of Toronto, and served as Parliamentary Secretary to Prime Minister Justin Trudeau from December 2015 to January 2017 and served as the Parliamentary Secretary to the Minister of International Development et la Francophonie from January 2017 to August 2018.",

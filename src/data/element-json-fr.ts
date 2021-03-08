@@ -583,7 +583,7 @@ export const jsonData: IElement[] = [
     category: "government",
     id: "Cc",
     name: "Celina Caesar-Chavannes",
-    dates: "1924–1980",
+    dates: "1974",
     urlLink: "https://www.celinacc.ca/about/",
     infoBlurb:
       "Celina Caesar-Chavannes est consultante en affaires, entraîneuse, conférencière internationale et auteure à succès. Elle est actuellement conseillère principale pour l'équité, la diversité, les initiatives d'inclusion et chargée de cours associée à l'Université Queen's. Celina était l'ancienne députée, avec le government du Canada, représentant la ville de Whitby, une banlieue à l'est de Toronto, et a été secrétaire parlementaire du premier ministre Justin Trudeau de décembre 2015 à janvier 2017 et a été secrétaire parlementaire du ministre du Développement international et de la Francophonie de Janvier 2017 à août 2018. ",
