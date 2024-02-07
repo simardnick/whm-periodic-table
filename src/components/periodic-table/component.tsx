@@ -36,7 +36,6 @@ export const PeriodicTable = ({
     }
   };
   const dataToDisplay = isFrench ? frJsonData : jsonData;
-  console.log(dataToDisplay.map((d) => d.infoBlurb));
   const sortedData = dataToDisplay.sort(
     (a, b) => parseInt(a.number) - parseInt(b.number)
   );
