@@ -94,7 +94,7 @@ function App() {
           <MenuItem
             onClick={() => {
               handleClose();
-              window.open("https://cbhtable.com/", "_blank");
+              window.open("https://cbhtable.netlify.app/", "_blank");
             }}
           >
             CBH Table
